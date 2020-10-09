@@ -8,20 +8,20 @@ Each folder in this repo represents one of those "profiles".
 
 I launch each profile using an alias that I create in my `.zshrc`.
 
-For example, this repo lives in `~/dev/jdej/code_profiles` and the command to launch my `personal` settings is:
+For example, this repo lives in `~/dev/jdej/vscode-profiles` and the command to launch my `personal` settings is:
 
 ```sh
-code --extensions-dir $HOME/dev/jdej/code_profiles/jdej/exts --user-data-dir $HOME/dev/jdej/code_profiles/jdej/data
+code --extensions-dir $HOME/dev/jdej/vscode-profiles/jdej/exts --user-data-dir $HOME/dev/jdej/vscode-profiles/jdej/data
 ```
 
 The alias in my `.zshrc` looks like:
 
 ```sh
-alias code="code --extensions-dir $HOME/dev/jdej/vscode-profiles/jdej/exts --user-data-dir $HOME/dev/jdej/vscode-profiles/jdej/data"
+alias jdej="code --extensions-dir $HOME/dev/jdej/vscode-profiles/jdej/exts --user-data-dir $HOME/dev/jdej/vscode-profiles/jdej/data"
 ```
 
 And I can run that with a path like:
 
 ```sh
-code $HOME/dev/jdej/vscode-profiles
+jdej dev/jdej/vscode-profiles
 ```
