@@ -1,0 +1,6 @@
+Looking for git in: /usr/local/bin/git
+Using git 2.28.0 from /usr/local/bin/git
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/jdej/vscode-profiles
+> git status -z -u
+> git check-ignore -v -z --stdin

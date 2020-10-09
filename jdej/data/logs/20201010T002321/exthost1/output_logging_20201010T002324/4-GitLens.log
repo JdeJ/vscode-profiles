@@ -1,0 +1,2 @@
+[2020-10-09 22:23:27:949] activateInternal
+TypeError: Cannot read property 'id' of undefined

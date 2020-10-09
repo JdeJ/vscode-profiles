@@ -1,0 +1,29 @@
+Looking for git in: /usr/local/bin/git
+Using git 2.28.0 from /usr/local/bin/git
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/jdej/vscode-profiles
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git config --global user.name
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/vscode-profiles/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/vscode-profiles/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 0c593d4cba32e052fa86fb6ee25ed81435587c69
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 0c593d4cba32e052fa86fb6ee25ed81435587c69
+> git show -s --format=%an <%ae> [%ai] e854b5ae18aaa1e603509c9867503639d535c0f7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e854b5ae18aaa1e603509c9867503639d535c0f7

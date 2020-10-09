@@ -1,0 +1,14 @@
+[2020-10-10 00:37:50.667] [sharedprocess] [info] main {"machineId":"c86bc045b47993bb14699a6727e3c39598ffa3945a7235961cbd6cda7386076e","windowId":2}
+[2020-10-10 00:37:52.572] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-10-10 00:37:52.572] [sharedprocess] [info] Installing extension: waderyan.gitblame
+[2020-10-10 00:37:52.902] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2020-10-10 00:37:52.938] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.dbaeumer.vscode-eslint-2.1.10: dbaeumer.vscode-eslint
+[2020-10-10 00:37:52.938] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.1.10
+[2020-10-10 00:37:52.939] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-10-10 00:37:52.957] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-10-10 00:37:53.321] [sharedprocess] [info] Downloaded extension: waderyan.gitblame undefined
+[2020-10-10 00:37:53.339] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.waderyan.gitblame-5.0.1: waderyan.gitblame
+[2020-10-10 00:37:53.340] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/waderyan.gitblame-5.0.1
+[2020-10-10 00:37:53.340] [sharedprocess] [info] Installation completed. waderyan.gitblame
+[2020-10-10 00:37:53.381] [sharedprocess] [info] Extensions installed successfully: waderyan.gitblame
+[2020-10-10 00:38:30.692] [sharedprocess] [info] Starting to clean up unused language packs.

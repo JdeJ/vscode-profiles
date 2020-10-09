@@ -1,0 +1,88 @@
+{
+  // Keep Extensions Updated
+  "extensions.autoCheckUpdates": true,
+  "extensions.autoUpdate": true,
+  // General Editor Settings
+  // "editor.fontSize": 14,
+  // "editor.fontFamily": "JetBrains Mono",
+  // "editor.fontLigatures": true,
+  // "editor.renderWhitespace": "none",
+  // "editor.tabSize": 4,
+  "editor.minimap.enabled": false,
+  "editor.matchBrackets": "always",
+  "editor.suggestSelection": "first",
+  "editor.autoClosingBrackets": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "block",
+  "editor.cursorSmoothCaretAnimation": true,
+  // "editor.multiCursorModifier": "ctrlCmd",
+  // "editor.multiCursorPaste": "full",
+  "editor.scrollBeyondLastLine": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  // Appearance
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
+  "workbench.settings.editor": "json",
+  "workbench.statusBar.visible": true,
+  "workbench.sideBar.location": "right",
+  "workbench.editor.highlightModifiedTabs": true,
+  // Window Settings
+  "window.zoomLevel": 0,
+  //Terminal Settings
+  "terminal.integrated.shell.osx": "zsh",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  // Emmet Settings
+  "emmet.includeLanguages": {
+    "erb": "html",
+    "javascript": "javascriptreact",
+    "page": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showAbbreviationSuggestions": true,
+  // Breadcrumbs Settings
+  "breadcrumbs.enabled": true,
+  "breadcrumbs.filePath": "on",
+  // Intellicode Settings
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  // ESLint Settings
+  "eslint.packageManager": "yarn",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact"
+  ],
+  "eslint.alwaysShowStatus": true,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "eslint.format.enable": true,
+  "eslint.codeActionsOnSave.mode": "all",
+  // Bracket Pair Colorizer Settings
+  "bracket-pair-colorizer-2.showBracketsInGutter": true,
+  "bracket-pair-colorizer-2.showBracketsInRuler": true,
+  "bracket-pair-colorizer-2.colors": [
+    "Gold",
+    "Orchid",
+    "LightSkyBlue"
+  ],
+  "bracket-pair-colorizer-2.activeScopeCSS": [
+    "borderStyle : solid",
+    "borderWidth : 1px",
+    "borderColor : {color}",
+    "opacity: 0.5"
+  ],
+  "bracket-pair-colorizer-2.colorMode": "Consecutive",
+  "bracket-pair-colorizer-2.forceUniqueOpeningColor": false,
+  "bracket-pair-colorizer-2.forceIterationColorCycle": false,
+  "bracket-pair-colorizer-2.scopeLineRelativePosition": true,
+  // javascript
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "javascript.preferences.quoteStyle": "single",
+  "javascript.suggest.completeFunctionCalls": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  // Git Lens Settings
+  "gitlens.defaultDateStyle": "absolute",
+  "gitlens.statusBar.enabled": true
+}

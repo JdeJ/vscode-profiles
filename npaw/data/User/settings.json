@@ -1,0 +1,94 @@
+{
+  "yaml.schemas": {
+    "file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.8.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "atlascode.jira.jqlList": [
+    {
+      "id": "e4118fff-3a54-4f90-8872-031c74b6fc30",
+      "enabled": true,
+      "name": "My niceteam Issues",
+      "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+      "siteId": "fc1372a2-41b0-4243-b995-50b0d7a49de4",
+      "monitor": true
+    }
+  ],
+  // Keep Extensions Updated
+  "extensions.autoCheckUpdates": true,
+  "extensions.autoUpdate": true,
+  // General Editor Settings
+  "editor.minimap.enabled": false,
+  "editor.matchBrackets": "always",
+  "editor.suggestSelection": "first",
+  "editor.autoClosingBrackets": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "block",
+  "editor.cursorSmoothCaretAnimation": true,
+  // "editor.multiCursorModifier": "ctrlCmd",
+  // "editor.multiCursorPaste": "full",
+  "editor.scrollBeyondLastLine": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  // Appearance
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
+  "workbench.settings.editor": "json",
+  "workbench.statusBar.visible": true,
+  "workbench.sideBar.location": "right",
+  "workbench.editor.highlightModifiedTabs": true,
+  // Window Settings
+  "window.zoomLevel": 0,
+  //Terminal Settings
+  "terminal.integrated.shell.osx": "zsh",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  // Emmet Settings
+  "emmet.includeLanguages": {
+    "erb": "html",
+    "javascript": "javascriptreact",
+    "page": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showAbbreviationSuggestions": true,
+  // Breadcrumbs Settings
+  "breadcrumbs.enabled": true,
+  "breadcrumbs.filePath": "on",
+  /* Bracket Pair Colorizer Settings */
+  "bracket-pair-colorizer-2.showBracketsInGutter": true,
+  "bracket-pair-colorizer-2.showBracketsInRuler": true,
+  "bracket-pair-colorizer-2.colors": [
+    "Gold",
+    "Orchid",
+    "LightSkyBlue"
+  ],
+  "bracket-pair-colorizer-2.activeScopeCSS": [
+    "borderStyle : solid",
+    "borderWidth : 1px",
+    "borderColor : {color}",
+    "opacity: 0.5"
+  ],
+  "bracket-pair-colorizer-2.colorMode": "Consecutive",
+  "bracket-pair-colorizer-2.forceUniqueOpeningColor": false,
+  "bracket-pair-colorizer-2.forceIterationColorCycle": false,
+  "bracket-pair-colorizer-2.scopeLineRelativePosition": true,
+  // Git Lens Settings
+  "gitlens.defaultDateStyle": "absolute",
+  "gitlens.statusBar.enabled": true,
+  // ESLint Settings
+  "eslint.packageManager": "yarn",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact"
+  ],
+  "eslint.alwaysShowStatus": true,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "eslint.format.enable": true,
+  "eslint.codeActionsOnSave.mode": "all",
+  // javascript
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "javascript.preferences.quoteStyle": "single",
+  "javascript.suggest.completeFunctionCalls": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+}
