@@ -1,0 +1,3 @@
+[2021-04-19 21:44:25.124] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
+[2021-04-19 21:44:25.999] [renderer1] [info] [lifecycle]: Shutdown was prevented (id: veto.untitledWorkspace)
+[2021-04-19 21:44:40.136] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace

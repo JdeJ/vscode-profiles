@@ -1,0 +1,157 @@
+[2022-01-12 16:55:17.718] [exthost] [info] Extension host with pid 80534 started
+[2022-01-12 16:55:17.718] [exthost] [info] Skipping acquiring lock for /Users/jdej/dev/jdej/vscode-profiles/npaw/data/User/workspaceStorage/ee2cbef7ce742474e0d4192c16a849c1.
+[2022-01-12 16:55:17.783] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-12 16:55:17.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-12 16:55:17.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-12 16:55:17.815] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-01-12 16:55:17.848] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-01-12 16:55:18.500] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-12 16:55:19.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-12 16:55:19.161] [exthost] [info] Eager extensions activated
+[2022-01-12 16:55:19.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 16:55:19.176] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 16:55:19.305] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 16:55:23.356] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: '*', root cause: atlassian.atlascode
+[2022-01-12 16:55:23.573] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 16:55:23.588] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: false, activationEvent: '*'
+[2022-01-12 16:55:23.644] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 16:55:23.794] [exthost] [info] ExtensionService#_doActivateExtension atlassian.atlascode, startup: false, activationEvent: '*'
+[2022-01-12 16:55:25.471] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-12 16:55:25.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-12 16:55:25.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-12 16:55:25.541] [exthost] [info] ExtensionService#_doActivateExtension rvest.vs-code-prettier-eslint, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-12 16:55:25.563] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-01-12 16:55:28.307] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-12 16:55:28.329] [exthost] [error] RangeError: Maximum call stack size exceeded
+	at Ne (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:6645)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17640)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+	at Na.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1/build/extension/extension.js:1:1816735)
+	at Na.dispose (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17684)
+[2022-01-12 16:55:28.335] [exthost] [error] Error: Encountered errors while disposing of store. Errors: [TypeError: a.dispose is not a function, TypeError: a.dispose is not a function]
+	at h (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:14:5037)
+	at w._deactivate (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11584)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9997
+	at Array.map (<anonymous>)
+	at w.deactivateAll (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9985)
+	at b.terminate (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:735)
+	at o (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32681)
+	at Socket.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30296)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2022-01-12 16:55:28.363] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+	at Object.i [as canceled] (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.N.<computed>.F.charCodeAt.N.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at u.resolveProxy (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:39347)
+	at Object.resolveProxy (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:58426)
+	at useProxySettings (/Applications/Visual Studio Code.app/Contents/Resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13
+	at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2022-01-12 16:55:28.371] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+	at Object.i [as canceled] (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.N.<computed>.F.charCodeAt.N.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at u.resolveProxy (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:39347)
+	at Object.resolveProxy (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:58426)
+	at useProxySettings (/Applications/Visual Studio Code.app/Contents/Resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13
+	at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2022-01-12 16:55:29.344] [exthost] [info] Extension host with pid 80534 exiting with code 0

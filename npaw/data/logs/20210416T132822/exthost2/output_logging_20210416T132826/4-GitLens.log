@@ -1,0 +1,1 @@
+[2021-04-16 11:28:30:162] Warning(/usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv 1c28fa22428f2c2bb93e5b3543145515171b1e77:./src/helpers/widgets/getEchartOptionsForMap.js --): 

@@ -1,0 +1,8 @@
+[2022-03-10 10:26:00.522] [main] [info] update#setState idle
+[2022-03-10 10:26:00.856] [main] [info] ExtensionHostStarterWorker created
+[2022-03-10 10:26:02.181] [main] [info] Starting extension host with pid 92051 (fork() took 11 ms).
+[2022-03-10 10:26:02.182] [main] [info] ExtensionHostStarterWorker.start() took 13 ms.
+[2022-03-10 10:26:30.523] [main] [info] update#setState checking for updates
+[2022-03-10 10:26:30.756] [main] [info] update#setState downloading
+[2022-03-10 10:26:35.897] [main] [info] update#setState ready
+[2022-03-10 10:26:52.237] [main] [info] Extension host with pid 92051 exited with code: 0, signal: null.

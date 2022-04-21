@@ -1,0 +1,31 @@
+[2022-03-10 10:28:11.209] [renderer1] [info] IExtensionHostStarter.start() took 55 ms.
+[2022-03-10 10:28:11.594] [renderer1] [error] [Extension Host] (node:92779) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Electron --trace-deprecation ...` to show where the warning was created)
+[2022-03-10 10:28:53.886] [renderer1] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-03-10 10:29:07.453] [renderer1] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-03-10 11:01:23.682] [renderer1] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-03-10 11:02:52.907] [renderer1] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-03-10 21:34:50.967] [renderer1] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

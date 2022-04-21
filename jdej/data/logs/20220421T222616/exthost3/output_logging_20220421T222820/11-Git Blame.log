@@ -1,0 +1,2 @@
+[ 22:28:28 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:28:28 | info ] Will not blame '/Users/jdej/.zshrc'. Outside the current workspace.

@@ -1,0 +1,38 @@
+[2022-04-21T20:28:24.480Z] Validating found git in: /usr/local/bin/git
+[2022-04-21T20:28:24.551Z] Using git 2.32.0 from /usr/local/bin/git
+[2022-04-21T20:28:26.027Z] > git rev-parse --git-dir [8ms]
+[2022-04-21T20:28:26.029Z] Open repository: /Users/jdej/.nvm
+[2022-04-21T20:28:26.073Z] > git rev-parse --git-dir [18ms]
+[2022-04-21T20:28:26.081Z] Open repository: /Users/jdej/.oh-my-zsh
+[2022-04-21T20:28:26.189Z] > git symbolic-ref --short HEAD [47ms]
+[2022-04-21T20:28:26.194Z] > git symbolic-ref --short HEAD [60ms]
+[2022-04-21T20:28:26.194Z] fatal: ref HEAD is not a symbolic ref
+[2022-04-21T20:28:26.222Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [28ms]
+[2022-04-21T20:28:26.240Z] > git rev-parse HEAD [36ms]
+[2022-04-21T20:28:26.252Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+[2022-04-21T20:28:26.261Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+[2022-04-21T20:28:26.261Z] > git remote --verbose [29ms]
+[2022-04-21T20:28:26.271Z] > git remote --verbose [22ms]
+[2022-04-21T20:28:26.279Z] > git config --get commit.template [12ms]
+[2022-04-21T20:28:26.281Z] > git config --get commit.template [4ms]
+[2022-04-21T20:28:26.281Z] > git rev-parse --git-dir [10ms]
+[2022-04-21T20:28:26.283Z] Open repository: /Users/jdej/.vim_runtime
+[2022-04-21T20:28:26.793Z] > git symbolic-ref --short HEAD [6ms]
+[2022-04-21T20:28:26.803Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [6ms]
+[2022-04-21T20:28:26.817Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-04-21T20:28:26.817Z] > git remote --verbose [7ms]
+[2022-04-21T20:28:26.828Z] > git config --get commit.template [6ms]
+[2022-04-21T20:33:01.904Z] > git rev-parse --git-dir [6ms]
+[2022-04-21T20:33:01.907Z] Open repository: /Users/jdej/dev/npaw/youbora
+[2022-04-21T20:33:02.032Z] > git symbolic-ref --short HEAD [5ms]
+[2022-04-21T20:33:02.043Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix/UI-3699-all-accounts-saved-dashboard-is- refs/remotes/bugfix/UI-3699-all-accounts-saved-dashboard-is- [9ms]
+[2022-04-21T20:33:02.051Z] > git remote --verbose [6ms]
+[2022-04-21T20:33:02.078Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+[2022-04-21T20:33:02.092Z] > git config --get commit.template [4ms]
+[2022-04-21T20:33:04.766Z] > git symbolic-ref --short HEAD [5ms]
+[2022-04-21T20:33:04.780Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix/UI-3699-all-accounts-saved-dashboard-is- refs/remotes/bugfix/UI-3699-all-accounts-saved-dashboard-is- [9ms]
+[2022-04-21T20:33:04.790Z] > git remote --verbose [7ms]
+[2022-04-21T20:33:04.807Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [25ms]
+[2022-04-21T20:33:04.817Z] > git config --get commit.template [5ms]
+[2022-04-21T20:35:21.786Z] > git rev-parse --git-dir [4ms]
+[2022-04-21T20:35:21.787Z] Open repository: /Users/jdej/dev/jdej/vscode-profiles

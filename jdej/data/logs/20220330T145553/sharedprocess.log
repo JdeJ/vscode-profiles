@@ -1,0 +1,39 @@
+[2022-03-30 14:55:57.902] [sharedprocess] [info] Starting worker process with pid 81651 (type: fileWatcher, window: 1).
+[2022-03-30 14:55:58.366] [sharedprocess] [info] Deleted from disk johnpapa.vscode-peacock /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/johnpapa.vscode-peacock-4.0.0
+[2022-03-30 14:55:58.388] [sharedprocess] [info] Deleted from disk redhat.vscode-yaml /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/redhat.vscode-yaml-1.5.1
+[2022-03-30 14:55:58.612] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.3.0
+[2022-03-30 14:55:58.613] [sharedprocess] [info] Deleted from disk eamodio.gitlens /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/eamodio.gitlens-12.0.3
+[2022-03-30 14:55:58.764] [sharedprocess] [info] Deleted from disk coenraads.bracket-pair-colorizer-2 /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/coenraads.bracket-pair-colorizer-2-0.2.2
+[2022-03-30 14:55:59.079] [sharedprocess] [info] Deleted from disk wallabyjs.quokka-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wallabyjs.quokka-vscode-1.0.450
+[2022-03-30 14:55:59.232] [sharedprocess] [info] Deleted from disk ms-vsliveshare.vsliveshare /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/ms-vsliveshare.vsliveshare-1.0.5418
+[2022-03-30 14:56:01.238] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-03-30 14:56:01.239] [sharedprocess] [info] Getting Manifest... wallabyjs.quokka-vscode
+[2022-03-30 14:56:01.832] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-03-30 14:56:01.856] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2022-03-30 14:56:02.828] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/pkief.material-icon-theme-4.15.0
+[2022-03-30 14:56:03.865] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/wallabyjs.quokka-vscode-1.0.453
+[2022-03-30 14:56:04.732] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.c14a391f-46ee-4c7a-9d66-db9d1d4d9849: pkief.material-icon-theme
+[2022-03-30 14:56:04.746] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/pkief.material-icon-theme-4.15.0
+[2022-03-30 14:56:04.747] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-03-30 14:56:04.777] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-03-30 14:56:08.123] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.37f1ed17-1ee9-403e-bf48-1dbb304f7ddd: wallabyjs.quokka-vscode
+[2022-03-30 14:56:08.158] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wallabyjs.quokka-vscode-1.0.453
+[2022-03-30 14:56:08.160] [sharedprocess] [info] Extracting completed. wallabyjs.quokka-vscode
+[2022-03-30 14:56:08.184] [sharedprocess] [info] Extension installed successfully: wallabyjs.quokka-vscode
+[2022-03-30 15:38:53.800] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-30 17:26:44.176] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-30 17:41:46.167] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-30 17:56:47.811] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-30 19:23:00.246] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-30 21:06:29.989] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-31 08:31:04.971] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-31 08:49:36.953] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-31 09:33:06.936] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-31 15:16:11.296] [sharedprocess] [info] Getting Manifest... wallabyjs.quokka-vscode
+[2022-03-31 15:16:11.918] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2022-03-31 15:16:13.366] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/wallabyjs.quokka-vscode-1.0.455
+[2022-03-31 15:16:16.017] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.4c6e375c-2d26-4032-864c-8a537889b53c: wallabyjs.quokka-vscode
+[2022-03-31 15:16:16.065] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wallabyjs.quokka-vscode-1.0.455
+[2022-03-31 15:16:16.078] [sharedprocess] [info] Extracting completed. wallabyjs.quokka-vscode
+[2022-03-31 15:16:16.109] [sharedprocess] [info] Extension installed successfully: wallabyjs.quokka-vscode
+[2022-03-31 16:05:03.956] [sharedprocess] [info] Worker process with pid 81651 terminated normally (type: fileWatcher, window: 1).

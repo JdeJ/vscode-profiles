@@ -1,0 +1,8 @@
+[2022-04-21 22:25:03.537] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-04-21 22:25:05.768] [renderer1] [error] [Extension Host] (node:21570) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Electron --trace-deprecation ...` to show where the warning was created)
+[2022-04-21 22:25:31.859] [renderer1] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

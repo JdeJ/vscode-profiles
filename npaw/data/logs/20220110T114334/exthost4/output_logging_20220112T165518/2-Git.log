@@ -1,0 +1,192 @@
+Validating found git in: /usr/local/bin/git
+Using git 2.32.0 from /usr/local/bin/git
+Opening repository for path='/Users/jdej/dev/jdej' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/Users/jdej/dev/jdej/.DS_Store' failed; ex=RangeError [ERR_OUT_OF_RANGE]: The value of "err" is out of range. It must be a negative integer. Received 1
+Opening repository for path='/Users/jdej/dev/jdej/.history' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/jdej/AnjanasFury
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/AnjanasFury/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/jdej/Ekilikua
+> git status -z -u
+> git config --global user.email
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git config --global user.name
+> git status -z -u
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/Ekilikua/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+Opening repository for path='/Users/jdej/dev/jdej/Ironhack' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/jdej/JdeJ
+> git status -z -u
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/AnjanasFury/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git show -s --format=%an <%ae> [%ai] ea3dd231dd5be984000c399ee6e9f5d3538c98d9
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/JdeJ/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/jdej/UOP
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/UOP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/jdej/WebStorageManager
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/devel refs/remotes/devel
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/jdej/dotfiles
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/dotfiles/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/jdej/jdej.github.io
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/jdej.github.io/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/jdej/vscode-profiles
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git fetch
+> git fetch
+> git fetch
+> git fetch
+> git fetch
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git status -z -u
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+From https://github.com/JdeJ/dotfiles
+   55fe81e..df6149e  master     -> origin/master
+> git status -z -u
+From https://github.com/JdeJ/jdej.github.io
+   71127e0..88ae9e0  master     -> origin/master
+   7def42d..8ea163b  curriculum -> origin/curriculum
+> git status -z -u
+> git symbolic-ref --short HEAD
+From https://github.com/JdeJ/Ekilikua
+ * [new branch]      dependabot/npm_and_yarn/axios-0.21.1 -> origin/dependabot/npm_and_yarn/axios-0.21.1
+ * [new branch]      dependabot/npm_and_yarn/hosted-git-info-2.8.9 -> origin/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+ * [new branch]      dependabot/npm_and_yarn/lodash-4.17.21 -> origin/dependabot/npm_and_yarn/lodash-4.17.21
+ * [new branch]      dependabot/npm_and_yarn/path-parse-1.0.7 -> origin/dependabot/npm_and_yarn/path-parse-1.0.7
+ * [new branch]      dependabot/npm_and_yarn/socket.io-2.4.0 -> origin/dependabot/npm_and_yarn/socket.io-2.4.0
+ * [new branch]      dependabot/npm_and_yarn/socket.io-parser-3.3.2 -> origin/dependabot/npm_and_yarn/socket.io-parser-3.3.2
+ * [new branch]      dependabot/npm_and_yarn/y18n-3.2.2 -> origin/dependabot/npm_and_yarn/y18n-3.2.2
+> git status -z -u
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/devel refs/remotes/devel
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/JdeJ/.git/refs/remotes/origin/master', is most likely packed.
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/UOP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git config --get commit.template
+> git config --get commit.template
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/AnjanasFury/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git config --get commit.template
+> git config --get commit.template
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/Ekilikua/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+Opening repository for path='/Users/jdej/dev/jdej/vscode-profiles' failed; ex=Canceled: Canceled
+Open repository: /Users/jdej/dev/jdej/AnjanasFury
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/AnjanasFury/.git/refs/remotes/origin/master', is most likely packed.
+Open repository: /Users/jdej/dev/jdej/Ekilikua
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/Ekilikua/.git/refs/remotes/origin/master', is most likely packed.
+Open repository: /Users/jdej/dev/jdej/JdeJ
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/JdeJ/.git/refs/remotes/origin/master', is most likely packed.
+Open repository: /Users/jdej/dev/jdej/UOP
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/UOP/.git/refs/remotes/origin/master', is most likely packed.
+Open repository: /Users/jdej/dev/jdej/WebStorageManager
+Open repository: /Users/jdej/dev/jdej/dotfiles
+Open repository: /Users/jdej/dev/jdej/jdej.github.io
+Open repository: /Users/jdej/dev/jdej/vscode-profiles
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/AnjanasFury/.git/refs/remotes/origin/master', is most likely packed.
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/Ekilikua/.git/refs/remotes/origin/master', is most likely packed.
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/JdeJ/.git/refs/remotes/origin/master', is most likely packed.
+Warning: Failed to watch ref '/Users/jdej/dev/jdej/UOP/.git/refs/remotes/origin/master', is most likely packed.

@@ -1,0 +1,171 @@
+[2021-04-16 13:28:25.581] [exthost] [info] extension host started
+[2021-04-16 13:28:25.693] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-04-16 13:28:25.693] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-04-16 13:28:25.704] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onFileSystem:gitlens"}
+[2021-04-16 13:28:25.704] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.4.1/dist/gitlens
+[2021-04-16 13:28:25.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-04-16 13:28:25.734] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension
+[2021-04-16 13:28:25.745] [exthost] [info] ExtensionService#_doActivateExtension rvest.vs-code-prettier-eslint {"startup":false,"extensionId":{"value":"rvest.vs-code-prettier-eslint","_lower":"rvest.vs-code-prettier-eslint"},"activationEvent":"onLanguage:javascript"}
+[2021-04-16 13:28:25.745] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/rvest.vs-code-prettier-eslint-3.0.2/dist/extension.js
+[2021-04-16 13:28:25.753] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-16 13:28:25.753] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-16 13:28:25.758] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"atlassian.atlascode","_lower":"atlassian.atlascode"},"activationEvent":"*"}
+[2021-04-16 13:28:25.758] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main
+[2021-04-16 13:28:25.776] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml {"startup":true,"extensionId":{"value":"atlassian.atlascode","_lower":"atlassian.atlascode"},"activationEvent":"*"}
+[2021-04-16 13:28:25.776] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/redhat.vscode-yaml-0.18.0/out/src/extension
+[2021-04-16 13:28:26.110] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-04-16 13:28:26.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-04-16 13:28:26.141] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2021-04-16 13:28:26.142] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2021-04-16 13:28:26.176] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory {"startup":true,"extensionId":{"value":"donjayamanne.githistory","_lower":"donjayamanne.githistory"},"activationEvent":"*"}
+[2021-04-16 13:28:26.176] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/donjayamanne.githistory-0.6.16/dist/src/extension
+[2021-04-16 13:28:26.189] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2021-04-16 13:28:26.189] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/ms-vsliveshare.vsliveshare-1.0.4131/out/prod/extension-prod
+[2021-04-16 13:28:26.316] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-04-16 13:28:26.316] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/pkief.material-icon-theme-4.6.0/dist/extension
+[2021-04-16 13:28:26.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-04-16 13:28:26.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/npm/dist/npmMain
+[2021-04-16 13:28:28.042] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-04-16 13:28:28.647] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-04-16 13:28:28.648] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-04-16 13:28:28.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-16 13:28:28.911] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/github/dist/extension.js
+[2021-04-16 13:28:28.919] [exthost] [info] ExtensionService#_doActivateExtension atlassian.atlascode {"startup":false,"extensionId":{"value":"atlassian.atlascode","_lower":"atlassian.atlascode"},"activationEvent":"*"}
+[2021-04-16 13:28:28.919] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.8.6/build/extension/extension
+[2021-04-16 13:28:31.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-04-16 13:28:31.433] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/github-authentication/dist/extension.js
+[2021-04-16 13:28:32.504] [exthost] [info] eager extensions activated
+[2021-04-16 13:28:34.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-04-16 13:28:34.004] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-04-16 13:28:34.013] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-04-16 13:28:34.013] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-04-16 13:28:34.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-04-16 13:28:34.016] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-04-16 13:28:34.018] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-04-16 13:28:34.018] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.1.20/client/out/extension
+[2021-04-16 13:28:34.027] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree {"startup":false,"extensionId":{"value":"Gruntfuggly.todo-tree","_lower":"gruntfuggly.todo-tree"},"activationEvent":"onStartupFinished"}
+[2021-04-16 13:28:34.027] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/gruntfuggly.todo-tree-0.0.211/dist/extension
+[2021-04-16 13:28:34.047] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-16 13:28:34.048] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-04-16 13:28:34.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-16 13:28:34.055] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-04-16 13:46:36.632] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-16 13:48:55.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-04-16 13:48:55.271] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-04-19 09:30:19.238] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 09:50:17.279] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:04:35.670] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:04:35.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-04-19 10:04:35.858] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-04-19 10:04:35.875] [exthost] [info] ExtensionService#_doActivateExtension aeschli.vscode-css-formatter {"startup":false,"extensionId":{"value":"aeschli.vscode-css-formatter","_lower":"aeschli.vscode-css-formatter"},"activationEvent":"onLanguage:css"}
+[2021-04-19 10:04:35.875] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/aeschli.vscode-css-formatter-1.0.1/out/extension
+[2021-04-19 10:04:36.700] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:22:20.654] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:22:22.360] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:22:23.227] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:22:41.015] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:22:54.056] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:22:55.928] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:23:08.273] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:23:13.188] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:37:52.679] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:38:03.486] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:38:15.221] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:54:22.917] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:56:51.969] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 10:57:15.783] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 11:39:25.161] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 12:13:11.444] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 12:19:26.035] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 12:19:27.748] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 12:25:02.954] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 12:26:03.027] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 12:42:39.434] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 12:42:43.384] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 12:42:46.041] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:04:47.026] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:04:56.129] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:05:00.676] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:05:03.928] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:05:11.377] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:12:48.033] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:13:05.627] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:13:45.525] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:13:46.753] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:41:15.784] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:49:25.204] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:56:08.831] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:56:11.924] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-04-19 13:56:11.927] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.3)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:152133:23)
+    at ScriptInfo.getDefaultProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:152957:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:155912:48)
+    at ProjectService.ensureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:155907:75)
+    at IOSession.Session.getFileAndProjectWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160166:87)
+    at IOSession.Session.getFileAndProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160149:29)
+    at IOSession.Session.getEncodedSemanticClassifications (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:159763:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:159241:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:329:10)
+    at Interface._normalWrite (readline.js:474:12)
+    at Socket.ondata (readline.js:186:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+	at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:70135)
+	at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:64010)
+	at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:62869)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:62379
+	at _.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+	at g.onLengthData (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:431342)
+	at Socket.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:430990)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-04-19 13:56:42.417] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:56:46.330] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:57:02.082] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:59:13.814] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:59:16.924] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:59:18.446] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:59:48.640] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 13:59:52.518] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 14:00:46.188] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 14:04:25.715] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 14:08:32.447] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 14:08:38.434] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 14:24:31.440] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 15:40:45.070] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 15:41:12.934] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 15:41:24.484] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 15:43:26.468] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 15:44:06.385] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 15:46:28.890] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 15:56:01.998] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 15:56:19.295] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 15:56:31.790] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 15:59:40.014] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 15:59:42.289] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 16:05:36.852] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 16:06:16.727] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 16:06:25.050] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 16:12:00.301] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 16:38:25.102] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 16:39:00.069] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 17:02:24.884] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 17:04:56.333] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 17:06:30.168] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 21:44:19.455] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 21:44:43.239] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-04-19 21:44:44.363] [exthost] [info] exiting with code 0

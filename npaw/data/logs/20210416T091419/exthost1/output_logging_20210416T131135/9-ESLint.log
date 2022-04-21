@@ -1,0 +1,6 @@
+[Info  - 1:11:35 PM] ESLint server is starting
+[Info  - 1:11:35 PM] ESLint server running in node v12.18.3
+[Info  - 1:11:35 PM] ESLint server is running.
+[Info  - 1:11:36 PM] ESLint library loaded from: /Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/api.js
+Warning: React version not specified in eslint-plugin-react settings. See https://github.com/yannickcr/eslint-plugin-react#configuration .
+[Info  - 1:28:14 PM] ESLint server stopped.

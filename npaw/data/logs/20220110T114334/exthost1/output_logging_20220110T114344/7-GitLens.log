@@ -1,0 +1,2 @@
+[2022-01-10 10:48:14:266] Warning(/usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv 075df857baaea41a45e952f3e561a6d77eaf116d:./public/languages/en/translation.json --): 
+[2022-01-10 10:48:14:267] Warning(/usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv a17b8499c6999ff138bc02eb2ecb8ce75843565a:./public/languages/en/translation.json --): 

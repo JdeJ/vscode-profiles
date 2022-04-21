@@ -1,0 +1,45 @@
+[Info  - 1:28:34 PM] ESLint server is starting
+[Info  - 1:28:34 PM] ESLint server running in node v12.18.3
+[Info  - 1:28:34 PM] ESLint server is running.
+[Info  - 1:28:36 PM] ESLint library loaded from: /Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/api.js
+Warning: React version not specified in eslint-plugin-react settings. See https://github.com/yannickcr/eslint-plugin-react#configuration .
+[Error - 1:45:31 PM] ESLint stack trace:
+[Error - 1:45:31 PM] TypeError: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js:568
+    at checkSpacingBefore (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/rules/template-curly-spacing.js:52:24)
+    at TemplateElement (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/rules/template-curly-spacing.js:136:17)
+    at /Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/safe-emitter.js:45:58
+    at Array.forEach (<anonymous>)
+    at Object.emit (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/safe-emitter.js:45:38)
+    at NodeEventGenerator.applySelector (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/node-event-generator.js:256:26)
+    at NodeEventGenerator.applySelectors (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/node-event-generator.js:285:22)
+    at NodeEventGenerator.enterNode (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/node-event-generator.js:299:14)
+    at CodePathAnalyzer.enterNode (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/code-path-analysis/code-path-analyzer.js:711:23)
+    at /Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/linter.js:954:32
+[Error - 2:05:16 PM] ESLint stack trace:
+[Error - 2:05:16 PM] TypeError: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js:565
+    at checkSpacingBefore (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/rules/template-curly-spacing.js:52:24)
+    at TemplateElement (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/rules/template-curly-spacing.js:136:17)
+    at /Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/safe-emitter.js:45:58
+    at Array.forEach (<anonymous>)
+    at Object.emit (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/safe-emitter.js:45:38)
+    at NodeEventGenerator.applySelector (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/node-event-generator.js:256:26)
+    at NodeEventGenerator.applySelectors (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/node-event-generator.js:285:22)
+    at NodeEventGenerator.enterNode (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/node-event-generator.js:299:14)
+    at CodePathAnalyzer.enterNode (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/code-path-analysis/code-path-analyzer.js:711:23)
+    at /Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/linter.js:954:32
+[Error - 4:06:17 PM] ESLint stack trace:
+[Error - 4:06:17 PM] TypeError: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js:565
+    at checkSpacingBefore (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/rules/template-curly-spacing.js:52:24)
+    at TemplateElement (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/rules/template-curly-spacing.js:136:17)
+    at /Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/safe-emitter.js:45:58
+    at Array.forEach (<anonymous>)
+    at Object.emit (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/safe-emitter.js:45:38)
+    at NodeEventGenerator.applySelector (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/node-event-generator.js:256:26)
+    at NodeEventGenerator.applySelectors (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/node-event-generator.js:285:22)
+    at NodeEventGenerator.enterNode (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/node-event-generator.js:299:14)
+    at CodePathAnalyzer.enterNode (/Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/code-path-analysis/code-path-analyzer.js:711:23)
+    at /Users/jdej/dev/npaw/youbora/node_modules/eslint/lib/linter/linter.js:954:32
+[Info  - 9:44:43 PM] ESLint server stopped.

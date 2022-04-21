@@ -1,0 +1,754 @@
+[2022-04-01 12:04:27.747] [exthost] [info] Extension host with pid 19172 started
+[2022-04-01 12:04:27.747] [exthost] [info] Skipping acquiring lock for /Users/jdej/dev/jdej/vscode-profiles/jdej/data/User/workspaceStorage/c9e93f9a5071c9bff3770eccd6b0d77a.
+[2022-04-01 12:04:27.883] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-04-01 12:04:27.940] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-04-01 12:04:27.969] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-04-01 12:04:28.423] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-04-01 12:04:28.430] [exthost] [info] ExtensionService#_doActivateExtension paulmolluzzo.convert-css-in-js, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-04-01 12:04:28.436] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-04-01 12:04:28.520] [exthost] [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-04-01 12:04:28.984] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-01 12:04:28.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-01 12:04:29.039] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-04-01 12:04:29.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.081] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-04-01 12:04:29.085] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.114] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.142] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.179] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.203] [exthost] [info] ExtensionService#_doActivateExtension huizhou.githd, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.216] [exthost] [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.222] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.266] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.672] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.674] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.679] [exthost] [info] ExtensionService#_doActivateExtension xyz.local-history, startup: true, activationEvent: '*'
+[2022-04-01 12:04:29.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-04-01 12:04:31.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: donjayamanne.githistory
+[2022-04-01 12:04:31.519] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-04-01 12:04:32.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-01 12:04:33.646] [exthost] [info] Eager extensions activated
+[2022-04-01 12:04:33.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-01 12:04:33.675] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-01 12:04:33.679] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-01 12:04:33.708] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-01 12:04:33.734] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-01 12:04:33.849] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-01 12:04:33.950] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-01 12:04:33.965] [exthost] [info] ExtensionService#_doActivateExtension waderyan.gitblame, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-05 12:42:25.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-05 12:43:17.037] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-05 12:43:35.350] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-05 12:43:40.915] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-05 12:43:50.370] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-05 12:43:52.847] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-05 12:44:14.667] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-05 12:44:19.275] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-05 12:51:43.075] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-05 12:53:42.110] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-05 12:54:31.303] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-05 13:00:23.251] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 11:29:30.096] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 11:39:17.970] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 11:39:18.082] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 11:39:19.109] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 11:39:19.110] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 11:40:25.837] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 11:41:13.038] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 11:41:13.038] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 11:41:24.771] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 11:41:24.772] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 11:41:26.056] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 11:41:26.056] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 11:46:43.924] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 11:46:43.926] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 11:48:43.854] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 11:50:37.636] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 11:50:39.817] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 11:57:58.427] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 11:57:58.429] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:01:02.528] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:01:02.529] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:01:47.238] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:01:47.239] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:02:37.068] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:02:37.069] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:03:38.600] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:03:38.601] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:03:40.335] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:03:40.335] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:04:20.894] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:04:29.373] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:07:00.399] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:08:25.256] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:08:56.919] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:08:56.920] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:09:11.156] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:18:32.776] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:18:32.777] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:18:39.757] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:18:39.757] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:18:40.665] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:18:40.666] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:18:42.709] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:18:42.709] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:18:48.355] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:18:48.355] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:18:54.024] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:18:54.025] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:19:00.828] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:19:00.828] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:19:03.806] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:19:03.806] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:19:48.484] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:19:48.484] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:20:18.514] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:20:18.515] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:20:45.916] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:20:45.917] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:20:48.613] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:20:48.614] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:21:21.159] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:22:00.387] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:22:25.602] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:22:25.602] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:22:33.880] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:22:33.881] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:23:17.322] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:23:17.322] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:23:18.923] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:23:18.923] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:24:26.760] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:24:26.760] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:24:58.910] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:24:58.910] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:25:02.820] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:25:02.820] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:25:50.870] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:25:50.871] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:27:02.281] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:27:02.282] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:28:47.997] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:28:47.997] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:28:49.995] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:28:49.995] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:29:03.323] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:29:03.323] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:29:04.020] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:29:04.020] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:34:15.980] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:34:15.981] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:34:17.971] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:34:17.971] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:34:21.907] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:34:21.907] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:34:24.574] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:34:24.574] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:34:25.913] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:34:25.913] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:34:27.253] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:34:27.254] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:38:39.482] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-06 12:38:39.483] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-06 12:43:15.681] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:43:17.822] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:43:18.607] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:43:20.799] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:43:22.210] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:43:51.263] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:43:51.339] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-04-06 12:43:52.386] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-04-06 12:43:52.397] [exthost] [info] ExtensionService#_doActivateExtension bierner.markdown-checkbox, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-04-06 12:43:52.400] [exthost] [info] ExtensionService#_doActivateExtension bierner.markdown-emoji, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-04-06 12:43:52.405] [exthost] [info] ExtensionService#_doActivateExtension bierner.markdown-footnotes, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-04-06 12:43:52.406] [exthost] [info] ExtensionService#_doActivateExtension bierner.markdown-preview-github-styles, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-04-06 12:43:52.409] [exthost] [info] ExtensionService#_doActivateExtension bierner.markdown-yaml-preamble, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-04-06 12:43:54.475] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-06 12:43:55.831] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:13:01.967] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:13:01.986] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:13:59.678] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:14:00.992] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:14:47.139] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.createDebuggerTerminal'
+[2022-04-07 14:14:49.687] [exthost] [info] ExtensionService#_doActivateExtension firefox-devtools.vscode-firefox-debug, startup: false, activationEvent: 'onDebug'
+[2022-04-07 14:14:49.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-04-07 14:15:03.667] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+[2022-04-07 14:15:03.671] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+[2022-04-07 14:15:03.675] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+[2022-04-07 14:16:19.384] [exthost] [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-04-07 14:16:57.264] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:17:12.108] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:17:13.164] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:17:27.195] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:17:28.595] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:17:30.488] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:18:08.195] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-04-07 14:18:08.195] [exthost] [error] Error: <semantic> TypeScript Server Error (4.6.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:164826:23)
+    at ScriptInfo.getDefaultProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:165673:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:168708:48)
+    at ProjectService.ensureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:168703:75)
+    at IpcIOSession.Session.getFileAndProjectWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:173232:87)
+    at IpcIOSession.Session.getFileAndProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:173215:29)
+    at IpcIOSession.Session.getEncodedSemanticClassifications (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172803:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172270:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+    at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+    at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+    at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+    at ChildProcess.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2022-04-07 14:18:08.196] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-04-07 14:18:08.196] [exthost] [error] Error: <semantic> TypeScript Server Error (4.6.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:164826:23)
+    at ScriptInfo.getDefaultProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:165673:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:168708:48)
+    at ProjectService.ensureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:168703:75)
+    at IpcIOSession.Session.getFileAndProjectWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:173232:87)
+    at IpcIOSession.Session.getFileAndProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:173215:29)
+    at IpcIOSession.Session.getApplicableRefactors (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:173674:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172382:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+    at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+    at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+    at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+    at ChildProcess.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2022-04-07 14:18:10.158] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-04-07 14:18:10.158] [exthost] [error] Error: <semantic> TypeScript Server Error (4.6.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:164826:23)
+    at ScriptInfo.getDefaultProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:165673:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:168708:48)
+    at ProjectService.ensureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:168703:75)
+    at IpcIOSession.Session.getFileAndProjectWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:173232:87)
+    at IpcIOSession.Session.getFileAndProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:173215:29)
+    at IpcIOSession.Session.getQuickInfoWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:173290:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172183:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+    at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+    at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+    at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+    at ChildProcess.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2022-04-07 14:18:10.651] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-04-07 14:18:10.651] [exthost] [error] Error: <semantic> TypeScript Server Error (4.6.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:164826:23)
+    at ScriptInfo.getDefaultProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:165673:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:168708:48)
+    at ProjectService.ensureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:168703:75)
+    at IpcIOSession.Session.getFileAndProjectWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:173232:87)
+    at IpcIOSession.Session.getFileAndProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:173215:29)
+    at IpcIOSession.Session.getApplicableRefactors (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:173674:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172382:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+    at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+    at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+    at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+    at ChildProcess.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2022-04-07 14:20:22.970] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:20:31.486] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:21:05.447] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:21:06.099] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:21:06.532] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:21:06.822] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:21:06.835] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:21:07.190] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:21:07.969] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:21:18.887] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:27:29.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+[2022-04-07 14:28:19.498] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:35:06.143] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:35:12.444] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:40:24.582] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:40:26.864] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:40:40.320] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:44:01.619] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:50:17.585] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 14:50:22.305] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:03:29.125] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:03:29.210] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onLanguage:yaml'
+[2022-04-07 15:03:29.689] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-04-07 15:12:57.736] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:13:13.221] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:14:37.189] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:14:53.777] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-04-07 15:17:39.016] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:19:23.287] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:23:01.429] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:28:39.984] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:28:47.692] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:28:53.548] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:32:33.646] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:34:39.778] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:34:42.173] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:34:45.775] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:52:56.910] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:52:58.131] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:53:04.455] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:54:25.183] [exthost] [info] ExtensionService#_doActivateExtension ChakrounAnas.turbo-console-log, startup: false, activationEvent: 'onCommand:turboConsoleLog.deleteAllLogMessages'
+[2022-04-07 15:59:27.431] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 15:59:33.674] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 16:19:34.569] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 16:20:07.735] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 16:20:27.759] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 16:27:53.842] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 16:28:53.319] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 16:29:23.479] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 16:38:55.873] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-07 16:39:05.705] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 09:41:09.545] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 09:41:22.421] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 09:43:36.481] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-10 09:43:36.482] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-10 09:46:17.543] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-10 09:46:17.543] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-10 09:46:49.487] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 09:46:50.572] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 09:48:01.151] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-10 09:48:01.151] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-10 09:48:04.286] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-10 09:48:04.286] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-10 09:48:07.879] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-10 09:48:07.879] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-10 09:50:15.865] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 09:50:16.792] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 09:59:16.831] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 09:59:23.427] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 09:59:42.761] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-10 09:59:42.761] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-10 09:59:57.151] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 10:00:06.498] [exthost] [error] [dbaeumer.vscode-eslint] provider FAILED
+[2022-04-10 10:00:06.498] [exthost] [error] Error: Request textDocument/codeAction failed with message: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:500:57
+    at undefined (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:587:26)
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/dbaeumer.vscode-eslint-2.2.2/client/out/webpack:/client/node_modules/vscode-jsonrpc/lib/common/connection.js:265:35)
+    at processImmediate (internal/timers.js:461:21)
+[2022-04-10 10:00:26.284] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 10:00:30.276] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 10:14:27.286] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 10:51:11.240] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 10:52:49.183] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 11:22:32.428] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 11:28:12.262] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 11:31:10.902] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 11:32:32.472] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 11:32:33.794] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 11:36:51.909] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 11:36:54.589] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-04-10 11:37:31.104] [exthost] [info] ExtensionService#_doActivateExtension Tyriar.sort-lines, startup: false, activationEvent: 'onCommand:sortLines.sortLines'
+[2022-04-10 11:39:37.928] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 11:39:48.835] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 11:40:53.239] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-10 11:41:35.469] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-21 22:24:57.847] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-21 22:24:58.092] [exthost] [warning] {"name":"Canceled"}
+[2022-04-21 22:24:58.126] [exthost] [info] Extension host with pid 19172 exiting with code 0

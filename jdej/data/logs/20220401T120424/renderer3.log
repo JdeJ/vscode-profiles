@@ -1,0 +1,43 @@
+[2022-04-05 12:36:53.275] [renderer3] [error] [Extension Host] (node:68456) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Electron --trace-deprecation ...` to show where the warning was created)
+[2022-04-05 13:12:34.435] [renderer3] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-05 13:17:05.267] [renderer3] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-05 13:17:30.787] [renderer3] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-05 13:18:01.215] [renderer3] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-05 13:18:28.867] [renderer3] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-05 13:19:55.977] [renderer3] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-05 13:58:42.777] [renderer3] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

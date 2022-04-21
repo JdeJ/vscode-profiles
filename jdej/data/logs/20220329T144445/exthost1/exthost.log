@@ -1,0 +1,32 @@
+[2022-03-29 14:44:49.759] [exthost] [info] Extension host with pid 66839 started
+[2022-03-29 14:44:49.759] [exthost] [info] Skipping acquiring lock for /Users/jdej/dev/jdej/vscode-profiles/jdej/data/User/workspaceStorage/3a861c39da0ba36335ac0215bf640da2.
+[2022-03-29 14:44:49.897] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-29 14:44:49.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-29 14:44:49.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-29 14:44:49.954] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-29 14:44:49.967] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-03-29 14:44:49.998] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-03-29 14:44:50.030] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-03-29 14:44:50.628] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-03-29 14:44:50.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-03-29 14:44:52.243] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-29 14:44:53.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-29 14:44:53.660] [exthost] [info] Eager extensions activated
+[2022-03-29 14:44:54.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-29 14:44:54.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-29 14:44:54.721] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-29 14:44:55.275] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-29 14:44:55.406] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-29 14:44:55.979] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-29 14:45:02.000] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-03-29 14:45:02.109] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-29 14:45:02.137] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-29 14:45:02.166] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: false, activationEvent: '*'
+[2022-03-29 14:45:02.210] [exthost] [info] ExtensionService#_doActivateExtension huizhou.githd, startup: false, activationEvent: '*'
+[2022-03-29 14:45:02.228] [exthost] [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: false, activationEvent: '*'
+[2022-03-29 14:45:02.239] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: false, activationEvent: '*'
+[2022-03-29 14:45:02.281] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: false, activationEvent: '*'
+[2022-03-29 14:45:02.285] [exthost] [info] ExtensionService#_doActivateExtension xyz.local-history, startup: false, activationEvent: '*'
+[2022-03-29 14:45:02.450] [exthost] [info] ExtensionService#_doActivateExtension waderyan.gitblame, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-29 14:46:51.890] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-29 14:46:51.917] [exthost] [info] Extension host with pid 66839 exiting with code 0

@@ -1,0 +1,262 @@
+Error: Cannot find module 'eslint'
+Require stack:
+- /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/rvest.vs-code-prettier-eslint-3.1.0/dist/extension.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/loader.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-amd.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork.js
+Error: Unexpected token (532:42)
+  530 |       }}
+  531 |       contentProps={{
+> 532 |         id={'youbora__admin__white_label'}
+      |                                          ^
+  533 |       }}
+  534 |     >
+  535 |       <Box
+Error: Unexpected token (846:9)
+  844 |   exactRoute: true,
+  845 |   component: AdminAccountsPage,
+> 846 |   icon: ,
+      |         ^
+  847 |   modules: {
+  848 |     [admin]: true
+  849 |   }
+Error: Unexpected token (970:14)
+  968 |   route: 'social',
+  969 |   exactRoute: true,
+> 970 |   component: ,
+      |              ^
+  971 |   icon: ClouduploadIcon,
+  972 |   modules: {
+  973 |     [admin]: true
+Error: Unterminated string constant. (999:17)
+   997 |   value: 'usage_consumption_overview',
+   998 |   group: 'Usage & Consumption',
+>  999 |   permissions: ['],
+       |                 ^
+  1000 |   route: 'usage_consumption_overview',
+  1001 |   exactRoute: true,
+  1002 |   component: AdminUsageConsumptionPage,
+Error: Unexpected token (36:68)
+  34 |     method: 'GET',
+  35 |     api: ENV.api.fast,
+> 36 |     endpoint: `/rawdata/generic?source=${table.name}&dimensions=[${}]`
+     |                                                                    ^
+  37 |   }, [table], {
+  38 |     enabled: !!table,
+  39 |     initialData: [],
+Error: Unexpected token (4:13)
+  2 |   return table.columns.map(col => {
+  3 |     Header: 'Name',
+> 4 |     accessor: 'name',
+    |             ^
+  5 |     sortable: true,
+  6 |     align: 'left'
+  7 |   },)
+Error: Unexpected token (17:3)
+  15 |   useEffect(() => {
+  16 |     if (table)
+> 17 |   }, [table])
+     |   ^
+  18 |
+  19 |   return <AutoGrid data={data} columns={columns} />
+  20 | }
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:42
+Error: Missing semicolon. (27:47)
+  25 |   {
+  26 |     refetch: true,
+> 27 |     formatter: ({ JSONResponse }) => {debugger return ({
+     |                                               ^
+  28 |       data: JSONResponse[0]
+  29 |     })}
+  30 |   })
+Error: Missing semicolon. (27:47)
+  25 |   {
+  26 |     refetch: true,
+> 27 |     formatter: ({ JSONResponse }) => {debugger return ({
+     |                                               ^
+  28 |       data: JSONResponse[0]
+  29 |     })}
+  30 |   })
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:45
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:45
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:45
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:42
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:42
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:42
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:42
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:42
+Error: Unexpected token (15:55)
+  13 |       Object.keys(columnInfo)
+  14 |         .map((key) => {
+> 15 |           return `<p key=${key}><bold>${key}:</bold>${}</p>`
+     |                                                       ^
+  16 |         })
+  17 |         .join('') 
+  18 |     }
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:42
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:42
+Error: Unexpected token (12:3)
+  10 |   return (
+  11 |     
+> 12 |   )
+     |   ^
+  13 | }
+  14 |
+  15 |
+Error: Unexpected token (12:3)
+  10 |   return (
+  11 |     
+> 12 |   )
+     |   ^
+  13 | }
+  14 |
+  15 |
+Error: Unexpected token (12:3)
+  10 |   return (
+  11 |     
+> 12 |   )
+     |   ^
+  13 | }
+  14 |
+  15 |
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:45
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:45
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:46
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:46
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:47
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Unterminated regular expression. (100:16)
+   98 |       {/* <Box isLoading={isLoading} isMounting={isMounting || !data}>
+   99 |         {/* <ExternalDataDetailTable table={table} data={data} /> */}
+> 100 |       </Box> */}
+      |                ^
+  101 |     </SectionBox>
+  102 |   )
+  103 | }
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Unexpected token (29:18)
+  27 |
+  28 |   return (
+> 29 |     <BoxisLoading={isLoading} isMounting={isMounting}>
+     |                  ^
+  30 |       <AutoGrid
+  31 |         strippedStyle={true}
+  32 |         disableHeader={true}
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Unexpected token, expected "," (44:7)
+  42 |     params: {
+  43 |       source: table?.name
+> 44 |       dimensions: table?.columns.map(({ name }) => `${table.name}.${name}`).join(',')
+     |       ^
+  45 |       // dimensions:
+  46 |       //     'client,datetime,dimensions,host_name,httpcode,ip,metrics,ms,query_type'
+  47 |     }
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:48
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:47
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:47
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:47
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:47
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:47
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:51
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:47
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:47
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/pages/ExternalDataTables/pages/ExternalDataTablesDetail/index.js:47

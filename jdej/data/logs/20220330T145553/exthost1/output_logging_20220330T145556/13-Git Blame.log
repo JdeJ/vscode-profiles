@@ -1,0 +1,45 @@
+[ 14:56:03 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 14:56:03 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/README.md
+[ 14:56:03 | info ] Blamed "/Users/jdej/dev/jdej/WebStorageManager/README.md": 2 commits
+[ 14:56:15 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 14:56:15 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/package.json
+[ 14:56:15 | info ] Blamed "/Users/jdej/dev/jdej/WebStorageManager/package.json": 5 commits
+[ 14:56:18 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 14:56:18 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/jest.config.json
+[ 14:56:18 | info ] Blamed "/Users/jdej/dev/jdej/WebStorageManager/jest.config.json": 4 commits
+[ 14:56:19 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 14:56:19 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/.travis.yml
+[ 14:56:19 | info ] Blamed "/Users/jdej/dev/jdej/WebStorageManager/.travis.yml": 1 commits
+[ 14:56:19 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 14:56:19 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/.gitignore
+[ 14:56:19 | info ] Blamed "/Users/jdej/dev/jdej/WebStorageManager/.gitignore": 3 commits
+[ 14:57:15 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 14:57:16 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/src/index.ts
+[ 14:57:16 | info ] Blamed "/Users/jdej/dev/jdej/WebStorageManager/src/index.ts": 1 commits
+[ 14:57:33 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 14:57:33 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/src/windowStorage.ts
+[ 14:57:34 | error ] Error: fatal: no such path 'src/windowStorage.ts' in HEAD
+[ 14:57:40 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 14:57:40 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/src/WebStorageManager.ts
+[ 14:57:40 | info ] Blamed "/Users/jdej/dev/jdej/WebStorageManager/src/WebStorageManager.ts": 4 commits
+[ 14:58:39 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 14:58:39 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/src/index.test.ts
+[ 14:58:39 | info ] Blamed "/Users/jdej/dev/jdej/WebStorageManager/src/index.test.ts": 1 commits
+[ 14:58:44 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 14:58:45 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/src/Types.ts
+[ 14:58:45 | info ] Blamed "/Users/jdej/dev/jdej/WebStorageManager/src/Types.ts": 4 commits
+[ 15:01:32 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 15:01:32 | info ] Will not blame '/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/lib.dom.d.ts'. Outside the current workspace.
+[ 15:01:36 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 15:01:36 | info ] Will not blame '/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/lib.dom.d.ts'. Outside the current workspace.
+[ 15:01:40 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 15:01:40 | info ] Will not blame '/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/lib.dom.d.ts'. Outside the current workspace.
+[ 15:01:45 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 15:01:45 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/src/windowStorage.ts
+[ 15:01:45 | error ] Error: fatal: no such path 'src/windowStorage.ts' in HEAD
+[ 15:05:35 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 15:05:35 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/src/WebStorageManager.ts
+[ 15:05:35 | info ] Blamed "/Users/jdej/dev/jdej/WebStorageManager/src/WebStorageManager.ts": 4 commits
+[ 15:09:53 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 15:09:53 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/WebStorageManager/tsconfig.json
+[ 15:09:53 | info ] Blamed "/Users/jdej/dev/jdej/WebStorageManager/tsconfig.json": 2 commits

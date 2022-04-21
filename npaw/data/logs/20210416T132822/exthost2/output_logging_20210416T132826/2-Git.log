@@ -1,0 +1,221 @@
+Looking for git in: /usr/local/bin/git
+Using git 2.28.0 from /usr/local/bin/git
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/npaw/youbora
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2358-improve-scatter-map-type-perform refs/remotes/bugfix/UI-2358-improve-scatter-map-type-perform
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2358-improve-scatter-map-type-perform refs/remotes/bugfix/UI-2358-improve-scatter-map-type-perform
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/collection/MapChartWidget/index.js
+> git show --textconv :src/helpers/widgets/getEchartOptionsForMap.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/MapChartWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/helpers/widgets/getEchartOptionsForMap.js
+> git cat-file -s 50d38653a5fff525926deeb52449c3946fd862dd
+> git cat-file -s 54c61ba6a89710892d0b90ffa1652c509162a815
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /Users/jdej/dev/npaw/youbora/src/helpers/widgets/getEchartOptionsForMap.js
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2358-improve-scatter-map-type-perform refs/remotes/bugfix/UI-2358-improve-scatter-map-type-perform
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 92ffc7839ff7af11cf650958b5016ab780982e4b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 92ffc7839ff7af11cf650958b5016ab780982e4b
+> git show -s --format=%an <%ae> [%ai] 493e8713a0b1d3380ec12f5def57a980e27837f3
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 493e8713a0b1d3380ec12f5def57a980e27837f3
+> git show -s --format=%an <%ae> [%ai] f10755044af10ac10f2da37be3707ccdba5851f7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f10755044af10ac10f2da37be3707ccdba5851f7
+> git show -s --format=%an <%ae> [%ai] 0b105c65dc201dd1dccd0c69b769a934edff941b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 0b105c65dc201dd1dccd0c69b769a934edff941b
+> git show -s --format=%an <%ae> [%ai] f74484c63fcb56a476c6c684e609043679f0f7fb
+> git show -s --format=%an <%ae> [%ai] 301d65094c5c08a9ab5aa8b65ad64f864bf55d6a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 301d65094c5c08a9ab5aa8b65ad64f864bf55d6a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f74484c63fcb56a476c6c684e609043679f0f7fb
+> git show -s --format=%an <%ae> [%ai] 873d4e53d501eee6bf03df94442933d296f04089
+> git show -s --format=%an <%ae> [%ai] ddb10adf4d7a9592ccf3303e67b6c0c9b2e4590e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 873d4e53d501eee6bf03df94442933d296f04089
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ddb10adf4d7a9592ccf3303e67b6c0c9b2e4590e
+> git show -s --format=%an <%ae> [%ai] 0fcde48e06f26ec437b7569ff31b04c473d4dda5
+> git show -s --format=%an <%ae> [%ai] a88e0042917ca213cac8c8fad8749dbb27a42930
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 0fcde48e06f26ec437b7569ff31b04c473d4dda5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a88e0042917ca213cac8c8fad8749dbb27a42930
+> git show -s --format=%an <%ae> [%ai] 873d4e53d501eee6bf03df94442933d296f04089
+> git show -s --format=%an <%ae> [%ai] 207347c86fba531036dc28576a125a19188df965
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 873d4e53d501eee6bf03df94442933d296f04089
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 207347c86fba531036dc28576a125a19188df965
+> git show -s --format=%an <%ae> [%ai] a88e0042917ca213cac8c8fad8749dbb27a42930
+> git show -s --format=%an <%ae> [%ai] b0089b959450b7efb181df900dbf0732e2501211
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a88e0042917ca213cac8c8fad8749dbb27a42930
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b0089b959450b7efb181df900dbf0732e2501211
+> git show -s --format=%an <%ae> [%ai] 207347c86fba531036dc28576a125a19188df965
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 207347c86fba531036dc28576a125a19188df965
+> git show -s --format=%an <%ae> [%ai] 417d2093ad53be7875e452d768f9e0c25fdebf9c
+> git show -s --format=%an <%ae> [%ai] b45570a03495ecb56aee070bcca42b2de4c37587
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b45570a03495ecb56aee070bcca42b2de4c37587
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 417d2093ad53be7875e452d768f9e0c25fdebf9c
+> git show -s --format=%an <%ae> [%ai] b0089b959450b7efb181df900dbf0732e2501211
+> git show -s --format=%an <%ae> [%ai] 72a4fa0c662a4e54114b4c3a60a7f700c982c64e
+> git show -s --format=%an <%ae> [%ai] 6bceaccb583fa5bcba667c246cdac261f4390d25
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b0089b959450b7efb181df900dbf0732e2501211
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 72a4fa0c662a4e54114b4c3a60a7f700c982c64e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 6bceaccb583fa5bcba667c246cdac261f4390d25
+> git show -s --format=%an <%ae> [%ai] 417d2093ad53be7875e452d768f9e0c25fdebf9c
+> git show -s --format=%an <%ae> [%ai] b45570a03495ecb56aee070bcca42b2de4c37587
+> git show -s --format=%an <%ae> [%ai] 282d4783661ae2cd831f10036e15de3e2b9fe3c3
+> git show -s --format=%an <%ae> [%ai] f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%an <%ae> [%ai] 8eff3a835cadcea97df84cf9f6ea8730a5f699ce
+> git show -s --format=%an <%ae> [%ai] 72a4fa0c662a4e54114b4c3a60a7f700c982c64e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 282d4783661ae2cd831f10036e15de3e2b9fe3c3
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b45570a03495ecb56aee070bcca42b2de4c37587
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 417d2093ad53be7875e452d768f9e0c25fdebf9c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 72a4fa0c662a4e54114b4c3a60a7f700c982c64e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8eff3a835cadcea97df84cf9f6ea8730a5f699ce
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%an <%ae> [%ai] 6bceaccb583fa5bcba667c246cdac261f4390d25
+> git show -s --format=%an <%ae> [%ai] 72a4fa0c662a4e54114b4c3a60a7f700c982c64e
+> git show -s --format=%an <%ae> [%ai] ecf179d01b18d86d42f3b9dc939db0f3f8a95bac
+> git show -s --format=%an <%ae> [%ai] 282d4783661ae2cd831f10036e15de3e2b9fe3c3
+> git show -s --format=%an <%ae> [%ai] f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%an <%ae> [%ai] f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%an <%ae> [%ai] 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%an <%ae> [%ai] 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ecf179d01b18d86d42f3b9dc939db0f3f8a95bac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 72a4fa0c662a4e54114b4c3a60a7f700c982c64e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 6bceaccb583fa5bcba667c246cdac261f4390d25
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 282d4783661ae2cd831f10036e15de3e2b9fe3c3
+> git show -s --format=%an <%ae> [%ai] 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%an <%ae> [%ai] 8eff3a835cadcea97df84cf9f6ea8730a5f699ce
+> git show -s --format=%an <%ae> [%ai] 72a4fa0c662a4e54114b4c3a60a7f700c982c64e
+> git show -s --format=%an <%ae> [%ai] 282d4783661ae2cd831f10036e15de3e2b9fe3c3
+> git show -s --format=%an <%ae> [%ai] f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%an <%ae> [%ai] ecf179d01b18d86d42f3b9dc939db0f3f8a95bac
+> git show -s --format=%an <%ae> [%ai] 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%an <%ae> [%ai] 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%an <%ae> [%ai] 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%an <%ae> [%ai] 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%an <%ae> [%ai] a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%an <%ae> [%ai] 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ecf179d01b18d86d42f3b9dc939db0f3f8a95bac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 282d4783661ae2cd831f10036e15de3e2b9fe3c3
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 72a4fa0c662a4e54114b4c3a60a7f700c982c64e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8eff3a835cadcea97df84cf9f6ea8730a5f699ce
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%an <%ae> [%ai] 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%an <%ae> [%ai] 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%an <%ae> [%ai] e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%an <%ae> [%ai] 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%an <%ae> [%ai] f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%an <%ae> [%ai] 282d4783661ae2cd831f10036e15de3e2b9fe3c3
+> git show -s --format=%an <%ae> [%ai] f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%an <%ae> [%ai] 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%an <%ae> [%ai] 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%an <%ae> [%ai] ecf179d01b18d86d42f3b9dc939db0f3f8a95bac
+> git show -s --format=%an <%ae> [%ai] a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%an <%ae> [%ai] a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%an <%ae> [%ai] 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%an <%ae> [%ai] e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%an <%ae> [%ai] 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%an <%ae> [%ai] b39b985e8a86380077094e50d6ad905174abef89
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 282d4783661ae2cd831f10036e15de3e2b9fe3c3
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%an <%ae> [%ai] e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%an <%ae> [%ai] 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%an <%ae> [%ai] ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%an <%ae> [%ai] 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%an <%ae> [%ai] 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%an <%ae> [%ai] 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%an <%ae> [%ai] 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ecf179d01b18d86d42f3b9dc939db0f3f8a95bac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b39b985e8a86380077094e50d6ad905174abef89
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%an <%ae> [%ai] b39b985e8a86380077094e50d6ad905174abef89
+> git show -s --format=%an <%ae> [%ai] ecf179d01b18d86d42f3b9dc939db0f3f8a95bac
+> git show -s --format=%an <%ae> [%ai] 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%an <%ae> [%ai] 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%an <%ae> [%ai] a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%an <%ae> [%ai] e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%an <%ae> [%ai] 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%an <%ae> [%ai] 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%an <%ae> [%ai] 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%an <%ae> [%ai] b39b985e8a86380077094e50d6ad905174abef89
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ecf179d01b18d86d42f3b9dc939db0f3f8a95bac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b39b985e8a86380077094e50d6ad905174abef89
+> git show -s --format=%an <%ae> [%ai] ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%an <%ae> [%ai] 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%an <%ae> [%ai] 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%an <%ae> [%ai] 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%an <%ae> [%ai] 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%an <%ae> [%ai] a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%an <%ae> [%ai] e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%an <%ae> [%ai] 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%an <%ae> [%ai] ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%an <%ae> [%ai] 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%an <%ae> [%ai] 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%an <%ae> [%ai] c6f85fcb5c289f7cab4541395145d29cec144c6a
+> git show -s --format=%an <%ae> [%ai] 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b39b985e8a86380077094e50d6ad905174abef89
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c6f85fcb5c289f7cab4541395145d29cec144c6a

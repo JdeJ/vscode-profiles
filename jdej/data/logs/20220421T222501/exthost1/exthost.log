@@ -1,0 +1,30 @@
+[2022-04-21 22:25:04.382] [exthost] [info] Extension host with pid 21570 started
+[2022-04-21 22:25:04.382] [exthost] [info] Skipping acquiring lock for /Users/jdej/dev/jdej/vscode-profiles/jdej/data/User/workspaceStorage/9d180d3489ed2611cd2efc2b71b7c95a.
+[2022-04-21 22:25:04.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-04-21 22:25:04.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-21 22:25:04.792] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-04-21 22:25:04.796] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-21 22:25:04.802] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-04-21 22:25:04.840] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: true, activationEvent: '*'
+[2022-04-21 22:25:04.931] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-04-21 22:25:04.945] [exthost] [info] ExtensionService#_doActivateExtension huizhou.githd, startup: true, activationEvent: '*'
+[2022-04-21 22:25:04.989] [exthost] [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+[2022-04-21 22:25:04.994] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+[2022-04-21 22:25:05.145] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-04-21 22:25:05.674] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-04-21 22:25:05.745] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+[2022-04-21 22:25:06.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: donjayamanne.githistory
+[2022-04-21 22:25:06.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-04-21 22:25:08.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-21 22:25:09.211] [exthost] [info] Eager extensions activated
+[2022-04-21 22:25:09.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:25:09.242] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:25:09.244] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:25:09.253] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:25:09.637] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:25:09.666] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:25:09.696] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:25:09.713] [exthost] [info] ExtensionService#_doActivateExtension waderyan.gitblame, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:26:02.268] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-21 22:26:02.297] [exthost] [warning] {"name":"Canceled"}
+[2022-04-21 22:26:02.298] [exthost] [info] Extension host with pid 21570 exiting with code 0

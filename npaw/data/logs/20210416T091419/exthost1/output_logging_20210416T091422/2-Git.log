@@ -1,0 +1,2136 @@
+Looking for git in: /usr/local/bin/git
+Using git 2.28.0 from /usr/local/bin/git
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/npaw/youbora
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 72a4fa0c662a4e54114b4c3a60a7f700c982c64e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 72a4fa0c662a4e54114b4c3a60a7f700c982c64e
+> git show -s --format=%an <%ae> [%ai] 282d4783661ae2cd831f10036e15de3e2b9fe3c3
+> git show -s --format=%an <%ae> [%ai] f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 282d4783661ae2cd831f10036e15de3e2b9fe3c3
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f799bccdc1d786324ebce097ba5fa3106f5ece42
+> git show -s --format=%an <%ae> [%ai] ecf179d01b18d86d42f3b9dc939db0f3f8a95bac
+> git show -s --format=%an <%ae> [%ai] 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%an <%ae> [%ai] 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ecf179d01b18d86d42f3b9dc939db0f3f8a95bac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5f632033c5f4c6b583dce293a8bd070bbdf32f82
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 87e1cbd3085863d92f00cc74f221674d69bb8745
+> git show -s --format=%an <%ae> [%ai] 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%an <%ae> [%ai] a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%an <%ae> [%ai] 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a06af3d3b68ed705b07643f10c99a6583313029b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%an <%ae> [%ai] b39b985e8a86380077094e50d6ad905174abef89
+> git show -s --format=%an <%ae> [%ai] e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%an <%ae> [%ai] 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%an <%ae> [%ai] e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%an <%ae> [%ai] 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b39b985e8a86380077094e50d6ad905174abef89
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%an <%ae> [%ai] c6f85fcb5c289f7cab4541395145d29cec144c6a
+> git show -s --format=%an <%ae> [%ai] 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%an <%ae> [%ai] ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%an <%ae> [%ai] ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c6f85fcb5c289f7cab4541395145d29cec144c6a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 06d08cab353d281059425c0dd49501ec18a38e68
+> git show -s --format=%an <%ae> [%ai] 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%an <%ae> [%ai] 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%an <%ae> [%ai] 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%an <%ae> [%ai] 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%an <%ae> [%ai] 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%an <%ae> [%ai] e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%an <%ae> [%ai] 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%an <%ae> [%ai] 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%an <%ae> [%ai] 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e2a448fc33b728b6ad57557e69aaba511c757c75
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%an <%ae> [%ai] 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%an <%ae> [%ai] 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8f158869727fbe8ab92ca5096f5e3c5889909bb7
+> git show -s --format=%an <%ae> [%ai] 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%an <%ae> [%ai] 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%an <%ae> [%ai] ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%an <%ae> [%ai] 249612b7a2af8e479977c1b4fe617c4019b594e1
+> git show -s --format=%an <%ae> [%ai] ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%an <%ae> [%ai] 249612b7a2af8e479977c1b4fe617c4019b594e1
+> git show -s --format=%an <%ae> [%ai] ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%an <%ae> [%ai] 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%an <%ae> [%ai] 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%an <%ae> [%ai] a452fe9df055376a584ad91244d158892f4b53c7
+> git show -s --format=%an <%ae> [%ai] 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%an <%ae> [%ai] a452fe9df055376a584ad91244d158892f4b53c7
+> git show -s --format=%an <%ae> [%ai] 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 2dcb6a50433c7de029ce9a97387f29320c70adbe
+> git show -s --format=%an <%ae> [%ai] 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 249612b7a2af8e479977c1b4fe617c4019b594e1
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 249612b7a2af8e479977c1b4fe617c4019b594e1
+> git show -s --format=%an <%ae> [%ai] 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a452fe9df055376a584ad91244d158892f4b53c7
+> git show -s --format=%an <%ae> [%ai] 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%an <%ae> [%ai] 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4b9c7db39d7b8026f199b77de4fbd7abff6b8343
+> git show -s --format=%an <%ae> [%ai] 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%an <%ae> [%ai] 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%an <%ae> [%ai] 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%an <%ae> [%ai] 249612b7a2af8e479977c1b4fe617c4019b594e1
+> git show -s --format=%an <%ae> [%ai] ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a452fe9df055376a584ad91244d158892f4b53c7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%an <%ae> [%ai] fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%an <%ae> [%ai] 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%an <%ae> [%ai] 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%an <%ae> [%ai] fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%an <%ae> [%ai] 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%an <%ae> [%ai] fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%an <%ae> [%ai] 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%an <%ae> [%ai] 249612b7a2af8e479977c1b4fe617c4019b594e1
+> git show -s --format=%an <%ae> [%ai] ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%an <%ae> [%ai] 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%an <%ae> [%ai] fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%an <%ae> [%ai] 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%an <%ae> [%ai] 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 249612b7a2af8e479977c1b4fe617c4019b594e1
+> git show -s --format=%an <%ae> [%ai] 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%an <%ae> [%ai] 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%an <%ae> [%ai] a452fe9df055376a584ad91244d158892f4b53c7
+> git show -s --format=%an <%ae> [%ai] 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%an <%ae> [%ai] 6084edd3e98c03187602f3bc9c285a1d370f0461
+> git show -s --format=%an <%ae> [%ai] 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%an <%ae> [%ai] 807697f76d9738202eabfd3da69f0af610a4db42
+> git show -s --format=%an <%ae> [%ai] 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%an <%ae> [%ai] 807697f76d9738202eabfd3da69f0af610a4db42
+> git show -s --format=%an <%ae> [%ai] 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%an <%ae> [%ai] 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ca9dc8c3149b1dfa854d6bc27752f4ba25be7a0c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 249612b7a2af8e479977c1b4fe617c4019b594e1
+> git show -s --format=%an <%ae> [%ai] 807697f76d9738202eabfd3da69f0af610a4db42
+> git show -s --format=%an <%ae> [%ai] 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%an <%ae> [%ai] 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%an <%ae> [%ai] 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%an <%ae> [%ai] fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%an <%ae> [%ai] 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%an <%ae> [%ai] fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%an <%ae> [%ai] 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 807697f76d9738202eabfd3da69f0af610a4db42
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 807697f76d9738202eabfd3da69f0af610a4db42
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 6084edd3e98c03187602f3bc9c285a1d370f0461
+> git show -s --format=%an <%ae> [%ai] 6084edd3e98c03187602f3bc9c285a1d370f0461
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%an <%ae> [%ai] a452fe9df055376a584ad91244d158892f4b53c7
+> git show -s --format=%an <%ae> [%ai] 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a452fe9df055376a584ad91244d158892f4b53c7
+> git show -s --format=%an <%ae> [%ai] 6084edd3e98c03187602f3bc9c285a1d370f0461
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5493d062b56a5091d83e4f2b8919867de757a7c2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1eda517102caa34c1967f39db7c62984f73adc57
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 4dfcaadd20a18fb8cf3396eb6821f54da5dc3be5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 807697f76d9738202eabfd3da69f0af610a4db42
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 6084edd3e98c03187602f3bc9c285a1d370f0461
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fd607602915e4a4625e45d81039925cfc531bcac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3b1961895e06956974211359dcf62845a3ec3126
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 6084edd3e98c03187602f3bc9c285a1d370f0461
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1114c0b82a18d2a5f101311df1cee4cd6a9032bf
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a452fe9df055376a584ad91244d158892f4b53c7
+From https://bitbucket.org/npaw/youbora
+   72a4fa0c6..873d4e53d  develop    -> origin/develop
+ * [new branch]          bugfix/UI-2242-dt---youbora-usability-issue-due-qa -> origin/bugfix/UI-2242-dt---youbora-usability-issue-due-qa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.css
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/App.css
+> git cat-file -s 6982d71def2fde6d1226ca3f02098382ca4d308b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/App.css
+> git cat-file -s 6982d71def2fde6d1226ca3f02098382ca4d308b
+> git show --textconv :src/App.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/App.css
+> git cat-file -s 6982d71def2fde6d1226ca3f02098382ca4d308b
+> git show --textconv :src/App.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/App.css
+> git cat-file -s 6982d71def2fde6d1226ca3f02098382ca4d308b
+> git show --textconv :src/App.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/App.css
+> git cat-file -s 6982d71def2fde6d1226ca3f02098382ca4d308b
+> git show --textconv :src/App.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/App.css
+> git cat-file -s 6982d71def2fde6d1226ca3f02098382ca4d308b
+> git show --textconv :src/App.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/App.css
+> git cat-file -s 6982d71def2fde6d1226ca3f02098382ca4d308b
+> git show --textconv :src/App.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git checkout -q -- /Users/jdej/dev/npaw/youbora/src/App.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/App.css
+> git cat-file -s 6982d71def2fde6d1226ca3f02098382ca4d308b
+> git show --textconv :src/App.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/UsersGrowthChurn/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/index.js
+> git cat-file -s a80cbcc7039697bf0845f6be9e5efc4c9d568031
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/styles/index.css
+> git show --textconv :src/pages/UsersGrowthChurn/styles/index.css
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/styles/index.css
+> git cat-file -s e878d17fac2ea118eed9bfd05a783bc782158324
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/styles/index.css
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git cat-file -s e878d17fac2ea118eed9bfd05a783bc782158324
+> git show --textconv :src/pages/UsersGrowthChurn/styles/index.css
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/styles/index.css
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git cat-file -s e878d17fac2ea118eed9bfd05a783bc782158324
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/KPIS/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPIS/index.js
+> git cat-file -s 6ed25df516a1a5ea89faca0f4555b3256c8cf5af
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPIS/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git cat-file -s 6ed25df516a1a5ea89faca0f4555b3256c8cf5af
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git show --textconv :src/components/KPIS/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPIS/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git cat-file -s 6ed25df516a1a5ea89faca0f4555b3256c8cf5af
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git show --textconv :src/components/KPIS/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPIS/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git cat-file -s 6ed25df516a1a5ea89faca0f4555b3256c8cf5af
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git show --textconv :src/components/KPIS/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPIS/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git cat-file -s 6ed25df516a1a5ea89faca0f4555b3256c8cf5af
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git show --textconv :src/components/KPIS/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/KPI/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git show --textconv :src/components/KPI/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/components/KPI/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git show --textconv :src/components/KPI/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git show --textconv :src/components/KPI/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/components/KPI/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git show --textconv :src/components/KPI/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/components/KPI/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git cat-file -s b68bd0bb590d8aaf552504fb545eba4754fb257f
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/components/KPI/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s 841f037c5b40c0ab15a9340ca22367a44f76d757
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git show --textconv :src/components/KPI/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s 841f037c5b40c0ab15a9340ca22367a44f76d757
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git show --textconv :src/components/KPI/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/UsersGrowthChurn/containers/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/KPI/index.js
+> git cat-file -s 1c2270911a6471b58d4fe41f54c3ec3e578bd0f4
+> git cat-file -s 841f037c5b40c0ab15a9340ca22367a44f76d757
+> git cat-file -s 4394802d2b7f3eb18cc51ff2edde2b7ee0591cdf
+> git show --textconv :src/pages/UsersGrowthChurn/constants/index.js
+> git show --textconv :src/pages/UsersGrowthChurn/containers/index.js
+> git show --textconv :src/components/KPI/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+From https://bitbucket.org/npaw/youbora
+ * [new branch]          feature/added-widget-to-app-analytics -> origin/feature/added-widget-to-app-analytics
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+From https://bitbucket.org/npaw/youbora
+   55aeec341..2ad4ef14c  feature/added-widget-to-app-analytics -> origin/feature/added-widget-to-app-analytics
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git fetch
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git checkout -q -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git show --textconv HEAD:src/pages/HomeBooster/pages/Content/styles/index.css
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git checkout -q -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv HEAD:src/pages/HomeBooster/pages/Content/styles/index.css
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git checkout -q -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git cat-file -s 342e7096579962d67cd2c870fe9592e749210eae
+> git show --textconv HEAD:src/pages/HomeBooster/pages/Content/styles/index.css
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/styles/index.css
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/HomeBooster/pages/Content/index.js
+> git cat-file -s fb053e173db2ee37633fb0493206740239787eb4
+> git cat-file -s ae962ee6734f9787979b0899cdc43cb338ff3e4e
+> git show --textconv :src/pages/HomeBooster/pages/Content/styles/index.css
+> git show --textconv :src/pages/HomeBooster/pages/Content/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+From https://bitbucket.org/npaw/youbora
+   873d4e53d..301d65094  develop    -> origin/develop
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/Benchmarks/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/index.js
+> git cat-file -s 311339a8d0351d10257d00c188e0f322a57c75f5
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/Benchmarks/pages/Content/config/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/config/index.js
+> git cat-file -s d46328b4934f8aec9b8f9742cd463ed02be71e7a
+> git show --textconv :src/pages/Benchmarks/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/index.js
+> git cat-file -s 311339a8d0351d10257d00c188e0f322a57c75f5
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/Benchmarks/pages/Content/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/constants/index.js
+> git cat-file -s 29c9475421d21aa3122570bb192b45d57d6c5550
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/constants/index.js
+> git cat-file -s 311339a8d0351d10257d00c188e0f322a57c75f5
+> git cat-file -s 29c9475421d21aa3122570bb192b45d57d6c5550
+> git show --textconv :src/pages/Benchmarks/pages/Content/constants/index.js
+> git show --textconv :src/pages/Benchmarks/pages/Content/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/constants/index.js
+> git cat-file -s 1372dd6f4cd7c3ecb1738bde55f02ee9e76d7e75
+> git cat-file -s 29c9475421d21aa3122570bb192b45d57d6c5550
+> git show --textconv :src/pages/Benchmarks/pages/Content/index.js
+> git show --textconv :src/pages/Benchmarks/pages/Content/constants/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/constants/index.js
+> git cat-file -s 1372dd6f4cd7c3ecb1738bde55f02ee9e76d7e75
+> git cat-file -s 29c9475421d21aa3122570bb192b45d57d6c5550
+> git show --textconv :src/pages/Benchmarks/pages/Content/index.js
+> git show --textconv :src/pages/Benchmarks/pages/Content/constants/index.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/Benchmarks/pages/OverallPerformance/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/OverallPerformance/index.js
+> git cat-file -s 6cbf2e75705db5b3e70f367f8f07bc3992ffb468
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/OverallPerformance/index.js
+> git cat-file -s 29c9475421d21aa3122570bb192b45d57d6c5550
+> git cat-file -s 6cbf2e75705db5b3e70f367f8f07bc3992ffb468
+> git show --textconv :src/pages/Benchmarks/pages/Content/constants/index.js
+> git show --textconv :src/pages/Benchmarks/pages/OverallPerformance/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/Content/constants/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Benchmarks/pages/OverallPerformance/index.js
+> git cat-file -s 29c9475421d21aa3122570bb192b45d57d6c5550
+> git cat-file -s 6cbf2e75705db5b3e70f367f8f07bc3992ffb468
+> git show --textconv :src/pages/Benchmarks/pages/Content/constants/index.js
+> git show --textconv :src/pages/Benchmarks/pages/OverallPerformance/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+From https://bitbucket.org/npaw/youbora
+ * [new branch]          bugfix/UI-2357-ote-mfa-accounts-malfunctioning -> origin/bugfix/UI-2357-ote-mfa-accounts-malfunctioning
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Widget/collection/TopTableWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/index.js
+> git cat-file -s 749157014a41dc796791b37da0e3e26b8be6fcb8
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git show --textconv :src/components/Widget/HOCs/withGrid.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withGrid.js
+> git cat-file -s 79b121d9c5f39aa3c34dc8390a8b13b131cfc736
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git show --textconv :src/components/Widget/HOCs/withWidgetProps.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withWidgetProps.js
+> git cat-file -s 5ba1b9851b8f2522dc440e80873af4e892e3c743
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/collection/TopTableWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/index.js
+> git cat-file -s 749157014a41dc796791b37da0e3e26b8be6fcb8
+> git show --textconv :src/components/Widget/collection/TopTableWidget/config/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/config/index.js
+> git cat-file -s 204c67901ebcb4862e4f35829558e6a203cab6bb
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/collection/TopTableWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/index.js
+> git cat-file -s 749157014a41dc796791b37da0e3e26b8be6fcb8
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withGrid.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s 79b121d9c5f39aa3c34dc8390a8b13b131cfc736
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git show --textconv :src/components/Widget/HOCs/withGrid.js
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withGrid.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s 79b121d9c5f39aa3c34dc8390a8b13b131cfc736
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git show --textconv :src/components/Widget/HOCs/withGrid.js
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Widget/HOCs/withTools.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withTools.js
+> git cat-file -s 9b2a4d447c854f3aad22b7d08a6bb1aca57db587
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/collection/TopTableWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/index.js
+> git cat-file -s 749157014a41dc796791b37da0e3e26b8be6fcb8
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/HOCs/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/index.js
+> git cat-file -s 1baf07561f2178a0674952ff4e145dcc061a749b
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git show --textconv :src/components/Widget/HOCs/withWidgetProps.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withWidgetProps.js
+> git cat-file -s 5ba1b9851b8f2522dc440e80873af4e892e3c743
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withGrid.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withWidgetProps.js
+> git cat-file -s 79b121d9c5f39aa3c34dc8390a8b13b131cfc736
+> git cat-file -s 5ba1b9851b8f2522dc440e80873af4e892e3c743
+> git show --textconv :src/components/Widget/HOCs/withGrid.js
+> git show --textconv :src/components/Widget/HOCs/withWidgetProps.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withGrid.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withWidgetProps.js
+> git cat-file -s 79b121d9c5f39aa3c34dc8390a8b13b131cfc736
+> git cat-file -s 5ba1b9851b8f2522dc440e80873af4e892e3c743
+> git show --textconv :src/components/Widget/HOCs/withGrid.js
+> git show --textconv :src/components/Widget/HOCs/withWidgetProps.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git show --textconv :src/components/Widget/collection/TopTableWidget/config/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/config/index.js
+> git cat-file -s 204c67901ebcb4862e4f35829558e6a203cab6bb
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git show --textconv :src/components/Widget/HOCs/withVirtualization.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withVirtualization.js
+> git cat-file -s e2de3382994c874a8cf5eca887c30a9f1eb46688
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git show --textconv :src/components/Widget/HOCs/withTools.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withTools.js
+> git cat-file -s 9b2a4d447c854f3aad22b7d08a6bb1aca57db587
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git show --textconv :src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/collection/TopTableWidget/config/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/config/index.js
+> git cat-file -s 204c67901ebcb4862e4f35829558e6a203cab6bb
+> git show --textconv :src/components/Widget/components/WidgetToolbar/components/OptionsMenu/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/WidgetToolbar/components/OptionsMenu/index.js
+> git cat-file -s 148be66841b87482243a2e94a941999380b6d513
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/config/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/WidgetToolbar/components/OptionsMenu/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s 204c67901ebcb4862e4f35829558e6a203cab6bb
+> git cat-file -s 148be66841b87482243a2e94a941999380b6d513
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Widget/collection/TopTableWidget/config/index.js
+> git show --textconv :src/components/Widget/components/WidgetToolbar/components/OptionsMenu/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Widget/HOCs/withWidgetProps.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withWidgetProps.js
+> git cat-file -s 5ba1b9851b8f2522dc440e80873af4e892e3c743
+> git show --textconv :src/components/Widget/HOCs/withTools.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withTools.js
+> git cat-file -s 9b2a4d447c854f3aad22b7d08a6bb1aca57db587
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git show --textconv :src/components/Widget/HOCs/withError.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withError.js
+> git cat-file -s e315ec2d19ad0168791f82dbccd06038a2debcf8
+> git show --textconv :src/components/Widget/collection/TopTableWidget/config/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/config/index.js
+> git cat-file -s 204c67901ebcb4862e4f35829558e6a203cab6bb
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git show --textconv :src/components/Widget/HOCs/withGrid.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withGrid.js
+> git cat-file -s 79b121d9c5f39aa3c34dc8390a8b13b131cfc736
+> git show --textconv :src/pages/Dashboard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git check-ignore -v -z --stdin
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withGrid.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git cat-file -s 79b121d9c5f39aa3c34dc8390a8b13b131cfc736
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git show --textconv :src/components/Widget/HOCs/withGrid.js
+> git show --textconv :src/pages/Dashboard/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/composedHOCs.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/HOCs/withGrid.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git cat-file -s ad77515b3e4d16d14380977be6adba1913daebd7
+> git cat-file -s 79b121d9c5f39aa3c34dc8390a8b13b131cfc736
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git show --textconv :src/components/Widget/HOCs/composedHOCs.js
+> git show --textconv :src/components/Widget/HOCs/withGrid.js
+> git show --textconv :src/pages/Dashboard/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/index.js
+> git cat-file -s 18fa4c6a8b7e3fe11691d1a59f80fe7cbd0d6e06
+> git check-ignore -v -z --stdin
+> git show --textconv :src/constants/breakpoints.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/constants/breakpoints.js
+> git cat-file -s 58d9db423e0ad9949fc8de38a343811f09661d5a
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+Opening repository for path='/Users/jdej/Library/Caches/typescript/4.2/node_modules/@types/react-grid-layout' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git cat-file -s 18fa4c6a8b7e3fe11691d1a59f80fe7cbd0d6e06
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+> git show --textconv :src/pages/Dashboard/index.js
+> git show --textconv :src/components/Widget/index.js
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Widget/collection/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/index.js
+> git cat-file -s cc766f09dd58458558f79ab66ba47ac4cee610f0
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/collection/AreaChartWidget/config/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/AreaChartWidget/config/index.js
+> git cat-file -s 5dbe970382014290932c6bb2faba6116bea64412
+> git check-ignore -v -z --stdin
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/AreaChartWidget/config/index.js
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+> git cat-file -s 5dbe970382014290932c6bb2faba6116bea64412
+> git show --textconv :src/pages/Dashboard/index.js
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git show --textconv :src/components/Widget/collection/AreaChartWidget/config/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/AreaChartWidget/config/index.js
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+> git cat-file -s 5dbe970382014290932c6bb2faba6116bea64412
+> git show --textconv :src/pages/Dashboard/index.js
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git show --textconv :src/components/Widget/collection/AreaChartWidget/config/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/AreaChartWidget/config/index.js
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+> git cat-file -s 5dbe970382014290932c6bb2faba6116bea64412
+> git show --textconv :src/pages/Dashboard/index.js
+> git show --textconv :src/components/Widget/collection/AreaChartWidget/config/index.js
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/AreaChartWidget/config/index.js
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+> git cat-file -s 5dbe970382014290932c6bb2faba6116bea64412
+> git show --textconv :src/pages/Dashboard/index.js
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git show --textconv :src/components/Widget/collection/AreaChartWidget/config/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Grid/components/DefaultCell/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/components/DefaultCell/index.js
+> git cat-file -s 8027658637d286358dd4a46f6dc87ed825e7528e
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/collection/AreaChartWidget/config/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/AreaChartWidget/config/index.js
+> git cat-file -s 5dbe970382014290932c6bb2faba6116bea64412
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/AreaChartWidget/config/index.js
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+> git cat-file -s 5dbe970382014290932c6bb2faba6116bea64412
+> git show --textconv :src/pages/Dashboard/index.js
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git show --textconv :src/components/Widget/collection/AreaChartWidget/config/index.js
+From https://bitbucket.org/npaw/youbora
+   0b105c65d..f10755044  develop    -> origin/develop
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/AreaChartWidget/config/index.js
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+> git cat-file -s 5dbe970382014290932c6bb2faba6116bea64412
+> git show --textconv :src/pages/Dashboard/index.js
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git show --textconv :src/components/Widget/collection/AreaChartWidget/config/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/AreaChartWidget/config/index.js
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+> git cat-file -s 5dbe970382014290932c6bb2faba6116bea64412
+> git show --textconv :src/pages/Dashboard/index.js
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git show --textconv :src/components/Widget/collection/AreaChartWidget/config/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/WidgetsGrid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/AreaChartWidget/config/index.js
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git cat-file -s 19b33611473bcbcfb9d25f810c5f2a8808a8ba32
+> git cat-file -s 5dbe970382014290932c6bb2faba6116bea64412
+> git show --textconv :src/pages/Dashboard/index.js
+> git show --textconv :src/components/WidgetsGrid/index.js
+> git show --textconv :src/components/Widget/collection/AreaChartWidget/config/index.js
+> git show --textconv :src/components/Grid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/index.js
+> git cat-file -s 514ff2fa1caca24e883ba9132c79cb94daf421e5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/Dashboard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git cat-file -s 467d56ace8c5b3a8188284099c7acfcb79b94098
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git cat-file -s 514ff2fa1caca24e883ba9132c79cb94daf421e5
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git show --textconv :src/components/Grid/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Box/index.js
+From https://bitbucket.org/npaw/youbora
+   f10755044..493e8713a  develop    -> origin/develop
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git cat-file -s 514ff2fa1caca24e883ba9132c79cb94daf421e5
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Grid/index.js
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Widget/collection/TopTableWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/index.js
+> git cat-file -s 749157014a41dc796791b37da0e3e26b8be6fcb8
+> git show --textconv :src/components/Widget/components/TableWidgetsSlider/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git cat-file -s 05b254aacf0598050e73e05be16783c97006a5bc
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Widget/components/TableWidgetsSlider/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git cat-file -s 05b254aacf0598050e73e05be16783c97006a5bc
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git cat-file -s 05b254aacf0598050e73e05be16783c97006a5bc
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Widget/components/TableWidgetsSlider/index.js
+From https://bitbucket.org/npaw/youbora
+   0bb05a200..60678831c  bugfix/UI-2242-dt---youbora-usability-issue-due-qa -> origin/bugfix/UI-2242-dt---youbora-usability-issue-due-qa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git cat-file -s 05b254aacf0598050e73e05be16783c97006a5bc
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Widget/components/TableWidgetsSlider/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:src/components/Widget/components/TableWidgetsSlider/index.js
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git show --textconv HEAD:src/pages/Dashboard/index.js
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git checkout -q -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/src/pages/Dashboard/index.js
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git show --textconv HEAD:src/components/Widget/components/TableWidgetsSlider/index.js
+> git show --textconv HEAD:src/pages/Dashboard/index.js
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Widget/components/TableWidgetsSlider/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git cat-file -s 05b254aacf0598050e73e05be16783c97006a5bc
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git cat-file -s 05b254aacf0598050e73e05be16783c97006a5bc
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Widget/components/TableWidgetsSlider/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git cat-file -s 05b254aacf0598050e73e05be16783c97006a5bc
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Widget/components/TableWidgetsSlider/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git cat-file -s 05b254aacf0598050e73e05be16783c97006a5bc
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Widget/components/TableWidgetsSlider/index.js
+From https://bitbucket.org/npaw/youbora
+   60678831c..10fcbe84c  bugfix/UI-2242-dt---youbora-usability-issue-due-qa -> origin/bugfix/UI-2242-dt---youbora-usability-issue-due-qa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git cat-file -s 05b254aacf0598050e73e05be16783c97006a5bc
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Widget/components/TableWidgetsSlider/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Widget/collection/TopTableWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/index.js
+> git cat-file -s 749157014a41dc796791b37da0e3e26b8be6fcb8
+> git show --textconv :src/components/Widget/components/TableWidgetsSlider/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git cat-file -s 05b254aacf0598050e73e05be16783c97006a5bc
+> git checkout -q -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/components/TableWidgetsSlider/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git cat-file -s 05b254aacf0598050e73e05be16783c97006a5bc
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Widget/components/TableWidgetsSlider/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Widget/collection/TopTableWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/index.js
+> git cat-file -s 749157014a41dc796791b37da0e3e26b8be6fcb8
+> git show --textconv HEAD:src/components/Box/index.js
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git checkout -q -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv HEAD:src/components/Box/index.js
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Widget/collection/TopTableWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/TopTableWidget/index.js
+> git cat-file -s 749157014a41dc796791b37da0e3e26b8be6fcb8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Widget/collection/AreaChartWidget/config/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/AreaChartWidget/config/index.js
+> git cat-file -s 5dbe970382014290932c6bb2faba6116bea64412
+> git show --textconv :src/components/Widget/collection/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/index.js
+> git cat-file -s cc766f09dd58458558f79ab66ba47ac4cee610f0
+> git show --textconv :src/components/Widget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/index.js
+> git cat-file -s 18fa4c6a8b7e3fe11691d1a59f80fe7cbd0d6e06
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Box/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue-whe refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue-whe
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git cat-file -s f3cbc04ba106b61f452a8f16ab8ac828c8575391
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Box/index.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/qa refs/remotes/qa
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s f3cbc04ba106b61f452a8f16ab8ac828c8575391
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/qa refs/remotes/qa
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s f3cbc04ba106b61f452a8f16ab8ac828c8575391
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Box/index.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/qa refs/remotes/qa
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s f3cbc04ba106b61f452a8f16ab8ac828c8575391
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s f3cbc04ba106b61f452a8f16ab8ac828c8575391
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s f3cbc04ba106b61f452a8f16ab8ac828c8575391
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s f3cbc04ba106b61f452a8f16ab8ac828c8575391
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2356-table-sliders-resizing-issue refs/remotes/bugfix/UI-2356-table-sliders-resizing-issue
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2358-improve-scatter-map-type-perform refs/remotes/bugfix/UI-2358-improve-scatter-map-type-perform
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git status -z -u
+> git show --textconv :src/components/Box/index.js
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2358-improve-scatter-map-type-perform refs/remotes/bugfix/UI-2358-improve-scatter-map-type-perform
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Box/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Grid/HOC/withAutoSizer/index.js
+> git cat-file -s c0b2a781b4830413ebac4dbf04c2dad142f79c27
+> git cat-file -s a7d801c5a8e15e0827137445f809e6f71cb496e3
+> git show --textconv :src/components/Grid/HOC/withAutoSizer/index.js
+> git show --textconv :src/components/Box/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2358-improve-scatter-map-type-perform refs/remotes/bugfix/UI-2358-improve-scatter-map-type-perform
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/Widget/collection/MapChartWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/MapChartWidget/index.js
+> git cat-file -s 54c61ba6a89710892d0b90ffa1652c509162a815
+> git check-ignore -v -z --stdin
+> git show --textconv :src/helpers/widgets/getEchartOptionsForMap.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/helpers/widgets/getEchartOptionsForMap.js
+> git cat-file -s 50d38653a5fff525926deeb52449c3946fd862dd
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/Widget/collection/MapChartWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/MapChartWidget/index.js
+> git cat-file -s 54c61ba6a89710892d0b90ffa1652c509162a815
+> git show --textconv :src/helpers/widgets/getEchartOptionsForMap.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/helpers/widgets/getEchartOptionsForMap.js
+> git cat-file -s 50d38653a5fff525926deeb52449c3946fd862dd
+> git fetch
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/MapChartWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/helpers/widgets/getEchartOptionsForMap.js
+> git cat-file -s 54c61ba6a89710892d0b90ffa1652c509162a815
+> git cat-file -s 50d38653a5fff525926deeb52449c3946fd862dd
+> git show --textconv :src/components/Widget/collection/MapChartWidget/index.js
+> git show --textconv :src/helpers/widgets/getEchartOptionsForMap.js
+From https://bitbucket.org/npaw/youbora
+ * [new branch]          UI-2350-dt---usability-issue-when-select -> origin/UI-2350-dt---usability-issue-when-select
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2358-improve-scatter-map-type-perform refs/remotes/bugfix/UI-2358-improve-scatter-map-type-perform
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/Widget/collection/MapChartWidget/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/helpers/widgets/getEchartOptionsForMap.js
+> git cat-file -s 54c61ba6a89710892d0b90ffa1652c509162a815
+> git cat-file -s 50d38653a5fff525926deeb52449c3946fd862dd
+> git show --textconv :src/components/Widget/collection/MapChartWidget/index.js
+> git show --textconv :src/helpers/widgets/getEchartOptionsForMap.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/bugfix/UI-2358-improve-scatter-map-type-perform refs/remotes/bugfix/UI-2358-improve-scatter-map-type-perform
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin

@@ -1,0 +1,6 @@
+[2022-04-21T20:35:49.575Z] Validating found git in: /usr/local/bin/git
+[2022-04-21T20:35:49.598Z] Using git 2.32.0 from /usr/local/bin/git
+[2022-04-21T20:35:49.612Z] > git rev-parse --git-dir [5ms]
+[2022-04-21T20:35:49.614Z] Open repository: /Users/jdej/dev/jdej/vscode-profiles
+[2022-04-21T20:35:51.200Z] > git config --global user.email [395ms]
+[2022-04-21T20:35:51.264Z] > git config --global user.name [63ms]

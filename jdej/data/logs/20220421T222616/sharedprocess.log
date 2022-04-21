@@ -1,0 +1,7 @@
+[2022-04-21 22:26:19.426] [sharedprocess] [info] Starting worker process with pid 21863 (type: fileWatcher, window: 1).
+[2022-04-21 22:28:19.933] [sharedprocess] [info] Starting worker process with pid 22096 (type: fileWatcher, window: 3).
+[2022-04-21 22:35:48.253] [sharedprocess] [info] Starting worker process with pid 22477 (type: fileWatcher, window: 4).
+[2022-04-21 22:36:15.358] [sharedprocess] [info] Detected extension removed from another source christian-kohler.npm-intellisense
+[2022-04-21 22:36:23.781] [sharedprocess] [info] Detected extension removed from another source dsznajder.es7-react-js-snippets
+[2022-04-21 22:37:49.264] [sharedprocess] [info] Detected extension removed from another source firefox-devtools.vscode-firefox-debug
+[2022-04-21 22:39:20.001] [sharedprocess] [info] Worker process with pid 22477 terminated normally (type: fileWatcher, window: 4).

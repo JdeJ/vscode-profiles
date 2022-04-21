@@ -1,0 +1,590 @@
+["INFO" - 12:04:34 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 12:04:34 PM] Extension Version: 9.5.0.
+["INFO" - 2:17:56 PM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/dist/index.js
+["INFO" - 2:17:56 PM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 2:17:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:17:56 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:17:56 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/dist/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:17:56 PM] Formatting completed in 0.122ms.
+["INFO" - 2:18:01 PM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/dist/index.js
+["INFO" - 2:18:01 PM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 2:18:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:18:01 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:18:01 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/dist/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:18:01 PM] Formatting completed in 0.011ms.
+["INFO" - 2:18:05 PM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/dist/index.js
+["INFO" - 2:18:05 PM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 2:18:05 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:18:05 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:18:05 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/dist/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:18:05 PM] Formatting completed in 0.01ms.
+["INFO" - 2:28:22 PM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/LICENSE
+["INFO" - 2:28:22 PM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 2:28:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 2:28:22 PM] Parser not inferred, trying VS Code language.
+["INFO" - 2:28:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:28:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/LICENSE",
+  "parser": "markdown"
+}
+["INFO" - 2:28:22 PM] Formatting completed in 0.069ms.
+["INFO" - 2:28:44 PM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/LICENSE
+["INFO" - 2:28:44 PM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 2:28:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 2:28:44 PM] Parser not inferred, trying VS Code language.
+["INFO" - 2:28:44 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:28:44 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/LICENSE",
+  "parser": "markdown"
+}
+["INFO" - 2:28:45 PM] Formatting completed in 0.019ms.
+["INFO" - 3:07:43 PM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/README.md
+["INFO" - 3:07:43 PM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/CONTRIBUTING
+["INFO" - 3:07:44 PM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 3:07:44 PM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 3:07:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 3:07:44 PM] Parser not inferred, trying VS Code language.
+["INFO" - 3:07:44 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:07:44 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/CONTRIBUTING",
+  "parser": "markdown"
+}
+["INFO" - 3:07:44 PM] Formatting completed in 0.077ms.
+["INFO" - 3:07:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 3:07:44 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:07:44 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/README.md",
+  "parser": "markdown"
+}
+["INFO" - 3:07:44 PM] Formatting completed in 0.097ms.
+["INFO" - 3:17:14 PM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/coverage/index.html
+["INFO" - 3:17:14 PM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 3:17:14 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 3:17:14 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:17:14 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/coverage/index.html",
+  "parser": "html"
+}
+["ERROR" - 3:17:14 PM] Error formatting document.
+["ERROR" - 3:17:14 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (115:9)
+  113 |                 at Thu Apr 07 2022 15:12:09 GMT+0200 (Central European Summer Time)
+  114 |             </div>
+> 115 |         </div>
+      |         ^^^^^^
+  116 |         <script src="prettify.js"></script>
+  117 |         <script>
+  118 |             window.onload = function () {
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (115:9)
+  113 |                 at Thu Apr 07 2022 15:12:09 GMT+0200 (Central European Summer Time)
+  114 |             </div>
+> 115 |         </div>
+      |         ^^^^^^
+  116 |         <script src="prettify.js"></script>
+  117 |         <script>
+  118 |             window.onload = function () {
+    at t (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at y.provideDocumentFormattingEdits (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:98503)
+["INFO" - 3:17:14 PM] Formatting completed in 0.177ms.
+["INFO" - 3:33:35 PM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/coverage/index.html
+["INFO" - 3:33:35 PM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 3:33:35 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 3:33:35 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:33:35 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/coverage/index.html",
+  "parser": "html"
+}
+["ERROR" - 3:33:35 PM] Error formatting document.
+["ERROR" - 3:33:35 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (118:9)
+  116 |                 at Thu Apr 07 2022 15:12:09 GMT+0200 (Central European Summer Time)
+  117 |             </div>
+> 118 |         </div>
+      |         ^^^^^^
+  119 |         <script src="prettify.js"></script>
+  120 |         <script>
+  121 |             window.onload = function () {
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (118:9)
+  116 |                 at Thu Apr 07 2022 15:12:09 GMT+0200 (Central European Summer Time)
+  117 |             </div>
+> 118 |         </div>
+      |         ^^^^^^
+  119 |         <script src="prettify.js"></script>
+  120 |         <script>
+  121 |             window.onload = function () {
+    at t (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at y.provideDocumentFormattingEdits (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:98503)
+["INFO" - 3:33:35 PM] Formatting completed in 0.041ms.
+["INFO" - 3:34:01 PM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/coverage/index.html
+["INFO" - 3:34:01 PM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 3:34:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 3:34:01 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:34:01 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/coverage/index.html",
+  "parser": "html"
+}
+["ERROR" - 3:34:01 PM] Error formatting document.
+["ERROR" - 3:34:01 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (118:9)
+  116 |                 at Thu Apr 07 2022 15:12:09 GMT+0200 (Central European Summer Time)
+  117 |             </div>
+> 118 |         </div>
+      |         ^^^^^^
+  119 |         <script src="prettify.js"></script>
+  120 |         <script>
+  121 |             window.onload = function () {
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (118:9)
+  116 |                 at Thu Apr 07 2022 15:12:09 GMT+0200 (Central European Summer Time)
+  117 |             </div>
+> 118 |         </div>
+      |         ^^^^^^
+  119 |         <script src="prettify.js"></script>
+  120 |         <script>
+  121 |             window.onload = function () {
+    at t (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at y.provideDocumentFormattingEdits (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:98503)
+["INFO" - 3:34:01 PM] Formatting completed in 0.024ms.
+["INFO" - 10:23:10 AM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/CONTRIBUTING
+["INFO" - 10:23:10 AM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/README.md
+["INFO" - 10:23:10 AM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 10:23:10 AM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 10:23:10 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:23:10 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:23:10 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:23:10 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/CONTRIBUTING",
+  "parser": "markdown"
+}
+["INFO" - 10:23:10 AM] Formatting completed in 0.057ms.
+["INFO" - 10:23:10 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 10:23:10 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:23:10 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/README.md",
+  "parser": "markdown"
+}
+["INFO" - 10:23:10 AM] Formatting completed in 0.123ms.
+["INFO" - 10:23:33 AM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/CONTRIBUTING
+["INFO" - 10:23:33 AM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 10:23:33 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:23:33 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:23:33 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:23:33 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/CONTRIBUTING",
+  "parser": "markdown"
+}
+["INFO" - 10:23:33 AM] Formatting completed in 0.018ms.
+["INFO" - 10:38:07 AM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/README.md
+["INFO" - 10:38:07 AM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 10:38:07 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 10:38:07 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:38:07 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/README.md",
+  "parser": "markdown"
+}
+["INFO" - 10:38:07 AM] Formatting completed in 0.054ms.
+["INFO" - 10:51:39 AM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/README.md
+["INFO" - 10:51:39 AM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 10:51:39 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 10:51:39 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:51:39 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/README.md",
+  "parser": "markdown"
+}
+["INFO" - 10:51:39 AM] Formatting completed in 0.054ms.
+["INFO" - 10:52:42 AM] Formatting file:///Users/jdej/dev/jdej/WebStorageManager/README.md
+["INFO" - 10:52:42 AM] Using ignore file (if present) at /Users/jdej/dev/jdej/WebStorageManager/.prettierignore
+["INFO" - 10:52:42 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 10:52:42 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:52:42 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/Users/jdej/dev/jdej/WebStorageManager/README.md",
+  "parser": "markdown"
+}
+["INFO" - 10:52:42 AM] Formatting completed in 0.042ms.
