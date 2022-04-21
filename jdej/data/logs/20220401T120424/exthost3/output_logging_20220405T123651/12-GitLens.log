@@ -1,0 +1,4 @@
+[2022-04-05 11:21:16.519] [GIT  ] [/Users/jdej/dev/vts/support-dashboard] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- src/useMobxStore/index.tsx • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- src/useMobxStore/index.tsx • bad revision '0000000000000000000000000000000000000000-' • 7 ms
+
+[2022-04-08 09:07:40.624] [GIT  ] [/Users/jdej/dev/vts/support-dashboard] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- tsconfig.json • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- tsconfig.json • bad revision '0000000000000000000000000000000000000000-' • 28 ms
+

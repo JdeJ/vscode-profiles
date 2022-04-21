@@ -1,0 +1,424 @@
+[2022-01-17 06:59:43:177] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js • There is no path src/modules/admin/index.js in the commit • 10 ms 
+[2022-01-17 06:59:43:180] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js
+fatal: There is no path src/modules/admin/index.js in the commit
+
+[2022-01-17 07:09:57:261] [/Users/jdej/dev/npaw/youbora/src/components/Sidebar/components/SidebarBody/utils] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 3 ms 
+[2022-01-17 08:46:54:093] [/Users/jdej/dev/npaw/youbora/src/modules/admin] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 5 ms 
+[2022-01-17 09:40:01:855] [/Users/jdej/Downloads] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 5 ms 
+[2022-01-17 09:51:28:981] [/Users/jdej/Downloads] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 20 ms 
+[2022-01-17 09:53:01:660] [/Users/jdej/Downloads] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 24 ms 
+[2022-01-17 09:53:09:544] [/Users/jdej/Downloads] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 4 ms 
+[2022-01-17 09:59:30:886] [/Users/jdej/Downloads] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 22 ms 
+[2022-01-17 10:03:10:940] [/Users/jdej/Downloads] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 28 ms 
+[2022-01-17 11:20:50:168] [/Users/jdej/dev/npaw/youbora/src/components/Widget/collection/KpiChartWidget/config] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 3 ms 
+[2022-01-17 13:45:21:868] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 1648,1648:src/components/Icons/index.js • file src/components/Icons/index.js has only 1646 lines • 17 ms 
+[2022-01-17 14:57:19:082] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 10 ms 
+[2022-01-17 14:57:19:084] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 14:57:42:745] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 11 ms 
+[2022-01-17 14:57:42:747] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 14:59:41:367] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 88,88:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 10 ms 
+[2022-01-17 14:59:41:368] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 88,88:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 14:59:50:243] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 12 ms 
+[2022-01-17 14:59:50:243] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 14:59:56:265] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 14 ms 
+[2022-01-17 14:59:56:266] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 15:00:21:069] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 88,88:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 12 ms 
+[2022-01-17 15:00:21:069] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 88,88:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 15:03:33:581] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js in the commit • 11 ms 
+[2022-01-17 15:03:33:582] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js in the commit
+
+[2022-01-17 15:04:39:709] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 9 ms 
+[2022-01-17 15:04:39:711] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 15:05:55:283] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 11 ms 
+[2022-01-17 15:05:55:284] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 15:05:57:025] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 9 ms 
+[2022-01-17 15:05:57:025] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 15:11:16:935] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 10 ms 
+[2022-01-17 15:11:16:936] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 15:14:35:694] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 12 ms 
+[2022-01-17 15:14:35:695] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 15:26:01:295] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/CustomizeOptions/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/CustomizeOptions/index.js in the commit • 12 ms 
+[2022-01-17 15:26:01:316] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/CustomizeOptions/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/CustomizeOptions/index.js in the commit
+
+[2022-01-17 15:31:35:752] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit • 10 ms 
+[2022-01-17 15:31:35:753] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+[2022-01-17 16:27:07:922] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 96,96:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/CustomizeOptions/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/CustomizeOptions/index.js has only 89 lines • 10 ms 
+[2022-01-17 16:42:03:009] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 99,99:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/CustomizeOptions/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/CustomizeOptions/index.js has only 89 lines • 11 ms 
+[2022-01-18 06:43:52:945] [/Users/jdej/dev/npaw/youbora/src/components/Widget/config] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 3 ms 
+[2022-01-18 07:54:51:988] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js has only 1 lines • 14 ms 
+[2022-01-18 07:54:52:029] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n4 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js has only 1 lines • 11 ms 
+[2022-01-18 08:28:47:625] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 14 ms 
+[2022-01-18 08:28:47:627] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 08:30:56:685] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 17 ms 
+[2022-01-18 08:30:56:687] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 08:31:02:385] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 11 ms 
+[2022-01-18 08:31:02:386] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 08:33:29:884] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 10 ms 
+[2022-01-18 08:33:29:886] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 08:33:34:710] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 11 ms 
+[2022-01-18 08:33:34:710] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 08:36:15:582] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 10 ms 
+[2022-01-18 08:36:15:582] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 08:36:44:756] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 19 ms 
+[2022-01-18 08:36:44:758] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 08:55:33:711] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 13 ms 
+[2022-01-18 08:55:33:713] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 08:55:38:328] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 11 ms 
+[2022-01-18 08:55:38:329] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 08:57:56:987] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 108,108:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 53 ms 
+[2022-01-18 08:57:56:987] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 108,108:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 09:00:05:754] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 11 ms 
+[2022-01-18 09:00:05:756] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 09:04:34:343] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js • There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit • 10 ms 
+[2022-01-18 09:04:34:346] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+[2022-01-18 09:05:58:005] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js has only 1 lines • 11 ms 
+[2022-01-18 09:05:58:047] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n4 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js has only 1 lines • 11 ms 
+[2022-01-18 09:08:13:909] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js has only 1 lines • 11 ms 
+[2022-01-18 09:08:13:949] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n4 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js has only 1 lines • 10 ms 
+[2022-01-18 10:46:56:813] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js has only 1 lines • 8 ms 
+[2022-01-18 10:46:56:842] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n4 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js has only 1 lines • 7 ms 
+[2022-01-18 10:49:03:074] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js has only 1 lines • 10 ms 
+[2022-01-18 10:49:03:118] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n4 -m -L 2,2:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js • file src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/index.js has only 1 lines • 10 ms 
+[2022-01-18 11:21:35:656] [/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/CustomizeOptions] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 1 ms 
+[2022-01-18 13:25:10:744] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 94,94:src/components/Widget/collection/AdvancedKpiWidget/components/KPI/index.js • file src/components/Widget/collection/AdvancedKpiWidget/components/KPI/index.js has only 82 lines • 11 ms 
+[2022-01-18 13:27:24:151] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 94,94:src/components/Widget/collection/AdvancedKpiWidget/components/KPI/index.js • file src/components/Widget/collection/AdvancedKpiWidget/components/KPI/index.js has only 82 lines • 11 ms 
+[2022-01-18 13:29:13:132] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 94,94:src/components/Widget/collection/AdvancedKpiWidget/components/KPI/index.js • file src/components/Widget/collection/AdvancedKpiWidget/components/KPI/index.js has only 82 lines • 12 ms 
+[2022-01-18 16:01:22:878] [/Users/jdej/dev/npaw/youbora/src/pages/InfrastructureConfiguration/components/ProviderCreator] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 1 ms 
+[2022-01-18 21:15:28:328] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js • There is no path src/modules/admin/index.js in the commit • 10 ms 
+[2022-01-18 21:15:28:331] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js
+fatal: There is no path src/modules/admin/index.js in the commit
+
+[2022-01-18 21:16:06:754] [/Users/jdej/Library/Caches/typescript/4.5/node_modules/@types/react-router] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 9 ms 
+[2022-01-18 21:22:44:714] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js • There is no path src/modules/admin/index.js in the commit • 9 ms 
+[2022-01-18 21:22:44:716] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js
+fatal: There is no path src/modules/admin/index.js in the commit
+
+[2022-01-18 22:23:40:889] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 12 ms 
+[2022-01-18 22:23:40:891] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-18 22:24:40:031] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 172,172:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 12 ms 
+[2022-01-18 22:24:40:032] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 172,172:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-18 22:24:47:913] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 171,171:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 12 ms 
+[2022-01-18 22:24:47:913] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 171,171:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-18 22:25:49:285] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 10 ms 
+[2022-01-18 22:25:49:286] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-18 22:25:50:052] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 182,182:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 11 ms 
+[2022-01-18 22:25:50:052] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 182,182:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-18 22:25:55:964] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 187,187:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 11 ms 
+[2022-01-18 22:25:55:964] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 187,187:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-18 22:26:37:682] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 10 ms 
+[2022-01-18 22:26:37:682] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-18 22:28:47:940] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 12 ms 
+[2022-01-18 22:28:47:941] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-18 22:28:50:424] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 10 ms 
+[2022-01-18 22:28:50:424] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-18 22:29:26:272] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 105,105:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 43 ms 
+[2022-01-18 22:29:26:272] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 105,105:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-19 09:45:58:683] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsers/index.js • There is no path src/pages/AdminUsers/index.js in the commit • 13 ms 
+[2022-01-19 09:45:58:685] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsers/index.js
+fatal: There is no path src/pages/AdminUsers/index.js in the commit
+
+[2022-01-19 09:46:02:257] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsers/index.js • There is no path src/pages/AdminUsers/index.js in the commit • 13 ms 
+[2022-01-19 09:46:02:258] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsers/index.js
+fatal: There is no path src/pages/AdminUsers/index.js in the commit
+
+[2022-01-19 09:46:23:816] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsageConsumptionAccounts/index.js • There is no path src/pages/AdminUsageConsumptionAccounts/index.js in the commit • 11 ms 
+[2022-01-19 09:46:23:816] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsageConsumptionAccounts/index.js
+fatal: There is no path src/pages/AdminUsageConsumptionAccounts/index.js in the commit
+
+[2022-01-19 09:46:33:849] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsageConsumptionAccounts/index.js • There is no path src/pages/AdminUsageConsumptionAccounts/index.js in the commit • 10 ms 
+[2022-01-19 09:46:33:849] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsageConsumptionAccounts/index.js
+fatal: There is no path src/pages/AdminUsageConsumptionAccounts/index.js in the commit
+
+[2022-01-19 09:47:10:587] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAccount/index.js • There is no path src/pages/AdminAccount/index.js in the commit • 8 ms 
+[2022-01-19 09:47:10:588] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAccount/index.js
+fatal: There is no path src/pages/AdminAccount/index.js in the commit
+
+[2022-01-19 09:47:38:464] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAccounts/index.js • There is no path src/pages/AdminAccounts/index.js in the commit • 10 ms 
+[2022-01-19 09:47:38:464] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAccounts/index.js
+fatal: There is no path src/pages/AdminAccounts/index.js in the commit
+
+[2022-01-19 09:47:52:135] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminSharedAccounts/index.js • There is no path src/pages/AdminSharedAccounts/index.js in the commit • 12 ms 
+[2022-01-19 09:47:52:139] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminSharedAccounts/index.js
+fatal: There is no path src/pages/AdminSharedAccounts/index.js in the commit
+
+[2022-01-19 09:48:00:892] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminSharedAccounts/index.js • There is no path src/pages/AdminSharedAccounts/index.js in the commit • 19 ms 
+[2022-01-19 09:48:00:893] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminSharedAccounts/index.js
+fatal: There is no path src/pages/AdminSharedAccounts/index.js in the commit
+
+[2022-01-19 09:51:45:622] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsageConsumptionOverview/index.js • There is no path src/pages/AdminUsageConsumptionOverview/index.js in the commit • 8 ms 
+[2022-01-19 09:51:45:624] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsageConsumptionOverview/index.js
+fatal: There is no path src/pages/AdminUsageConsumptionOverview/index.js in the commit
+
+[2022-01-19 09:51:54:698] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAccounts/index.js • There is no path src/pages/AdminAccounts/index.js in the commit • 9 ms 
+[2022-01-19 09:51:54:699] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAccounts/index.js
+fatal: There is no path src/pages/AdminAccounts/index.js in the commit
+
+[2022-01-19 09:52:15:390] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsageConsumptionAccounts/index.js • There is no path src/pages/AdminUsageConsumptionAccounts/index.js in the commit • 9 ms 
+[2022-01-19 09:52:15:392] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsageConsumptionAccounts/index.js
+fatal: There is no path src/pages/AdminUsageConsumptionAccounts/index.js in the commit
+
+[2022-01-19 09:52:30:711] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsers/index.js • There is no path src/pages/AdminUsers/index.js in the commit • 8 ms 
+[2022-01-19 09:52:30:712] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminUsers/index.js
+fatal: There is no path src/pages/AdminUsers/index.js in the commit
+
+[2022-01-19 09:52:40:806] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminRoles/index.js • There is no path src/pages/AdminRoles/index.js in the commit • 10 ms 
+[2022-01-19 09:52:40:806] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminRoles/index.js
+fatal: There is no path src/pages/AdminRoles/index.js in the commit
+
+[2022-01-19 09:52:50:198] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminRoles/index.js • There is no path src/pages/AdminRoles/index.js in the commit • 23 ms 
+[2022-01-19 09:52:50:199] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminRoles/index.js
+fatal: There is no path src/pages/AdminRoles/index.js in the commit
+
+[2022-01-19 09:53:02:087] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAccounts/index.js • There is no path src/pages/AdminAccounts/index.js in the commit • 10 ms 
+[2022-01-19 09:53:02:088] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAccounts/index.js
+fatal: There is no path src/pages/AdminAccounts/index.js in the commit
+
+[2022-01-19 09:53:16:082] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminSharedAccounts/index.js • There is no path src/pages/AdminSharedAccounts/index.js in the commit • 18 ms 
+[2022-01-19 09:53:16:083] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminSharedAccounts/index.js
+fatal: There is no path src/pages/AdminSharedAccounts/index.js in the commit
+
+[2022-01-19 09:53:31:267] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCustomDimensions/index.js • There is no path src/pages/AdminCustomDimensions/index.js in the commit • 12 ms 
+[2022-01-19 09:53:31:268] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCustomDimensions/index.js
+fatal: There is no path src/pages/AdminCustomDimensions/index.js in the commit
+
+[2022-01-19 09:53:46:139] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminHappinessScore/index.js • There is no path src/pages/AdminHappinessScore/index.js in the commit • 11 ms 
+[2022-01-19 09:53:46:139] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminHappinessScore/index.js
+fatal: There is no path src/pages/AdminHappinessScore/index.js in the commit
+
+[2022-01-19 09:53:54:974] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminHappinessScore/index.js • There is no path src/pages/AdminHappinessScore/index.js in the commit • 11 ms 
+[2022-01-19 09:53:54:974] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminHappinessScore/index.js
+fatal: There is no path src/pages/AdminHappinessScore/index.js in the commit
+
+[2022-01-19 09:54:02:034] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAnnotationsPage/index.js • There is no path src/pages/AdminAnnotationsPage/index.js in the commit • 11 ms 
+[2022-01-19 09:54:02:035] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAnnotationsPage/index.js
+fatal: There is no path src/pages/AdminAnnotationsPage/index.js in the commit
+
+[2022-01-19 09:54:10:738] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAnnotationsPage/index.js • There is no path src/pages/AdminAnnotationsPage/index.js in the commit • 13 ms 
+[2022-01-19 09:54:10:739] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminAnnotationsPage/index.js
+fatal: There is no path src/pages/AdminAnnotationsPage/index.js in the commit
+
+[2022-01-19 09:54:21:705] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminDataRetention/index.js • There is no path src/pages/AdminDataRetention/index.js in the commit • 10 ms 
+[2022-01-19 09:54:21:705] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminDataRetention/index.js
+fatal: There is no path src/pages/AdminDataRetention/index.js in the commit
+
+[2022-01-19 09:54:28:212] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminDataRetention/index.js • There is no path src/pages/AdminDataRetention/index.js in the commit • 11 ms 
+[2022-01-19 09:54:28:212] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminDataRetention/index.js
+fatal: There is no path src/pages/AdminDataRetention/index.js in the commit
+
+[2022-01-19 09:54:45:559] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminRules/index.js • There is no path src/pages/AdminRules/index.js in the commit • 12 ms 
+[2022-01-19 09:54:45:562] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminRules/index.js
+fatal: There is no path src/pages/AdminRules/index.js in the commit
+
+[2022-01-19 09:54:50:672] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminRules/index.js • There is no path src/pages/AdminRules/index.js in the commit • 13 ms 
+[2022-01-19 09:54:50:673] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminRules/index.js
+fatal: There is no path src/pages/AdminRules/index.js in the commit
+
+[2022-01-19 09:55:01:555] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 10 ms 
+[2022-01-19 09:55:01:556] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-19 09:55:04:515] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 161,161:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 10 ms 
+[2022-01-19 09:55:04:515] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 161,161:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-19 09:55:10:746] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 11 ms 
+[2022-01-19 09:55:10:747] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-19 09:55:45:128] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 10 ms 
+[2022-01-19 09:55:45:129] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-19 09:55:49:094] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminSocial/index.js • There is no path src/pages/AdminSocial/index.js in the commit • 9 ms 
+[2022-01-19 09:55:49:094] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminSocial/index.js
+fatal: There is no path src/pages/AdminSocial/index.js in the commit
+
+[2022-01-19 09:56:31:495] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminSocial/index.js • There is no path src/pages/AdminSocial/index.js in the commit • 12 ms 
+[2022-01-19 09:56:31:497] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminSocial/index.js
+fatal: There is no path src/pages/AdminSocial/index.js in the commit
+
+[2022-01-19 09:56:49:759] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 9 ms 
+[2022-01-19 09:56:49:760] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-19 09:56:54:531] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCDNLogConfiguration/index.js • There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit • 11 ms 
+[2022-01-19 09:56:54:532] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+[2022-01-19 11:06:31:007] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js • There is no path src/modules/admin/index.js in the commit • 9 ms 
+[2022-01-19 11:06:31:009] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js
+fatal: There is no path src/modules/admin/index.js in the commit
+
+[2022-01-19 11:08:01:268] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js • There is no path src/modules/admin/index.js in the commit • 8 ms 
+[2022-01-19 11:08:01:269] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js
+fatal: There is no path src/modules/admin/index.js in the commit
+
+[2022-01-19 13:02:14:750] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js • There is no path src/modules/admin/index.js in the commit • 9 ms 
+[2022-01-19 13:02:14:752] /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/modules/admin/index.js
+fatal: There is no path src/modules/admin/index.js in the commit
+
+[2022-01-19 14:39:07:794] [/var/folders/44/ln2rvpp57ng9zwmk6k6p07hw0000gn/T/e389ff9bc3034bf4fec48782d9fccc9919e9c4981642603147432tmp-6747hHfREx5ewYYV.js] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 7 ms 
+[2022-01-19 14:39:28:084] [/var/folders/44/ln2rvpp57ng9zwmk6k6p07hw0000gn/T/bb4a5a5c27b34b5c13dc7e15621ca516768370c31642603167779tmp-6747q73zp33Sgrh0.js] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 6 ms 
+[2022-01-19 15:20:48:304] [/Users/jdej/dev/npaw/youbora/src/pages/Admin/pages/UsageConsumptionPage] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 3 ms 
+[2022-01-19 15:32:48:526] [/Users/jdej/dev/npaw/youbora/src/pages/Admin/pages/UsageConsumptionPage/styles] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 0 ms 
+[2022-01-19 15:45:45:095] [/Users/jdej/dev/npaw/youbora/src/pages/Admin/pages/LanguagePage/styles] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 1 ms 
+[2022-01-19 16:05:35:003] [/Users/jdej/dev/npaw/youbora/src/pages/Settings/pages/CustomDimensionsPage] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 1 ms 
+[2022-01-19 16:18:35:505] [/Users/jdej/dev/npaw/youbora/src/pages/AdminUsageConsumptionOverview] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 0 ms 
+[2022-01-19 21:13:19:813] [/Users/jdej/dev/npaw/youbora/src/pages/Settings/pages/HappinessScorePage] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 0 ms 
+[2022-01-19 21:37:23:568] [/Users/jdej/dev/npaw/youbora/src/pages/Admin/pages/DataRetention] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 1 ms 
+[2022-01-19 21:46:56:055] [/Users/jdej/dev/npaw/youbora/src/pages/Admin/pages/AplicationsPage] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 1 ms 
+[2022-01-19 21:48:16:872] [/Users/jdej/dev/npaw/youbora/src/pages/Admin/pages/AplicationsPage/components/AppBox] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 0 ms 
+[2022-01-19 22:18:02:005] [/Users/jdej/dev/npaw/youbora/src/pages/Settings/pages/ProfilePage] Git The value of "err" is out of range. It must be a negative integer. Received 1 • 1 ms 
+[2022-01-19 22:48:56:066] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 385,385:src/pages/Profile/index.js • file src/pages/Profile/index.js has only 5 lines • 10 ms 
+[2022-01-19 22:59:05:102] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 305,305:src/pages/Profile/index.js • file src/pages/Profile/index.js has only 5 lines • 9 ms 
+[2022-01-19 23:02:24:415] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 389,389:src/pages/Profile/index.js • file src/pages/Profile/index.js has only 5 lines • 9 ms 
+[2022-01-19 23:08:17:494] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 374,374:src/pages/Profile/index.js • file src/pages/Profile/index.js has only 5 lines • 9 ms 
+[2022-01-19 23:09:33:299] [/var/folders/44/ln2rvpp57ng9zwmk6k6p07hw0000gn/T/c4a77ba7260ba1a8afd473c54081c80b6b58eaa31642633773154tmp-6747Eyb2PjIkD6rP.js] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 7 ms 
+[2022-01-19 23:09:41:006] [/var/folders/44/ln2rvpp57ng9zwmk6k6p07hw0000gn/T/c4a77ba7260ba1a8afd473c54081c80b6b58eaa31642633780843tmp-6747lgGubgpnereY.js] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 7 ms 
+[2022-01-21 09:57:22:262] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 169,169:src/helpers/widgets/formatTopListResponse.js • file src/helpers/widgets/formatTopListResponse.js has only 157 lines • 10 ms 
+[2022-01-21 11:18:28:454] [/Users/jdej/dev/npaw/youbora] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 78,78:src/components/Widget/collection/FilteredTopsWidget/config/index.js • file src/components/Widget/collection/FilteredTopsWidget/config/index.js has only 77 lines • 10 ms 

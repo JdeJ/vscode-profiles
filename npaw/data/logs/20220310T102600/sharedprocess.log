@@ -1,0 +1,52 @@
+[2022-03-10 10:26:03.057] [sharedprocess] [info] Starting worker process with pid 92054 (type: fileWatcher, window: 1).
+[2022-03-10 10:26:03.096] [sharedprocess] [info] Deleted from disk redhat.vscode-yaml /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/redhat.vscode-yaml-1.2.2
+[2022-03-10 10:26:03.117] [sharedprocess] [info] Deleted from disk atlassian.atlascode /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.4
+[2022-03-10 10:26:03.118] [sharedprocess] [info] Deleted from disk christian-kohler.path-intellisense /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/christian-kohler.path-intellisense-2.6.1
+[2022-03-10 10:26:03.118] [sharedprocess] [info] Deleted from disk atlassian.atlascode /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.3
+[2022-03-10 10:26:03.118] [sharedprocess] [info] Deleted from disk christian-kohler.path-intellisense /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/christian-kohler.path-intellisense-2.6.0
+[2022-03-10 10:26:03.233] [sharedprocess] [info] Deleted from disk msjsdiag.debugger-for-chrome /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/msjsdiag.debugger-for-chrome-4.13.0
+[2022-03-10 10:26:03.369] [sharedprocess] [info] Deleted from disk ms-vsliveshare.vsliveshare /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/ms-vsliveshare.vsliveshare-1.0.5242
+[2022-03-10 10:26:05.225] [sharedprocess] [info] Getting Manifest... atlassian.atlascode
+[2022-03-10 10:26:05.226] [sharedprocess] [info] Getting Manifest... christian-kohler.path-intellisense
+[2022-03-10 10:26:05.227] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-03-10 10:26:05.228] [sharedprocess] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-03-10 10:26:05.229] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-03-10 10:26:05.230] [sharedprocess] [info] Getting Manifest... redhat.vscode-yaml
+[2022-03-10 10:26:05.487] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-03-10 10:26:05.857] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-03-10 10:26:05.880] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2022-03-10 10:26:05.890] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-03-10 10:26:05.895] [sharedprocess] [info] Installing extension: atlassian.atlascode
+[2022-03-10 10:26:05.896] [sharedprocess] [info] Installing extension: christian-kohler.path-intellisense
+[2022-03-10 10:26:06.564] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/eamodio.gitlens-12.0.3
+[2022-03-10 10:26:07.122] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.ddb5ee1b-f9fe-48af-a8bd-805d5969ca20: eamodio.gitlens
+[2022-03-10 10:26:07.163] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-12.0.3
+[2022-03-10 10:26:07.230] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-03-10 10:26:07.232] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-03-10 10:26:07.574] [sharedprocess] [info] Downloaded extension: christian-kohler.path-intellisense /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.8.0
+[2022-03-10 10:26:07.728] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/redhat.vscode-yaml-1.5.1
+[2022-03-10 10:26:07.746] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/pkief.material-icon-theme-4.14.1
+[2022-03-10 10:26:07.747] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5418
+[2022-03-10 10:26:07.856] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.b1eae782-c8ae-4004-b3e8-496caea52835: christian-kohler.path-intellisense
+[2022-03-10 10:26:07.873] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/christian-kohler.path-intellisense-2.8.0
+[2022-03-10 10:26:07.876] [sharedprocess] [info] Extracting completed. christian-kohler.path-intellisense
+[2022-03-10 10:26:07.888] [sharedprocess] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2022-03-10 10:26:07.894] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.d816df59-4e67-48ff-aeb3-98ed577d8e40: redhat.vscode-yaml
+[2022-03-10 10:26:07.908] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/redhat.vscode-yaml-1.5.1
+[2022-03-10 10:26:07.910] [sharedprocess] [info] Extracting completed. redhat.vscode-yaml
+[2022-03-10 10:26:07.947] [sharedprocess] [info] Extension installed successfully: redhat.vscode-yaml
+[2022-03-10 10:26:08.768] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.5aae9b44-b512-4d24-bb86-637c2b46bc78: pkief.material-icon-theme
+[2022-03-10 10:26:08.798] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/pkief.material-icon-theme-4.14.1
+[2022-03-10 10:26:08.819] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-03-10 10:26:08.823] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-03-10 10:26:08.918] [sharedprocess] [info] Downloaded extension: atlassian.atlascode /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/atlassian.atlascode-2.10.9
+[2022-03-10 10:26:09.147] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.348f1ef7-cda6-48a8-b8bb-ff1491640f07: atlassian.atlascode
+[2022-03-10 10:26:09.173] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.9
+[2022-03-10 10:26:09.175] [sharedprocess] [info] Extracting completed. atlassian.atlascode
+[2022-03-10 10:26:09.196] [sharedprocess] [info] Extension installed successfully: atlassian.atlascode
+[2022-03-10 10:26:10.796] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.116d810b-cf90-4346-b6db-203cc82ee0f7: ms-vsliveshare.vsliveshare
+[2022-03-10 10:26:10.824] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/ms-vsliveshare.vsliveshare-1.0.5418
+[2022-03-10 10:26:10.827] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-03-10 10:26:10.853] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-03-10 10:26:52.174] [sharedprocess] [info] Worker process with pid 92054 terminated normally (type: fileWatcher, window: 1).
+[2022-03-10 17:59:14.509] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

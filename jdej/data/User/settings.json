@@ -14,7 +14,7 @@
   "editor.autoClosingBrackets": "always",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "editor.acceptSuggestionOnEnter": "off",
+  "editor.acceptSuggestionOnEnter": "on",
   "editor.cursorBlinking": "smooth",
   "editor.cursorStyle": "block",
   "editor.cursorSmoothCaretAnimation": true,
@@ -27,10 +27,11 @@
   "workbench.startupEditor": "none",
   "workbench.settings.editor": "json",
   "workbench.statusBar.visible": true,
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
+  "workbench.editor.enablePreview": false,
   "workbench.editor.highlightModifiedTabs": true,
   // Window Settings
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 1,
   //Terminal Settings
   "terminal.integrated.shell.osx": "zsh",
   "terminal.integrated.fontFamily": "MesloLGS NF",
@@ -84,5 +85,18 @@
   "javascript.updateImportsOnFileMove.enabled": "never",
   // Git Lens Settings
   "gitlens.defaultDateStyle": "absolute",
-  "gitlens.statusBar.enabled": true
+  "gitlens.statusBar.enabled": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "redhat.telemetry.enabled": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
 }

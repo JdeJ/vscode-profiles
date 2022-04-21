@@ -1,0 +1,3 @@
+[ 22:25:09 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:25:09 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/vscode/.vscodesetup
+[ 22:25:09 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/vscode/.vscodesetup": 6 commits

@@ -1,0 +1,51 @@
+[2022-03-29 14:44:49.523] [sharedprocess] [info] Starting worker process with pid 66842 (type: fileWatcher, window: 1).
+[2022-03-29 14:44:51.578] [sharedprocess] [info] Getting Manifest... coenraads.bracket-pair-colorizer-2
+[2022-03-29 14:44:51.579] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-03-29 14:44:51.580] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-03-29 14:44:51.581] [sharedprocess] [info] Getting Manifest... johnpapa.vscode-peacock
+[2022-03-29 14:44:51.582] [sharedprocess] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-03-29 14:44:51.583] [sharedprocess] [info] Getting Manifest... redhat.vscode-yaml
+[2022-03-29 14:44:51.584] [sharedprocess] [info] Getting Manifest... wallabyjs.quokka-vscode
+[2022-03-29 14:44:51.854] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-03-29 14:44:52.171] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-03-29 14:44:52.187] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2022-03-29 14:44:52.213] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-03-29 14:44:52.216] [sharedprocess] [info] Installing extension: johnpapa.vscode-peacock
+[2022-03-29 14:44:52.217] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2022-03-29 14:44:52.236] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2022-03-29 14:44:53.326] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/esbenp.prettier-vscode-9.5.0
+[2022-03-29 14:44:53.820] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.f98212ba-208e-4182-ab81-cc1ad7c540ef: esbenp.prettier-vscode
+[2022-03-29 14:44:53.848] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/esbenp.prettier-vscode-9.5.0
+[2022-03-29 14:44:53.850] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-03-29 14:44:53.874] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-03-29 14:44:54.315] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-2-0.2.4
+[2022-03-29 14:44:54.373] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/redhat.vscode-yaml-1.6.0
+[2022-03-29 14:44:54.524] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.182139eb-07b5-48f6-be6e-94bd0b6523b9: redhat.vscode-yaml
+[2022-03-29 14:44:54.552] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/redhat.vscode-yaml-1.6.0
+[2022-03-29 14:44:54.554] [sharedprocess] [info] Extracting completed. redhat.vscode-yaml
+[2022-03-29 14:44:54.592] [sharedprocess] [info] Extension installed successfully: redhat.vscode-yaml
+[2022-03-29 14:44:54.610] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.c98db2ed-5a74-476b-b677-61f9b86c6515: coenraads.bracket-pair-colorizer-2
+[2022-03-29 14:44:54.624] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/coenraads.bracket-pair-colorizer-2-0.2.4
+[2022-03-29 14:44:54.626] [sharedprocess] [info] Extracting completed. coenraads.bracket-pair-colorizer-2
+[2022-03-29 14:44:54.638] [sharedprocess] [info] Extension installed successfully: coenraads.bracket-pair-colorizer-2
+[2022-03-29 14:44:54.684] [sharedprocess] [info] Downloaded extension: johnpapa.vscode-peacock /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/johnpapa.vscode-peacock-4.0.1
+[2022-03-29 14:44:54.703] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.7ed91264-2545-4792-8264-d61c2bf6894c: johnpapa.vscode-peacock
+[2022-03-29 14:44:54.716] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/johnpapa.vscode-peacock-4.0.1
+[2022-03-29 14:44:54.719] [sharedprocess] [info] Extracting completed. johnpapa.vscode-peacock
+[2022-03-29 14:44:54.735] [sharedprocess] [info] Extension installed successfully: johnpapa.vscode-peacock
+[2022-03-29 14:44:55.699] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/eamodio.gitlens-12.0.5
+[2022-03-29 14:44:56.216] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/wallabyjs.quokka-vscode-1.0.452
+[2022-03-29 14:44:56.824] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.24d897b4-7ee6-4f86-bc43-6050d1500687: eamodio.gitlens
+[2022-03-29 14:44:56.852] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/eamodio.gitlens-12.0.5
+[2022-03-29 14:44:56.857] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-03-29 14:44:56.877] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-03-29 14:44:57.769] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5449
+[2022-03-29 14:45:01.364] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.4859ca60-5428-4950-9601-f0c547f84f88: wallabyjs.quokka-vscode
+[2022-03-29 14:45:01.408] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wallabyjs.quokka-vscode-1.0.452
+[2022-03-29 14:45:01.410] [sharedprocess] [info] Extracting completed. wallabyjs.quokka-vscode
+[2022-03-29 14:45:01.433] [sharedprocess] [info] Extension installed successfully: wallabyjs.quokka-vscode
+[2022-03-29 14:45:01.737] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.02057d30-580d-4e7e-a2ac-c7a7b5f83144: ms-vsliveshare.vsliveshare
+[2022-03-29 14:45:01.762] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/ms-vsliveshare.vsliveshare-1.0.5449
+[2022-03-29 14:45:01.764] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-03-29 14:45:01.787] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-03-29 14:46:52.012] [sharedprocess] [info] Worker process with pid 66842 terminated normally (type: fileWatcher, window: 1).

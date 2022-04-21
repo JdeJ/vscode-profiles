@@ -1,0 +1,18 @@
+(node:65975) UnhandledPromiseRejectionWarning: Error: Request window/showMessageRequest failed with message: Canceled
+    at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:30899
+    at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:31193
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:31558)
+    at processImmediate (internal/timers.js:461:21)
+(node:65975) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 577)
+(node:65975) UnhandledPromiseRejectionWarning: Error: Request window/showMessageRequest failed with message: Canceled
+    at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:30899
+    at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:31193
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:31558)
+    at processImmediate (internal/timers.js:461:21)
+(node:65975) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 578)
+(node:65975) UnhandledPromiseRejectionWarning: Error: Request window/showMessageRequest failed with message: Canceled
+    at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:30899
+    at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:31193
+    at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:31558)
+    at processImmediate (internal/timers.js:461:21)
+(node:65975) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 579)

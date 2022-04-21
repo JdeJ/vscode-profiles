@@ -1,0 +1,62 @@
+[2022-04-21 22:35:49.008] [exthost] [info] Extension host with pid 22478 started
+[2022-04-21 22:35:49.008] [exthost] [info] Skipping acquiring lock for /Users/jdej/dev/jdej/vscode-profiles/jdej/data/User/workspaceStorage/1924f030abb4fae36a065c09d76a31ec.
+[2022-04-21 22:35:49.060] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-04-21 22:35:49.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-21 22:35:49.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.099] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.107] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.118] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.125] [exthost] [info] ExtensionService#_doActivateExtension huizhou.githd, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.133] [exthost] [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.136] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.153] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.330] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.331] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.517] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-21 22:35:49.621] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-04-21 22:35:50.797] [exthost] [info] Eager extensions activated
+[2022-04-21 22:35:50.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:35:50.811] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:35:50.815] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:35:50.843] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:35:51.056] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:35:51.152] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:35:51.178] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:35:51.191] [exthost] [info] ExtensionService#_doActivateExtension waderyan.gitblame, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 22:39:16.998] [exthost] [error] TypeError: Cannot read properties of undefined (reading 'scheme')
+    at getBestPath (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/eamodio.gitlens-12.0.6/dist/webpack:/gitlens/src/system/path.ts:88:33)
+    at Object.getOrOpenRepository (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/eamodio.gitlens-12.0.6/dist/webpack:/gitlens/src/git/gitProviderService.ts:1825:30)
+    at Object.Z.<computed> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/eamodio.gitlens-12.0.6/dist/webpack:/gitlens/src/system/decorators/log.ts:133:16)
+    at Q.preExecute (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/eamodio.gitlens-12.0.6/dist/webpack:/gitlens/src/commands/stashSave.ts:62:46)
+    at Q._execute (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/eamodio.gitlens-12.0.6/dist/webpack:/gitlens/src/commands/base.ts:264:15)
+    at Q.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/eamodio.gitlens-12.0.6/dist/webpack:/gitlens/src/commands/base.ts:247:59)
+    at m._executeContributedCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:30760)
+    at m.$executeContributedCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:31302)
+    at i._doInvokeHandler (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:13826)
+    at i._invokeHandler (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:13510)
+    at i._receiveRequest (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:12171)
+    at i._receiveOneMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:10841)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:8947
+    at u.invoke (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at v.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at d.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19034)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:34275
+    at u.invoke (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at v.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at d.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19034)
+    at o._receiveMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23615)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21149
+    at u.invoke (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at v.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at v.acceptChunk (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15865)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14995
+    at Socket.P (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13797)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23) gitlens.stashSave {"value":"eamodio.gitlens","_lower":"eamodio.gitlens"}
+[2022-04-21 22:39:19.972] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-21 22:39:20.006] [exthost] [info] Extension host with pid 22478 exiting with code 0

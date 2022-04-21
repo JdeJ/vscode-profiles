@@ -1,0 +1,464 @@
+Error: Unexpected token (1:61)
+> 1 | export const METRIC_SELECTOR_CUSTOMIZE_OPERATORS = [{label: , value: }]
+    |                                                             ^
+Error: JSX attributes must only be assigned a non-empty expression. (30:15)
+  28 |         placeholder={'Enter your Y Max...'}
+  29 |         inputProps={{ min: 0 }}
+> 30 |         value={}
+     |               ^
+  31 |         onChange={(e) => onChangeInput('name', e.target.value)}
+  32 |       />
+  33 |       <IconButton
+Error: JSX attributes must only be assigned a non-empty expression. (30:15)
+  28 |         placeholder={'Enter your Y Max...'}
+  29 |         inputProps={{ min: 0 }}
+> 30 |         value={}
+     |               ^
+  31 |         onChange={(e) => onChangeInput('name', e.target.value)}
+  32 |       />
+  33 |       <IconButton
+Error: JSX attributes must only be assigned a non-empty expression. (30:15)
+  28 |         placeholder={'Enter your Y Max...'}
+  29 |         inputProps={{ min: 0 }}
+> 30 |         value={}
+     |               ^
+  31 |         onChange={(e) => onChangeInput('name', e.target.value)}
+  32 |       />
+  33 |       <IconButton
+Error: JSX attributes must only be assigned a non-empty expression. (30:15)
+  28 |         placeholder={'Enter your Y Max...'}
+  29 |         inputProps={{ min: 0 }}
+> 30 |         value={}
+     |               ^
+  31 |         onChange={(e) => onChangeInput('name', e.target.value)}
+  32 |       />
+  33 |       <IconButton
+Error: JSX attributes must only be assigned a non-empty expression. (30:15)
+  28 |         placeholder={'Enter your Y Max...'}
+  29 |         inputProps={{ min: 0 }}
+> 30 |         value={}
+     |               ^
+  31 |         onChange={(e) => onChangeInput('name', e.target.value)}
+  32 |       />
+  33 |       <IconButton
+Error: JSX attributes must only be assigned a non-empty expression. (30:15)
+  28 |         placeholder={'Enter your Y Max...'}
+  29 |         inputProps={{ min: 0 }}
+> 30 |         value={}
+     |               ^
+  31 |         onChange={(e) => onChangeInput('name', e.target.value)}
+  32 |       />
+  33 |       <IconButton
+Error: JSX attributes must only be assigned a non-empty expression. (30:15)
+  28 |         placeholder={'Enter your Y Max...'}
+  29 |         inputProps={{ min: 0 }}
+> 30 |         value={}
+     |               ^
+  31 |         onChange={(e) => onChangeInput('name', e.target.value)}
+  32 |       />
+  33 |       <IconButton
+Error: JSX attributes must only be assigned a non-empty expression. (30:15)
+  28 |         placeholder={'Enter your Y Max...'}
+  29 |         inputProps={{ min: 0 }}
+> 30 |         value={}
+     |               ^
+  31 |         onChange={(e) => onChangeInput('name', e.target.value)}
+  32 |       />
+  33 |       <IconButton
+Error: JSX attributes must only be assigned a non-empty expression. (30:15)
+  28 |         placeholder={'Enter your Y Max...'}
+  29 |         inputProps={{ min: 0 }}
+> 30 |         value={}
+     |               ^
+  31 |         onChange={(e) => onChangeInput('name', e.target.value)}
+  32 |       />
+  33 |       <IconButton
+Error: JSX attributes must only be assigned a non-empty expression. (102:33)
+  100 |             key={`custom_${i}`}
+  101 |             configIndex={i}
+> 102 |             onCustomValueChange={}
+      |                                 ^
+  103 |             onCustomConfigAdd={onCustomConfigAdd}
+  104 |             onCustomConfigDelete={onCustomConfigDelete}
+  105 |           />
+Error: JSX attributes must only be assigned a non-empty expression. (102:33)
+  100 |             key={`custom_${i}`}
+  101 |             configIndex={i}
+> 102 |             onCustomValueChange={}
+      |                                 ^
+  103 |             onCustomConfigAdd={onCustomConfigAdd}
+  104 |             onCustomConfigDelete={onCustomConfigDelete}
+  105 |           />
+Error: JSX attributes must only be assigned a non-empty expression. (102:33)
+  100 |             key={`custom_${i}`}
+  101 |             configIndex={i}
+> 102 |             onCustomValueChange={}
+      |                                 ^
+  103 |             onCustomConfigAdd={onCustomConfigAdd}
+  104 |             onCustomConfigDelete={onCustomConfigDelete}
+  105 |           />
+Error: JSX attributes must only be assigned a non-empty expression. (102:33)
+  100 |             key={`custom_${i}`}
+  101 |             configIndex={i}
+> 102 |             onCustomValueChange={}
+      |                                 ^
+  103 |             onCustomConfigAdd={onCustomConfigAdd}
+  104 |             onCustomConfigDelete={onCustomConfigDelete}
+  105 |           />
+Error: JSX attributes must only be assigned a non-empty expression. (101:33)
+   99 |             key={`custom_${i}`}
+  100 |             configIndex={i}
+> 101 |             onCustomValueChange={}
+      |                                 ^
+  102 |             onCustomConfigAdd={onCustomConfigAdd}
+  103 |             onCustomConfigDelete={onCustomConfigDelete}
+  104 |           />
+Error: JSX attributes must only be assigned a non-empty expression. (99:33)
+   97 |             key={`custom_${i}`}
+   98 |             configIndex={i}
+>  99 |             onCustomValueChange={}
+      |                                 ^
+  100 |             onCustomConfigAdd={onCustomConfigAdd}
+  101 |             onCustomConfigDelete={onCustomConfigDelete}
+  102 |           />
+Error: Unexpected token (53:24)
+  51 |       />
+  52 |       <IconButton
+> 53 |         onClick={() => }
+     |                        ^
+  54 |         background={true}
+  55 |         icon={PaletteSelectorIcon}
+  56 |       />
+Error: Unexpected token (72:24)
+  70 |         background={true}
+  71 |         icon={PaletteSelectorIcon}
+> 72 |         onClick={() => }
+     |                        ^
+  73 |       />
+  74 | }
+  75 |
+Error: Unexpected token (36:67)
+  34 |           }}
+  35 |           defaultValue={config.color}
+> 36 |           onBlur={(ev) => updatedConfig('color', ev.target.value)})
+     |                                                                   ^
+  37 |           
+  38 |         />
+  39 |         <CloseIcon
+Error: Missing semicolon. (5:2)
+  3 |   { label: '=', value: '=' },
+  4 |   { label: '<', value: '<' }
+> 5 | ] export const DEFAULT_CUSTOM_CONFIG = {
+    |  ^
+  6 |   operator: undefined,
+  7 |   value: undefined,
+  8 |   color: undefined
+Error: Unexpected token, expected "," (48:15)
+  46 |           <div
+  47 |             style={{ orderRadius: '50%'
+> 48 |               backgroundColor: config.color,
+     |               ^
+  49 |               width: '60%'
+  50 |               height: '60%' }}
+  51 |           ></div>
+Error: Unexpected token, expected "," (50:15)
+  48 |               backgroundColor: config.color,
+  49 |               width: '60%'
+> 50 |               height: '60%' }}
+     |               ^
+  51 |           ></div>
+  52 |         </div>
+  53 |       </label>
+Error: Unexpected token, expected "{" (99:48)
+   97 |           style={{
+   98 |             width: '100%',
+>  99 |             height: '100%'>{renderColorPicker()}</div></Tooltip>
+      |                                                ^
+  100 |       <IconButton
+  101 |         icon={TrashIcon}
+  102 |         title={'Delete'}
+Error: Unexpected token (38:8)
+  36 |
+  37 | export const Dialog = forwardRef ({
+> 38 |   open = false,
+     |        ^
+  39 |   variant = 'default',
+  40 |   maxWidth = 'sm',
+  41 |   scroll = 'paper',
+Error: Unexpected token, expected "," (112:6)
+  110 |         customOptions: {...config.wizard.customOptions, ...{ formattingRules }
+  111 |       }
+> 112 |     })
+      |      ^
+  113 |   }
+  114 |
+  115 |   return (
+Error: Missing semicolon. (29:8)
+  27 |     const formattingRules = 
+  28 |
+> 29 |     let compareRelationCount = 0
+     |        ^
+  30 |     let compareValues = []
+  31 |
+  32 |     if (
+Error: 'Const declarations' require an initialization value. (39:33)
+  37 | }
+  38 |
+> 39 | const getColorForFormattingRules ({value,
+     |                                 ^
+  40 |   formattingRules}) {
+  41 |   switch (key) {
+  42 |     case value:
+Error: 'Const declarations' require an initialization value. (39:33)
+  37 | }
+  38 |
+> 39 | const getColorForFormattingRules ({value,
+     |                                 ^
+  40 |   formattingRules}) {
+  41 |     let color
+  42 | formattingRules.forEach (rule => {
+Error: Missing semicolon. (78:12)
+  76 |
+  77 |     if (isCompareDates) {
+> 78 |       color RANDOM_THEMES[metricIndex][type][index]
+     |            ^
+  79 |     } else if (metricIndex) {
+  80 |       color RANDOM_THEMES[metricIndex][type][index]
+  81 |     } else {
+Error: Unexpected token (45:7)
+  43 |       const valueColor = 
+  44 |       
+> 45 |       return (
+     |       ^
+  46 |         <div
+  47 |           {...(onClick && {
+  48 |             onClick: () =>
+Error: Unexpected token, expected "," (85:7)
+  83 |         theme
+  84 |       })
+> 85 |       ...(valueColor && { valueColor })
+     |       ^
+  86 |     }
+  87 |
+  88 |     serieIndex[type || 'ALL'] += 1
+Error: Unexpected token (94:8)
+  92 |           ? magnitude
+  93 |           : null
+> 94 |       },
+     |        ^
+  95 |       ...(valueColor && { valueColor })
+  96 |     />
+  97 |   )
+Error: Unexpected token (94:8)
+  92 |           ? magnitude
+  93 |           : null
+> 94 |       },
+     |        ^
+  95 |       ...(valueColor && { valueColor })
+  96 |     />
+  97 |   )
+Error: Unexpected token (9:10)
+   7 | import { WIDGET_DEFAULT_PREVIEW_PARAMS } from 'components/Widget/constants'
+   8 | import { WIZARD_TYPES,  } from 'constants'
+>  9 | import { , WIDGETS_TYPES,  } from 'constants'
+     |          ^
+  10 | import { , , WIDGETS_CATEGORIES } from 'constants'
+  11 |
+  12 | export const KpiWidgetConfig = {
+Error: Unexpected token, expected "," (42:89)
+  40 |
+  41 |   const cell = (
+> 42 |     <Font bold={column?.bold} translation={false} noWrap {...cellProps.style && {typeOf cellProps.srtl}}>
+     |                                                                                         ^
+  43 |       {renderValue}
+  44 |     </Font>
+  45 |   )
+Error: Unexpected token, expected "," (42:90)
+  40 |
+  41 |   const cell = (
+> 42 |     <Font bold={column?.bold} translation={false} noWrap {...cellProps?.style && {typeof cellProps?.style === 'function' ?'' : ''}}>
+     |                                                                                          ^
+  43 |       {renderValue}
+  44 |     </Font>
+  45 |   )
+Error: Unexpected token (50:49)
+  48 |       noWrap
+  49 |       style = {{...(cellProps?.style &&
+> 50 |         (typeof cellProps?.style === 'function' ?  : ''))}}
+     |                                                 ^
+  51 |     >
+  52 |       {renderValue}
+  53 |     </Font>
+Error: Unexpected token, expected ":" (98:3)
+   96 |     
+   97 |     )
+>  98 |   }
+      |   ^
+   99 |
+  100 |   return (
+  101 |     <div
+Error: Unexpected token, expected "," (98:3)
+   96 |     
+   97 |     
+>  98 |   }
+      |   ^
+   99 |
+  100 |   return (
+  101 |     <div
+Error: Unexpected token (107:13)
+  105 |             id: key,
+  106 |             keepExpandedState: true,
+> 107 |             (...childrenNodes[0].sidebarOrder && {sidebarOrder: childrenNodes[0].sidebarOrder}),
+      |             ^
+  108 |             children: childrenNodes.map((el) => {
+  109 |               return {
+  110 |                 ...el,
+Error: Unexpected token, expected "," (40:7)
+  38 |       },
+  39 |       b
+> 40 |       footerProps: { enableModulesSelector: false, showWhatsNew: false }
+     |       ^
+  41 |     }
+  42 |   }
+  43 | }
+Error: Unexpected token, expected "," (118:39)
+  116 |
+  117 |             display: 'grid',
+> 118 |             gap: 'var(--spacing)',grid-template-columns: 500px 1fr;
+      |                                       ^
+  119 |           }}
+  120 |         >
+  121 |           {account.current.type === 'MULTITENANT' &&
+Error: Unexpected token, expected "," (117:19)
+  115 |           className={'youbora__admin__data_retention__retention'
+  116 |         >
+> 117 |           {account.current.type === 'MULTITENANT' &&
+      |                   ^
+  118 |             retentionType === 'unlimited' && (
+  119 |             <FormControlLabelMUI
+  120 |               style={{ paddingLeft: 'var(--spacing)' }}
+Error: Expected corresponding JSX closing tag for <SectionBox>. (392:5)
+  390 |       {PLATFORM_MOBILE && <PushNotificationsSection />}
+  391 |       {isAdmin && <ApiSelectorSection />}
+> 392 |     </div>
+      |     ^
+  393 |   )
+  394 | }
+  395 |
+Error: Expected corresponding JSX closing tag for <SectionBox>. (392:5)
+  390 |       {PLATFORM_MOBILE && <PushNotificationsSection />}
+  391 |       {isAdmin && <ApiSelectorSection />}
+> 392 |     </div>
+      |     ^
+  393 |   )
+  394 | }
+  395 |
+Error: Expected corresponding JSX closing tag for <SectionBox>. (392:5)
+  390 |       {PLATFORM_MOBILE && <PushNotificationsSection />}
+  391 |       {isAdmin && <ApiSelectorSection />}
+> 392 |     </div>
+      |     ^
+  393 |   )
+  394 | }
+  395 |
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/components/Sidebar/components/SidebarHeader/index.js:38
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/components/Sidebar/components/SidebarHeader/index.js:38
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/components/Sidebar/components/SidebarHeader/index.js:36
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/components/Sidebar/components/SidebarHeader/index.js:31
+Error: Cannot read property 'value' of null
+Occurred while linting /Users/jdej/dev/npaw/youbora/src/components/Sidebar/components/SidebarHeader/index.js:31
+Error: Cannot find module 'eslint'
+Require stack:
+- /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/rvest.vs-code-prettier-eslint-3.1.0/dist/extension.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/loader.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-amd.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork.js
+Error: Cannot find module 'eslint'
+Require stack:
+- /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/rvest.vs-code-prettier-eslint-3.1.0/dist/extension.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/loader.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-amd.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork.js
+Error: Cannot find module 'eslint'
+Require stack:
+- /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/rvest.vs-code-prettier-eslint-3.1.0/dist/extension.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/loader.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-amd.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork.js
+Error: Cannot find module 'eslint'
+Require stack:
+- /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/rvest.vs-code-prettier-eslint-3.1.0/dist/extension.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/loader.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-amd.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork.js
+Error: Cannot find module 'eslint'
+Require stack:
+- /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/rvest.vs-code-prettier-eslint-3.1.0/dist/extension.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/loader.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-amd.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork.js
+Error: Cannot find module 'eslint'
+Require stack:
+- /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/rvest.vs-code-prettier-eslint-3.1.0/dist/extension.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/loader.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-amd.js
+- /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork.js
+Error: Unexpected token (197:1)
+  195 |     </div>
+  196 |   )
+> 197 | }
+      | ^
+  198 |
+Error: Unexpected token (197:1)
+  195 |     </div>
+  196 |   )
+> 197 | }
+      | ^
+  198 |
+Error: Unexpected token (197:1)
+  195 |     </div>
+  196 |   )
+> 197 | }
+      | ^
+  198 |
+Error: Unexpected token (57:29)
+  55 |   }
+  56 |
+> 57 |   function onChangeMetric ({{ label, value }, metricIndex}) {
+     |                             ^
+  58 |     setWidget({
+  59 |       ...widget,
+  60 |       data: {
+Error: Unexpected token (57:29)
+  55 |   }
+  56 |
+> 57 |   function onChangeMetric ({{ label, value }, metricIndex}) {
+     |                             ^
+  58 |     setWidget({
+  59 |       ...widget,
+  60 |       data: {
+Error: Unexpected token, expected "," (81:1)
+  79 |   }
+  80 | }
+> 81 |
+     | ^
+Error: Unexpected token (219:17)
+  217 |   }
+  218 |
+> 219 |   return {rows, ,
+      |                 ^
+  220 |     cellProps: { style: cellStyle }}
+  221 | }
+  222 |
+Error: Unterminated comment. (108:8)
+  106 |       {/*<ApplicationPermissions {...commonProps} />*/}
+  107 |       <Restrictions {...commonProps} />*/}
+> 108 |       {/*{permissions.ROLE_DIM_MET_CONFIG && <DimensionsMetricsPermissions />}
+      |        ^
+  109 |     </Dialog>
+  110 |   )
+  111 | })

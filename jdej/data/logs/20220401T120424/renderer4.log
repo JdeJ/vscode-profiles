@@ -1,0 +1,102 @@
+[2022-04-21 22:09:41.665] [renderer4] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-04-21 22:09:42.757] [renderer4] [error] [Extension Host] (node:20282) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Electron --trace-deprecation ...` to show where the warning was created)
+[2022-04-21 22:10:00.054] [renderer4] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:10:02.992] [renderer4] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:13:07.555] [renderer4] [error] Cannot read property 'trim' of undefined: TypeError: Cannot read property 'trim' of undefined
+    at GitService.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:387:39)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:4:58)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:13:23.416] [renderer4] [error] Cannot read property 'trim' of undefined: TypeError: Cannot read property 'trim' of undefined
+    at GitService.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:387:39)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:13:25.066] [renderer4] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:13:28.036] [renderer4] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:13:29.152] [renderer4] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:13:31.498] [renderer4] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:13:33.362] [renderer4] [error] Cannot read property 'trim' of undefined: TypeError: Cannot read property 'trim' of undefined
+    at GitService.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:387:39)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:13:37.035] [renderer4] [error] Cannot read property 'trim' of undefined: TypeError: Cannot read property 'trim' of undefined
+    at GitService.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:387:39)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:13:38.487] [renderer4] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:13:56.557] [renderer4] [error] Cannot read property 'trim' of undefined: TypeError: Cannot read property 'trim' of undefined
+    at GitService.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:387:39)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:14:03.252] [renderer4] [error] Cannot read property 'trim' of undefined: TypeError: Cannot read property 'trim' of undefined
+    at GitService.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:387:39)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:14:06.791] [renderer4] [error] Cannot read property 'trim' of undefined: TypeError: Cannot read property 'trim' of undefined
+    at GitService.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:387:39)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/gitService.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:14:07.029] [renderer4] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:16:22.825] [renderer4] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-04-21 22:24:31.408] [renderer4] [error] Cannot read property 'hash' of null: TypeError: Cannot read property 'hash' of null
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

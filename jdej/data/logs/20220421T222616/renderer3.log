@@ -1,0 +1,23 @@
+[2022-04-21 22:28:19.966] [renderer3] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-21 22:28:20.052] [renderer3] [info] [eamodio.gitlens]: `git.commit` is not a valid menu identifier
+[2022-04-21 22:28:20.329] [renderer3] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-21 22:28:21.016] [renderer3] [error] [Extension Host] (node:22095) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Electron --trace-deprecation ...` to show where the warning was created)
+[2022-04-21 22:28:23.130] [renderer3] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-21 22:28:29.412] [renderer3] [error] Cannot read properties of null (reading 'hash'): TypeError: Cannot read properties of null (reading 'hash')
+    at BlameViewProvider.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:178:29)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/huizhou.githd-2.2.4/out/src/blameViewProvider.js:4:58)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-04-21 22:29:06.389] [renderer3] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-04-21 22:29:11.449] [renderer3] [warning] UNRESPONSIVE extension host: 'kamikillerto.vscode-colorize' took 99% of 5199.854ms, saved PROFILE here: 'file:///var/folders/44/ln2rvpp57ng9zwmk6k6p07hw0000gn/T/exthost-b5fc06.cpuprofile' [{"id":"gc","total":33988,"percentage":1},{"id":"kamikillerto.vscode-colorize","total":5165642,"percentage":99}]
+[2022-04-21 22:36:15.427] [renderer3] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-21 22:36:15.539] [renderer3] [error] ENOENT: no such file or directory, access '/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/christian-kohler.npm-intellisense-1.4.1': Error: ENOENT: no such file or directory, access '/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/christian-kohler.npm-intellisense-1.4.1'
+[2022-04-21 22:36:47.160] [renderer3] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-04-21 22:36:51.286] [renderer3] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-04-21 22:36:51.349] [renderer3] [warning] UNRESPONSIVE extension host: 'kamikillerto.vscode-colorize' took 96% of 4356.485ms, saved PROFILE here: 'file:///var/folders/44/ln2rvpp57ng9zwmk6k6p07hw0000gn/T/exthost-4d8875.cpuprofile' [{"id":"gc","total":83403,"percentage":2},{"id":"kamikillerto.vscode-colorize","total":4170301,"percentage":96},{"id":"self","total":102646,"percentage":2}]
+[2022-04-21 22:37:49.368] [renderer3] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-21 22:37:49.413] [renderer3] [error] ENOENT: no such file or directory, access '/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/firefox-devtools.vscode-firefox-debug-2.9.6': Error: ENOENT: no such file or directory, access '/Users/jdej/dev/jdej/vscode-profiles/jdej/exts/firefox-devtools.vscode-firefox-debug-2.9.6'
+[2022-04-21 22:38:19.362] [renderer3] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-04-21 22:38:23.806] [renderer3] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-04-21 22:38:23.874] [renderer3] [warning] UNRESPONSIVE extension host: 'kamikillerto.vscode-colorize' took 95% of 4662.37ms, saved PROFILE here: 'file:///var/folders/44/ln2rvpp57ng9zwmk6k6p07hw0000gn/T/exthost-591f82.cpuprofile' [{"id":"gc","total":142962,"percentage":3},{"id":"kamikillerto.vscode-colorize","total":4441732,"percentage":95},{"id":"ms-vsliveshare.vsliveshare","total":122,"percentage":0},{"id":"self","total":77194,"percentage":2},{"id":"vscode.git","total":239,"percentage":0}]

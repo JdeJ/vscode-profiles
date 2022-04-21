@@ -1,0 +1,322 @@
+[Info  - 2:56:03 PM] ESLint server is starting
+[Info  - 2:56:03 PM] ESLint server running in node v14.16.0
+[Info  - 2:56:03 PM] ESLint server is running.
+[Info  - 2:56:04 PM] ESLint library loaded from: /Users/jdej/dev/jdej/WebStorageManager/node_modules/eslint/lib/api.js
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(Use `Electron --trace-warnings ...` to show where the warning was created)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+(node:81775) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 9)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 10)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 13)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 14)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 15)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 18)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 19)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 22)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 23)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 24)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 27)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 28)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 29)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 30)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 31)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 32)
+(node:81775) UnhandledPromiseRejectionWarning: Error: Failed to load plugin '@typescript-eslint' declared in '.eslintrc.js': Cannot find module '@typescript-eslint/eslint-plugin'
+Require stack:
+- /Users/jdej/dev/jdej/WebStorageManager/__placeholder__.js
+Referenced from: /Users/jdej/dev/jdej/WebStorageManager/.eslintrc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:94:19)
+    at Object.resolve (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js:28:50)
+    at ConfigArrayFactory._loadPlugin (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:1017:39)
+    at ConfigArrayFactory._loadExtendedPluginConfig (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:837:29)
+    at ConfigArrayFactory._loadExtends (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:779:29)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:720:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/Users/jdej/dev/jdej/WebStorageManager/node_modules/@eslint/eslintrc/lib/config-array-factory.js:665:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+(node:81775) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 33)
+[Info  - 4:05:04 PM] ESLint server stopped.

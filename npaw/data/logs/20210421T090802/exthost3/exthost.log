@@ -1,0 +1,56 @@
+[2021-04-21 10:08:00.341] [exthost] [info] extension host started
+[2021-04-21 10:08:00.377] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-04-21 10:08:00.377] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-04-21 10:08:00.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-21 10:08:00.385] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-21 10:08:00.388] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"atlassian.atlascode","_lower":"atlassian.atlascode"},"activationEvent":"*"}
+[2021-04-21 10:08:00.388] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main
+[2021-04-21 10:08:00.400] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml {"startup":true,"extensionId":{"value":"atlassian.atlascode","_lower":"atlassian.atlascode"},"activationEvent":"*"}
+[2021-04-21 10:08:00.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/redhat.vscode-yaml-0.18.0/out/src/extension
+[2021-04-21 10:08:00.644] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-04-21 10:08:00.644] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-04-21 10:08:00.668] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2021-04-21 10:08:00.668] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2021-04-21 10:08:00.696] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory {"startup":true,"extensionId":{"value":"donjayamanne.githistory","_lower":"donjayamanne.githistory"},"activationEvent":"*"}
+[2021-04-21 10:08:00.696] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/donjayamanne.githistory-0.6.16/dist/src/extension
+[2021-04-21 10:08:00.708] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2021-04-21 10:08:00.708] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/ms-vsliveshare.vsliveshare-1.0.4131/out/prod/extension-prod
+[2021-04-21 10:08:00.832] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-04-21 10:08:00.832] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/pkief.material-icon-theme-4.6.0/dist/extension
+[2021-04-21 10:08:00.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-04-21 10:08:00.848] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/npm/dist/npmMain
+[2021-04-21 10:08:00.930] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-04-21 10:08:00.930] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-04-21 10:08:01.040] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-04-21 10:08:01.040] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/github-authentication/dist/extension.js
+[2021-04-21 10:08:01.418] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-04-21 10:08:02.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-21 10:08:02.263] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/github/dist/extension.js
+[2021-04-21 10:08:02.268] [exthost] [info] ExtensionService#_doActivateExtension atlassian.atlascode {"startup":true,"extensionId":{"value":"atlassian.atlascode","_lower":"atlassian.atlascode"},"activationEvent":"*"}
+[2021-04-21 10:08:02.268] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.8.6/build/extension/extension
+[2021-04-21 10:08:02.383] [exthost] [info] eager extensions activated
+[2021-04-21 10:08:02.411] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-04-21 10:08:02.412] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-04-21 10:08:02.419] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-04-21 10:08:02.419] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-04-21 10:08:02.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-04-21 10:08:02.422] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-04-21 10:08:02.423] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-04-21 10:08:02.423] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.1.20/client/out/extension
+[2021-04-21 10:08:02.432] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-04-21 10:08:02.432] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.4.1/dist/gitlens
+[2021-04-21 10:08:02.499] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree {"startup":false,"extensionId":{"value":"Gruntfuggly.todo-tree","_lower":"gruntfuggly.todo-tree"},"activationEvent":"onStartupFinished"}
+[2021-04-21 10:08:02.500] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/gruntfuggly.todo-tree-0.0.211/dist/extension
+[2021-04-21 10:08:02.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-21 10:08:02.544] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-04-21 10:08:02.549] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-21 10:08:02.549] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-04-21 10:08:02.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-21 10:08:02.565] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension
+[2021-04-21 10:08:02.578] [exthost] [info] ExtensionService#_doActivateExtension rvest.vs-code-prettier-eslint {"startup":false,"extensionId":{"value":"rvest.vs-code-prettier-eslint","_lower":"rvest.vs-code-prettier-eslint"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-21 10:08:02.578] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/jdej/dev/jdej/vscode-profiles/npaw/exts/rvest.vs-code-prettier-eslint-3.0.2/dist/extension.js
+[2021-04-21 10:08:05.967] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-21 10:08:07.061] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-21 10:08:08.670] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-21 10:17:40.889] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-04-21 10:17:41.914] [exthost] [info] exiting with code 0

@@ -1,0 +1,9 @@
+[2022-03-29T12:45:02.393Z] Validating found git in: /usr/local/bin/git
+[2022-03-29T12:45:02.409Z] Using git 2.32.0 from /usr/local/bin/git
+[2022-03-29T12:45:02.440Z] > git rev-parse --git-dir [9ms]
+[2022-03-29T12:45:02.444Z] Open repository: /Users/jdej/dev/npaw/youbora
+[2022-03-29T12:45:02.938Z] > git symbolic-ref --short HEAD [8ms]
+[2022-03-29T12:45:02.954Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/UI-3479-advance-filter-wizard-create-the refs/remotes/UI-3479-advance-filter-wizard-create-the [15ms]
+[2022-03-29T12:45:02.969Z] > git remote --verbose [11ms]
+[2022-03-29T12:45:03.072Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [116ms]
+[2022-03-29T12:45:03.088Z] > git config --get commit.template [4ms]

@@ -1,0 +1,27 @@
+[ 22:26:23 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:26:23 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/vscode/.vscodesetup
+[ 22:26:23 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/vscode/.vscodesetup": 6 commits
+[ 22:27:33 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:27:33 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.zsh-config
+[ 22:27:33 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.zsh-config": 5 commits
+[ 22:27:34 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:27:34 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh
+[ 22:27:34 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh": 2 commits
+[ 22:27:40 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:27:40 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.zsh-config
+[ 22:27:40 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.zsh-config": 5 commits
+[ 22:27:45 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:27:45 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.zshsetup
+[ 22:27:45 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.zshsetup": 2 commits
+[ 22:30:23 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:30:23 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/.macos
+[ 22:30:23 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/.macos": 5 commits
+[ 22:32:09 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:32:09 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/.homebrewsetup
+[ 22:32:09 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/.homebrewsetup": 3 commits
+[ 22:32:38 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:32:38 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/git/.gitsetup
+[ 22:32:38 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/git/.gitsetup": 7 commits
+[ 22:32:39 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:32:39 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/git/.gitprofiles
+[ 22:32:39 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/git/.gitprofiles": 4 commits

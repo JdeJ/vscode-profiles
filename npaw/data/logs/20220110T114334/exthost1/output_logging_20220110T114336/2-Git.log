@@ -1,0 +1,399 @@
+Validating found git in: /usr/local/bin/git
+Using git 2.32.0 from /usr/local/bin/git
+> git rev-parse --git-dir
+Open repository: /Users/jdej/dev/npaw/youbora
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/UI-2336-cdn-balancer-p2p-t refs/remotes/UI-2336-cdn-balancer-p2p-t
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:.idea/dictionaries/jdej.xml
+> git show --textconv :.idea/dictionaries/jdej.xml
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git cat-file -s cf9c916ddd032010115ca364aba44c1621260600
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git cat-file -s cf9c916ddd032010115ca364aba44c1621260600
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git symbolic-ref --short HEAD
+> git cat-file -s cf9c916ddd032010115ca364aba44c1621260600
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/UI-2336-cdn-balancer-p2p-t refs/remotes/UI-2336-cdn-balancer-p2p-t
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:.idea/dictionaries/jdej.xml
+> git show --textconv :.idea/dictionaries/jdej.xml
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git cat-file -s cf9c916ddd032010115ca364aba44c1621260600
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git cat-file -s cf9c916ddd032010115ca364aba44c1621260600
+> git show --textconv HEAD:.idea/dictionaries/jdej.xml
+> git show --textconv :.idea/dictionaries/jdej.xml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/UI-2336-cdn-balancer-p2p-t refs/remotes/UI-2336-cdn-balancer-p2p-t
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/UI-2336-cdn-balancer-p2p-t refs/remotes/UI-2336-cdn-balancer-p2p-t
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] b9a8eccbbbff42868c9608cd653182103d46d0ff
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b9a8eccbbbff42868c9608cd653182103d46d0ff
+> git show -s --format=%an <%ae> [%ai] 66c890e0aeabb00b81cea7cd06cb96b291a10ff5
+> git show -s --format=%an <%ae> [%ai] d1a6a8611c80bcfbd4215f00c0ff4c56f4b07b12
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z d1a6a8611c80bcfbd4215f00c0ff4c56f4b07b12
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 66c890e0aeabb00b81cea7cd06cb96b291a10ff5
+> git show -s --format=%an <%ae> [%ai] a04597d7eafbefed1b861efc6f12b57b3dae5df2
+> git show -s --format=%an <%ae> [%ai] b242bf8c065bd87402472a9b2f4f82f01e35ffe2
+> git show -s --format=%an <%ae> [%ai] 8ab3f48f3f87a9272009f799ba937c8f156f4f25
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a04597d7eafbefed1b861efc6f12b57b3dae5df2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b242bf8c065bd87402472a9b2f4f82f01e35ffe2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8ab3f48f3f87a9272009f799ba937c8f156f4f25
+> git show -s --format=%an <%ae> [%ai] 65c47056d0efd5cc4ee202dafc951e570f6a7639
+> git show -s --format=%an <%ae> [%ai] f6f9ab1b288ab06d5edbf936c3b7ac05b20f7e12
+> git show -s --format=%an <%ae> [%ai] 7885c363ee92b361a28295eb6a99f07e9dfbe712
+> git show -s --format=%an <%ae> [%ai] 146cfda2362ffce7a672f311317c2a53d3060631
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f6f9ab1b288ab06d5edbf936c3b7ac05b20f7e12
+> git show -s --format=%an <%ae> [%ai] 146cfda2362ffce7a672f311317c2a53d3060631
+> git show -s --format=%an <%ae> [%ai] 1e304f0bff0931a1691aa55d5ce7be8c40a7fb5a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 7885c363ee92b361a28295eb6a99f07e9dfbe712
+> git show -s --format=%an <%ae> [%ai] c4c91052fb60ac1b541729f0033439e32872c574
+> git show -s --format=%an <%ae> [%ai] a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1e304f0bff0931a1691aa55d5ce7be8c40a7fb5a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 146cfda2362ffce7a672f311317c2a53d3060631
+> git show -s --format=%an <%ae> [%ai] 02042cd1a313c6eadb50d85493f9c0e5007371c1
+> git show -s --format=%an <%ae> [%ai] f083c7367c7df44a83794d5dd27effc0c8dc18c0
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 146cfda2362ffce7a672f311317c2a53d3060631
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 65c47056d0efd5cc4ee202dafc951e570f6a7639
+> git show -s --format=%an <%ae> [%ai] 567835e4bfedb53290f2b99c710375bff2980cac
+> git show -s --format=%an <%ae> [%ai] a17b8499c6999ff138bc02eb2ecb8ce75843565a
+> git show -s --format=%an <%ae> [%ai] 7c2d2ebec21226f3d87f7ba1af4292eb798f20d6
+> git show -s --format=%an <%ae> [%ai] 7885c363ee92b361a28295eb6a99f07e9dfbe712
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f083c7367c7df44a83794d5dd27effc0c8dc18c0
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 02042cd1a313c6eadb50d85493f9c0e5007371c1
+> git show -s --format=%an <%ae> [%ai] 567835e4bfedb53290f2b99c710375bff2980cac
+> git show -s --format=%an <%ae> [%ai] a17b8499c6999ff138bc02eb2ecb8ce75843565a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 567835e4bfedb53290f2b99c710375bff2980cac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a17b8499c6999ff138bc02eb2ecb8ce75843565a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 7885c363ee92b361a28295eb6a99f07e9dfbe712
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c4c91052fb60ac1b541729f0033439e32872c574
+> git show -s --format=%an <%ae> [%ai] e7bdd38ecce93b96a7eb3b42367da43e0ef059cd
+> git show -s --format=%an <%ae> [%ai] 10cbc39c9df9bf21b23ef76446046c53e1b9dabd
+> git show -s --format=%an <%ae> [%ai] e7bdd38ecce93b96a7eb3b42367da43e0ef059cd
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 567835e4bfedb53290f2b99c710375bff2980cac
+> git show -s --format=%an <%ae> [%ai] 6de9e9de90972a8712ed62a47e9e48601bd6b0d4
+> git show -s --format=%an <%ae> [%ai] a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%an <%ae> [%ai] c4c91052fb60ac1b541729f0033439e32872c574
+> git show -s --format=%an <%ae> [%ai] a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%an <%ae> [%ai] e7bdd38ecce93b96a7eb3b42367da43e0ef059cd
+> git show -s --format=%an <%ae> [%ai] 19a73b70754061875226deef581812039761973a
+> git show -s --format=%an <%ae> [%ai] 567835e4bfedb53290f2b99c710375bff2980cac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a17b8499c6999ff138bc02eb2ecb8ce75843565a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 6de9e9de90972a8712ed62a47e9e48601bd6b0d4
+> git show -s --format=%an <%ae> [%ai] 6de9e9de90972a8712ed62a47e9e48601bd6b0d4
+> git show -s --format=%an <%ae> [%ai] a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%an <%ae> [%ai] 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%an <%ae> [%ai] fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e7bdd38ecce93b96a7eb3b42367da43e0ef059cd
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e7bdd38ecce93b96a7eb3b42367da43e0ef059cd
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 10cbc39c9df9bf21b23ef76446046c53e1b9dabd
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 7c2d2ebec21226f3d87f7ba1af4292eb798f20d6
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 6de9e9de90972a8712ed62a47e9e48601bd6b0d4
+> git show -s --format=%an <%ae> [%ai] 52149563dbbfd6afeae377254a4d2422b558210f
+> git show -s --format=%an <%ae> [%ai] b98643cf0a627207300f551372ef3c820731460e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c4c91052fb60ac1b541729f0033439e32872c574
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%an <%ae> [%ai] 567835e4bfedb53290f2b99c710375bff2980cac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 567835e4bfedb53290f2b99c710375bff2980cac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 19a73b70754061875226deef581812039761973a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e7bdd38ecce93b96a7eb3b42367da43e0ef059cd
+> git show -s --format=%an <%ae> [%ai] 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%an <%ae> [%ai] fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b98643cf0a627207300f551372ef3c820731460e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52149563dbbfd6afeae377254a4d2422b558210f
+> git show -s --format=%an <%ae> [%ai] 52149563dbbfd6afeae377254a4d2422b558210f
+> git show -s --format=%an <%ae> [%ai] b98643cf0a627207300f551372ef3c820731460e
+> git show -s --format=%an <%ae> [%ai] a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%an <%ae> [%ai] 77a9b631928b3eb627de9be5a7d297b7ef3ad6e2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%an <%ae> [%ai] c41356be58193e4f4752a23050b77f4fbcda049b
+> git show -s --format=%an <%ae> [%ai] 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%an <%ae> [%ai] c41356be58193e4f4752a23050b77f4fbcda049b
+> git show -s --format=%an <%ae> [%ai] 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%an <%ae> [%ai] e7bdd38ecce93b96a7eb3b42367da43e0ef059cd
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 567835e4bfedb53290f2b99c710375bff2980cac
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 77a9b631928b3eb627de9be5a7d297b7ef3ad6e2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b98643cf0a627207300f551372ef3c820731460e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52149563dbbfd6afeae377254a4d2422b558210f
+> git show -s --format=%an <%ae> [%ai] a04597d7eafbefed1b861efc6f12b57b3dae5df2
+> git show -s --format=%an <%ae> [%ai] 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%an <%ae> [%ai] 5079c68e25733e705ee1896230bd29aab605ff0b
+> git show -s --format=%an <%ae> [%ai] 839a5cfedeb33fbeed62b2d0ce108d6c6dcd3bfd
+> git show -s --format=%an <%ae> [%ai] 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%an <%ae> [%ai] fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%an <%ae> [%ai] 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%an <%ae> [%ai] fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%an <%ae> [%ai] 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%an <%ae> [%ai] fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%an <%ae> [%ai] c41356be58193e4f4752a23050b77f4fbcda049b
+> git show -s --format=%an <%ae> [%ai] 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%an <%ae> [%ai] 6de9e9de90972a8712ed62a47e9e48601bd6b0d4
+> git show -s --format=%an <%ae> [%ai] a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%an <%ae> [%ai] a42d9522c0803198c20f18db66b64d1fe8c14f8c
+> git show -s --format=%an <%ae> [%ai] 1fd8c1ffc22c2e1398777e2ade161c5fda8bd134
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%an <%ae> [%ai] 1e694b285f7919417d10e6f9075662c658e3722a
+> git show -s --format=%an <%ae> [%ai] 3832e1e8b2304cbf8d0f93c137a4350e24c3a23d
+> git show -s --format=%an <%ae> [%ai] 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%an <%ae> [%ai] a2036ae867c9f2b65d4498c5995010cd4bb4031e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 839a5cfedeb33fbeed62b2d0ce108d6c6dcd3bfd
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5079c68e25733e705ee1896230bd29aab605ff0b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a04597d7eafbefed1b861efc6f12b57b3dae5df2
+> git show -s --format=%an <%ae> [%ai] a04597d7eafbefed1b861efc6f12b57b3dae5df2
+> git show -s --format=%an <%ae> [%ai] 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%an <%ae> [%ai] 5079c68e25733e705ee1896230bd29aab605ff0b
+> git show -s --format=%an <%ae> [%ai] 839a5cfedeb33fbeed62b2d0ce108d6c6dcd3bfd
+> git show -s --format=%an <%ae> [%ai] fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%an <%ae> [%ai] 29c3d720c864bcac8eecbeb095a2f976f544dd41
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c41356be58193e4f4752a23050b77f4fbcda049b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c41356be58193e4f4752a23050b77f4fbcda049b
+> git show -s --format=%an <%ae> [%ai] 6de9e9de90972a8712ed62a47e9e48601bd6b0d4
+> git show -s --format=%an <%ae> [%ai] a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%an <%ae> [%ai] 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%an <%ae> [%ai] fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%an <%ae> [%ai] 65c47056d0efd5cc4ee202dafc951e570f6a7639
+> git show -s --format=%an <%ae> [%ai] 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%an <%ae> [%ai] 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%an <%ae> [%ai] a2036ae867c9f2b65d4498c5995010cd4bb4031e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e7bdd38ecce93b96a7eb3b42367da43e0ef059cd
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%an <%ae> [%ai] 1e694b285f7919417d10e6f9075662c658e3722a
+> git show -s --format=%an <%ae> [%ai] 3832e1e8b2304cbf8d0f93c137a4350e24c3a23d
+> git show -s --format=%an <%ae> [%ai] c41356be58193e4f4752a23050b77f4fbcda049b
+> git show -s --format=%an <%ae> [%ai] 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a2036ae867c9f2b65d4498c5995010cd4bb4031e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%an <%ae> [%ai] 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%an <%ae> [%ai] fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 65c47056d0efd5cc4ee202dafc951e570f6a7639
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 6de9e9de90972a8712ed62a47e9e48601bd6b0d4
+> git show -s --format=%an <%ae> [%ai] eaa1cabf24dd131fc2594f4f22b9e83c20861386
+> git show -s --format=%an <%ae> [%ai] e251192491a9a8596553285d986c827f38369d0b
+> git show -s --format=%an <%ae> [%ai] eaa1cabf24dd131fc2594f4f22b9e83c20861386
+> git show -s --format=%an <%ae> [%ai] e251192491a9a8596553285d986c827f38369d0b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 29c3d720c864bcac8eecbeb095a2f976f544dd41
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 839a5cfedeb33fbeed62b2d0ce108d6c6dcd3bfd
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5079c68e25733e705ee1896230bd29aab605ff0b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a04597d7eafbefed1b861efc6f12b57b3dae5df2
+> git show -s --format=%an <%ae> [%ai] 65c47056d0efd5cc4ee202dafc951e570f6a7639
+> git show -s --format=%an <%ae> [%ai] f6f9ab1b288ab06d5edbf936c3b7ac05b20f7e12
+> git show -s --format=%an <%ae> [%ai] a04597d7eafbefed1b861efc6f12b57b3dae5df2
+> git show -s --format=%an <%ae> [%ai] 8f040fb7831edf3cf1ad2ab9c88498ead28a88cc
+> git show -s --format=%an <%ae> [%ai] 40dcb23d9e0a6523fe43334e0c3abab0733be854
+> git show -s --format=%an <%ae> [%ai] 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%an <%ae> [%ai] a2036ae867c9f2b65d4498c5995010cd4bb4031e
+> git show -s --format=%an <%ae> [%ai] 1e694b285f7919417d10e6f9075662c658e3722a
+> git show -s --format=%an <%ae> [%ai] 3832e1e8b2304cbf8d0f93c137a4350e24c3a23d
+> git show -s --format=%an <%ae> [%ai] 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%an <%ae> [%ai] a2036ae867c9f2b65d4498c5995010cd4bb4031e
+> git show -s --format=%an <%ae> [%ai] 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%an <%ae> [%ai] a2036ae867c9f2b65d4498c5995010cd4bb4031e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a2036ae867c9f2b65d4498c5995010cd4bb4031e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3832e1e8b2304cbf8d0f93c137a4350e24c3a23d
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1e694b285f7919417d10e6f9075662c658e3722a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a59bee62746705116c6e247b5708f3618e46b1c4
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c41356be58193e4f4752a23050b77f4fbcda049b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1fd8c1ffc22c2e1398777e2ade161c5fda8bd134
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a42d9522c0803198c20f18db66b64d1fe8c14f8c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 6de9e9de90972a8712ed62a47e9e48601bd6b0d4
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a2036ae867c9f2b65d4498c5995010cd4bb4031e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a2036ae867c9f2b65d4498c5995010cd4bb4031e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3832e1e8b2304cbf8d0f93c137a4350e24c3a23d
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1e694b285f7919417d10e6f9075662c658e3722a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a2036ae867c9f2b65d4498c5995010cd4bb4031e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 74dbc71e03e6d0efba61c2d4e8e31c5e27d68459
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 40dcb23d9e0a6523fe43334e0c3abab0733be854
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8f040fb7831edf3cf1ad2ab9c88498ead28a88cc
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a04597d7eafbefed1b861efc6f12b57b3dae5df2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f6f9ab1b288ab06d5edbf936c3b7ac05b20f7e12
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 65c47056d0efd5cc4ee202dafc951e570f6a7639
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e251192491a9a8596553285d986c827f38369d0b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z eaa1cabf24dd131fc2594f4f22b9e83c20861386
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e251192491a9a8596553285d986c827f38369d0b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z eaa1cabf24dd131fc2594f4f22b9e83c20861386
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fef7278e07219b064c15e7105884c6046d080c9b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 7abb583e523bbd542f54fb8172cea5ebf8d38dc2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 14860d2a9f4b1907410d988ec9e0360c3112c946
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c41356be58193e4f4752a23050b77f4fbcda049b
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3832e1e8b2304cbf8d0f93c137a4350e24c3a23d
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1e694b285f7919417d10e6f9075662c658e3722a
+> git show --textconv :src/redux/modules/filters/reducers.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/redux/modules/filters/reducers.js
+> git cat-file -s bd0c9a1f3a6ed377e31098dd41a1a181d8216f8d
+> git ls-tree -l HEAD -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/.idea/dictionaries/jdej.xml
+> git cat-file -s cf9c916ddd032010115ca364aba44c1621260600
+> git show --textconv :src/redux/modules/filters/types.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/redux/modules/filters/types.js
+> git cat-file -s c2ffef526784114fea1a236d2e86511503d0e4b3
+> git show --textconv :src/components/FiltersWizard/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/components/FiltersWizard/index.js
+> git cat-file -s 3df396bfbdcc30f1d6fce4702214e9d2f35c1053
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/UI-2336-cdn-balancer-p2p-t refs/remotes/UI-2336-cdn-balancer-p2p-t
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/CDNBalancerP2P/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/index.js
+> git cat-file -s ffa0fc7d732e949a5090f41fbd4a59ac6e6660c7
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/CDNBalancerP2P/container/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/container/index.js
+> git cat-file -s 37621a701d90ae4ac50411046b29a2c2becbfa52
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/CDNBalancerP2P/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/index.js
+> git cat-file -s ffa0fc7d732e949a5090f41fbd4a59ac6e6660c7
+> git show --textconv :src/pages/CDNBalancerP2P/container/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/container/index.js
+> git cat-file -s 37621a701d90ae4ac50411046b29a2c2becbfa52
+> git show --textconv :src/pages/CDNBalancerP2P/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/index.js
+> git cat-file -s ffa0fc7d732e949a5090f41fbd4a59ac6e6660c7
+> git check-ignore -v -z --stdin
+> git fetch
+> git show --textconv :src/pages/CDNBalancerP2P/container/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/container/index.js
+> git cat-file -s 37621a701d90ae4ac50411046b29a2c2becbfa52
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/container/index.js
+> git cat-file -s 37621a701d90ae4ac50411046b29a2c2becbfa52
+> git show --textconv :src/pages/CDNBalancerP2P/container/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/UI-2336-cdn-balancer-p2p-t refs/remotes/UI-2336-cdn-balancer-p2p-t
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/container/index.js
+> git cat-file -s 37621a701d90ae4ac50411046b29a2c2becbfa52
+> git show --textconv :src/pages/CDNBalancerP2P/container/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/UI-2336-cdn-balancer-p2p-t refs/remotes/UI-2336-cdn-balancer-p2p-t
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/CDNBalancerP2PConfiguration/container/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2PConfiguration/container/index.js
+> git cat-file -s 613fadf22bc84899eeba686c6ac1901640e3bba9
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/qa refs/remotes/qa
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/CDNBalancerP2PConfiguration/container/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2PConfiguration/container/index.js
+> git cat-file -s 9ea88ad2a2098163dcb18d112c7ca600a5ed7be0
+From https://bitbucket.org/npaw/youbora
+   77a9b6319..61d99005e  hotfix     -> origin/hotfix
+ * [new tag]             v6.20.5    -> v6.20.5
+> git status -z -u
+> git show --textconv :src/pages/CDNBalancerP2P/container/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/container/index.js
+> git cat-file -s 37621a701d90ae4ac50411046b29a2c2becbfa52
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/qa refs/remotes/qa
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/CDNBalancerP2P/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/index.js
+> git cat-file -s ffa0fc7d732e949a5090f41fbd4a59ac6e6660c7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/qa refs/remotes/qa
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+From https://bitbucket.org/npaw/youbora
+   0fb76b258..570aaa36c  qa         -> origin/qa
+   fb445a4b5..8a5419015  develop    -> origin/develop
+   61d99005e..74f0b2da4  hotfix     -> origin/hotfix
+   e899f60c2..74f0b2da4  master     -> origin/master
+   1e304f0bf..02cdb65ad  preprod    -> origin/preprod
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/qa refs/remotes/qa
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/qa refs/remotes/qa
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+From https://bitbucket.org/npaw/youbora
+   d8dd015fe..30568a947  UI-3085-users---sample-manager-grouping -> origin/UI-3085-users---sample-manager-grouping
+   02cdb65ad..570aaa36c  preprod    -> origin/preprod
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/qa refs/remotes/qa
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/CDNBalancerP2P/container/index.js
+> git ls-files --stage -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/container/index.js
+> git cat-file -s 37621a701d90ae4ac50411046b29a2c2becbfa52
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/container/index.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /Users/jdej/dev/npaw/youbora/src/pages/CDNBalancerP2P/container/index.js

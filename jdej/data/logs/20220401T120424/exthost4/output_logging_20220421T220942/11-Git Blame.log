@@ -1,0 +1,75 @@
+[ 22:09:47 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:09:47 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh
+[ 22:09:47 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh": 1 commits
+[ 22:09:53 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:09:53 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh
+[ 22:09:53 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh": 1 commits
+[ 22:10:01 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:10:01 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh
+[ 22:10:02 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh": 2 commits
+[ 22:10:10 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:10:10 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.zshsetup
+[ 22:10:10 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.zshsetup": 2 commits
+[ 22:10:12 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:10:12 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.zsh-config
+[ 22:10:12 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.zsh-config": 5 commits
+[ 22:11:01 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:11:01 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.zsh-config
+[ 22:11:01 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.zsh-config": 5 commits
+[ 22:13:00 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:13:00 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.zsh-config
+[ 22:13:00 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.zsh-config": 5 commits
+[ 22:13:06 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:13:06 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/.homebrewsetup
+[ 22:13:06 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/.homebrewsetup": 3 commits
+[ 22:13:24 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:13:24 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/.history/zsh/.p10k_20201010165543.zsh
+[ 22:13:24 | error ] Error: fatal: no such path '.history/zsh/.p10k_20201010165543.zsh' in HEAD
+[ 22:13:27 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:13:27 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/.history/zsh/.p10k_20220421221001.zsh
+[ 22:13:27 | error ] Error: fatal: no such path '.history/zsh/.p10k_20220421221001.zsh' in HEAD
+[ 22:13:28 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:13:28 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/.history/zsh/.zsh-config_20201010165543
+[ 22:13:28 | error ] Error: fatal: no such path '.history/zsh/.zsh-config_20201010165543' in HEAD
+[ 22:13:30 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:13:30 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/.history/zsh/.zsh-config_20220421221300
+[ 22:13:30 | error ] Error: fatal: no such path '.history/zsh/.zsh-config_20220421221300' in HEAD
+[ 22:13:32 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:13:32 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh
+[ 22:13:32 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh": 2 commits
+[ 22:13:37 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:13:37 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/.history/zsh/.zsh-config_20220421221300
+[ 22:13:37 | error ] Error: fatal: no such path '.history/zsh/.zsh-config_20220421221300' in HEAD
+[ 22:14:02 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:14:02 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh
+[ 22:14:02 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/zsh/.p10k.zsh": 2 commits
+[ 22:14:48 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:14:48 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/git/jira-hook
+[ 22:14:48 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/git/jira-hook": 1 commits
+[ 22:15:13 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:15:13 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/git/.gitssh
+[ 22:15:13 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/git/.gitssh": 9 commits
+[ 22:15:18 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:15:18 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/git/.gitsetup
+[ 22:15:18 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/git/.gitsetup": 7 commits
+[ 22:15:20 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:15:20 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/git/.gitprofiles
+[ 22:15:20 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/git/.gitprofiles": 4 commits
+[ 22:16:33 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:16:33 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/vscode/.vscodesetup
+[ 22:16:33 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/vscode/.vscodesetup": 7 commits
+[ 22:20:36 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:20:36 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/vscode/settings.json
+[ 22:20:36 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/vscode/settings.json": 2 commits
+[ 22:20:40 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:20:40 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/vscode/settings.json
+[ 22:20:41 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/vscode/settings.json": 3 commits
+[ 22:23:21 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:23:21 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/vscode/.vscodesetup
+[ 22:23:21 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/vscode/.vscodesetup": 6 commits
+[ 22:24:26 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:24:26 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/vscode/.vscodesetup
+[ 22:24:26 | info ] Blamed "/Users/jdej/dev/jdej/dotfiles/vscode/.vscodesetup": 6 commits
+[ 22:24:30 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 22:24:30 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/jdej/dotfiles/.history/vscode/.vscodesetup_20220421222320
+[ 22:24:30 | error ] Error: fatal: no such path '.history/vscode/.vscodesetup_20220421222320' in HEAD

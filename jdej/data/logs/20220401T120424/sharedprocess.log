@@ -1,0 +1,172 @@
+[2022-04-01 12:04:27.714] [sharedprocess] [info] Starting worker process with pid 19179 (type: fileWatcher, window: 1).
+[2022-04-01 12:04:27.897] [sharedprocess] [info] Deleted from disk pkief.material-icon-theme /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/pkief.material-icon-theme-4.14.1
+[2022-04-01 12:04:28.519] [sharedprocess] [info] Deleted from disk wallabyjs.quokka-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wallabyjs.quokka-vscode-1.0.452
+[2022-04-01 12:04:28.522] [sharedprocess] [info] Deleted from disk wallabyjs.quokka-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wallabyjs.quokka-vscode-1.0.453
+[2022-04-01 12:04:30.309] [sharedprocess] [info] Getting Manifest... ms-vscode.vscode-typescript-tslint-plugin
+[2022-04-01 12:04:30.992] [sharedprocess] [info] Installing extension: ms-vscode.vscode-typescript-tslint-plugin
+[2022-04-01 12:04:31.808] [sharedprocess] [info] Downloaded extension: ms-vscode.vscode-typescript-tslint-plugin /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/ms-vscode.vscode-typescript-tslint-plugin-1.3.4
+[2022-04-01 12:04:32.032] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.e087b580-3280-498f-873a-2458c9b9d0f2: ms-vscode.vscode-typescript-tslint-plugin
+[2022-04-01 12:04:32.063] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/ms-vscode.vscode-typescript-tslint-plugin-1.3.4
+[2022-04-01 12:04:32.064] [sharedprocess] [info] Extracting completed. ms-vscode.vscode-typescript-tslint-plugin
+[2022-04-01 12:04:32.086] [sharedprocess] [info] Extension installed successfully: ms-vscode.vscode-typescript-tslint-plugin
+[2022-04-01 17:58:45.976] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-01 21:48:38.580] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-02 21:52:37.940] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-03 07:42:23.191] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-03 08:32:57.562] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-03 11:43:31.059] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-03 12:38:21.126] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-03 13:06:00.141] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-03 13:31:04.496] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-03 14:27:33.078] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-04 09:44:45.376] [sharedprocess] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-04-04 09:44:45.643] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2022-04-04 09:44:46.894] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.18
+[2022-04-04 09:44:47.326] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.812acd53-9d23-4c02-bf41-0be899e897be: visualstudioexptteam.vscodeintellicode
+[2022-04-04 09:44:47.353] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/visualstudioexptteam.vscodeintellicode-1.2.18
+[2022-04-04 09:44:47.355] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-04-04 09:44:47.378] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2022-04-04 20:09:36.268] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-04 20:26:50.233] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-05 00:10:05.312] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-05 02:48:49.306] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-05 12:36:50.033] [sharedprocess] [info] Starting worker process with pid 68457 (type: fileWatcher, window: 3).
+[2022-04-05 16:39:31.875] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-05 17:40:45.452] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-05 21:52:14.438] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-05 23:53:03.197] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-06 01:53:52.332] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-06 09:30:24.985] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-06 14:33:55.886] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-06 16:39:08.524] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-06 17:45:47.122] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-06 18:15:53.067] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-06 18:19:50.415] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-07 02:40:41.959] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-07 08:32:59.714] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-07 10:43:45.307] [sharedprocess] [info] Getting Manifest... wallabyjs.quokka-vscode
+[2022-04-07 10:43:45.309] [sharedprocess] [info] Getting Manifest... wix.vscode-import-cost
+[2022-04-07 10:43:45.941] [sharedprocess] [info] Installing extension: wix.vscode-import-cost
+[2022-04-07 10:43:45.943] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2022-04-07 10:43:47.759] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/wallabyjs.quokka-vscode-1.0.456
+[2022-04-07 10:43:47.933] [sharedprocess] [info] Downloaded extension: wix.vscode-import-cost /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/wix.vscode-import-cost-3.1.0
+[2022-04-07 10:43:48.386] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.78b9df5c-bb9c-46e9-8679-6cfea3ec89b0: wix.vscode-import-cost
+[2022-04-07 10:43:48.417] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wix.vscode-import-cost-3.1.0
+[2022-04-07 10:43:48.420] [sharedprocess] [info] Extracting completed. wix.vscode-import-cost
+[2022-04-07 10:43:48.447] [sharedprocess] [info] Extension installed successfully: wix.vscode-import-cost
+[2022-04-07 10:43:51.341] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.d1c8cc2a-4816-4ee5-82eb-7f88b6d6b28d: wallabyjs.quokka-vscode
+[2022-04-07 10:43:51.364] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wallabyjs.quokka-vscode-1.0.456
+[2022-04-07 10:43:51.366] [sharedprocess] [info] Extracting completed. wallabyjs.quokka-vscode
+[2022-04-07 10:43:51.392] [sharedprocess] [info] Extension installed successfully: wallabyjs.quokka-vscode
+[2022-04-07 13:43:06.542] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-07 19:06:21.276] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-09 03:13:46.097] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-09 08:00:01.859] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-10 00:17:26.919] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-10 00:18:23.229] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-10 11:36:52.553] [sharedprocess] [info] Getting Manifest... tyriar.sort-lines
+[2022-04-10 11:36:52.558] [sharedprocess] [info] Installing extension: tyriar.sort-lines
+[2022-04-10 11:36:53.845] [sharedprocess] [info] Downloaded extension: tyriar.sort-lines /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/tyriar.sort-lines-1.9.1
+[2022-04-10 11:36:53.931] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.380e089f-6bbf-4130-91e9-911fa030f14c: tyriar.sort-lines
+[2022-04-10 11:36:53.954] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/tyriar.sort-lines-1.9.1
+[2022-04-10 11:36:53.956] [sharedprocess] [info] Extracting completed. tyriar.sort-lines
+[2022-04-10 11:36:53.958] [sharedprocess] [info] Extension installed successfully: tyriar.sort-lines
+[2022-04-10 12:52:19.562] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-10 17:52:48.253] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-10 18:28:58.521] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-10 19:13:09.422] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-10 23:09:51.984] [sharedprocess] [info] Getting Manifest... wix.vscode-import-cost
+[2022-04-10 23:09:52.792] [sharedprocess] [info] Installing extension: wix.vscode-import-cost
+[2022-04-10 23:09:54.366] [sharedprocess] [info] Downloaded extension: wix.vscode-import-cost /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/wix.vscode-import-cost-3.3.0
+[2022-04-10 23:09:54.737] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.21cfb45e-3f4a-4df1-b68d-c4f575477c61: wix.vscode-import-cost
+[2022-04-10 23:09:54.762] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wix.vscode-import-cost-3.3.0
+[2022-04-10 23:09:54.764] [sharedprocess] [info] Extracting completed. wix.vscode-import-cost
+[2022-04-10 23:09:54.788] [sharedprocess] [info] Extension installed successfully: wix.vscode-import-cost
+[2022-04-11 05:31:40.343] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-11 10:57:12.580] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-11 11:23:55.560] [sharedprocess] [info] Getting Manifest... wallabyjs.quokka-vscode
+[2022-04-11 11:23:56.270] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2022-04-11 11:23:58.194] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/wallabyjs.quokka-vscode-1.0.457
+[2022-04-11 11:24:00.964] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.61e0a1e3-0775-4846-865c-74da779eaad4: wallabyjs.quokka-vscode
+[2022-04-11 11:24:00.998] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wallabyjs.quokka-vscode-1.0.457
+[2022-04-11 11:24:01.007] [sharedprocess] [info] Extracting completed. wallabyjs.quokka-vscode
+[2022-04-11 11:24:01.039] [sharedprocess] [info] Extension installed successfully: wallabyjs.quokka-vscode
+[2022-04-11 14:26:31.926] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-11 14:56:42.971] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-11 18:52:54.073] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-11 19:26:13.010] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-11 20:13:02.080] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-11 22:31:44.088] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-12 00:32:31.985] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-12 04:34:07.571] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-12 13:14:25.899] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-12 15:14:33.243] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-12 19:14:49.584] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-12 21:14:57.471] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-13 01:34:58.651] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-13 08:53:57.306] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-13 22:33:08.187] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-14 09:43:50.971] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-04-14 09:43:50.974] [sharedprocess] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-04-14 09:43:50.975] [sharedprocess] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-04-14 09:43:51.260] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-04-14 09:43:51.276] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2022-04-14 09:43:51.663] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-04-14 09:43:52.760] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/eamodio.gitlens-12.0.6
+[2022-04-14 09:43:52.906] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.19
+[2022-04-14 09:43:53.389] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.4280c045-be70-4738-ad54-b3973478f785: eamodio.gitlens
+[2022-04-14 09:43:53.446] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/eamodio.gitlens-12.0.6
+[2022-04-14 09:43:53.452] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-04-14 09:43:53.488] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-04-14 09:43:53.678] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.a467c100-3af0-40bf-aa5d-cf808841930c: visualstudioexptteam.vscodeintellicode
+[2022-04-14 09:43:53.701] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/visualstudioexptteam.vscodeintellicode-1.2.19
+[2022-04-14 09:43:53.704] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-04-14 09:43:53.726] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2022-04-14 09:43:57.376] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5527
+[2022-04-14 09:43:59.688] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.e7be9664-28cd-4bb4-90ad-3343308663ea: ms-vsliveshare.vsliveshare
+[2022-04-14 09:43:59.723] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/ms-vsliveshare.vsliveshare-1.0.5527
+[2022-04-14 09:43:59.731] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-04-14 09:43:59.763] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-04-14 14:51:33.792] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-14 15:28:50.549] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-14 15:46:25.525] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-14 18:54:17.064] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-15 22:34:49.308] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-16 09:18:09.086] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-16 19:31:55.961] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-16 21:32:43.935] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-17 12:56:51.537] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-18 07:27:19.010] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-18 07:29:14.650] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-18 19:29:24.405] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-19 08:30:43.363] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-19 19:24:02.847] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-19 19:32:53.476] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-21 11:17:17.480] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-21 19:47:56.296] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-21 22:09:41.284] [sharedprocess] [info] Starting worker process with pid 20281 (type: fileWatcher, window: 4).
+[2022-04-21 22:09:43.960] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-04-21 22:09:43.961] [sharedprocess] [info] Getting Manifest... wallabyjs.quokka-vscode
+[2022-04-21 22:09:44.715] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-04-21 22:09:44.739] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2022-04-21 22:09:46.259] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/pkief.material-icon-theme-4.16.0
+[2022-04-21 22:09:46.685] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/data/CachedExtensionVSIXs/wallabyjs.quokka-vscode-1.0.459
+[2022-04-21 22:09:47.573] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.f2e9adc1-8cd8-44c1-a83c-c2d29a6802ec: pkief.material-icon-theme
+[2022-04-21 22:09:47.588] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/pkief.material-icon-theme-4.16.0
+[2022-04-21 22:09:47.590] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-04-21 22:09:47.726] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-04-21 22:09:50.762] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/.90d9b980-62c6-4a29-bf60-6dc30dd3682f: wallabyjs.quokka-vscode
+[2022-04-21 22:09:50.787] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wallabyjs.quokka-vscode-1.0.459
+[2022-04-21 22:09:50.790] [sharedprocess] [info] Extracting completed. wallabyjs.quokka-vscode
+[2022-04-21 22:09:50.814] [sharedprocess] [info] Extension installed successfully: wallabyjs.quokka-vscode
+[2022-04-21 22:19:37.190] [sharedprocess] [info] Uninstalling extension: chakrounanas.turbo-console-log
+[2022-04-21 22:19:37.441] [sharedprocess] [info] Detected extension removed from another source chakrounanas.turbo-console-log
+[2022-04-21 22:19:37.600] [sharedprocess] [info] Successfully uninstalled extension: chakrounanas.turbo-console-log
+[2022-04-21 22:20:11.640] [sharedprocess] [info] Uninstalling extension: coenraads.bracket-pair-colorizer-2
+[2022-04-21 22:20:11.883] [sharedprocess] [info] Detected extension removed from another source coenraads.bracket-pair-colorizer-2
+[2022-04-21 22:20:12.047] [sharedprocess] [info] Successfully uninstalled extension: coenraads.bracket-pair-colorizer-2
+[2022-04-21 22:24:06.894] [sharedprocess] [info] Uninstalling extension: xyz.local-history
+[2022-04-21 22:24:07.133] [sharedprocess] [info] Detected extension removed from another source xyz.local-history
+[2022-04-21 22:24:07.738] [sharedprocess] [info] Successfully uninstalled extension: xyz.local-history
+[2022-04-21 22:24:57.441] [sharedprocess] [info] Worker process with pid 20281 terminated normally (type: fileWatcher, window: 4).
+[2022-04-21 22:24:57.722] [sharedprocess] [info] Worker process with pid 68457 terminated normally (type: fileWatcher, window: 3).

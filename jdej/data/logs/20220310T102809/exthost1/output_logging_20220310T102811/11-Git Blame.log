@@ -1,0 +1,69 @@
+[ 10:28:38 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 10:28:39 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/OnClickAction.ts
+[ 10:28:39 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/OnClickAction.ts": 1 commits
+[ 10:28:43 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 10:28:43 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/User.ts
+[ 10:28:43 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/User.ts": 3 commits
+[ 10:28:47 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 10:28:47 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/VideoCredential.ts
+[ 10:28:47 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/VideoCredential.ts": 2 commits
+[ 10:29:59 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 10:29:59 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/VisibilityStats.ts
+[ 10:29:59 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/VisibilityStats.ts": 2 commits
+[ 10:30:07 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 10:30:07 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/VisibilityStatus.ts
+[ 10:30:07 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/VisibilityStatus.ts": 1 commits
+[ 10:30:17 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 10:30:17 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/Admin.ts
+[ 10:30:17 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/Admin.ts": 1 commits
+[ 10:30:43 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 10:30:43 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/stores/appStore.ts
+[ 10:30:44 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/stores/appStore.ts": 10 commits
+[ 10:41:16 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 10:41:16 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/stores/appStore.ts
+[ 10:41:17 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/stores/appStore.ts": 10 commits
+[ 10:41:20 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 10:41:20 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 10:41:20 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/index.ts
+[ 10:41:20 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/GameStats.ts
+[ 10:41:20 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/GameStats.ts": 2 commits
+[ 10:41:20 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/index.ts": 11 commits
+[ 11:02:18 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 11:02:18 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/index.tsx
+[ 11:02:19 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/index.tsx": 6 commits
+[ 11:02:32 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 11:02:32 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/index.tsx
+[ 11:02:32 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/index.tsx": 6 commits
+[ 11:02:33 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 11:02:33 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/App.tsx
+[ 11:02:33 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/App.tsx": 4 commits
+[ 11:02:35 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 11:02:35 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/components/Home.tsx
+[ 11:02:35 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/components/Home.tsx": 8 commits
+[ 11:02:39 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 11:02:39 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/components/Home.tsx
+[ 11:02:39 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/components/Home.tsx": 8 commits
+[ 11:02:48 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 11:02:48 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/components/Home.tsx
+[ 11:02:48 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/components/Home.tsx": 8 commits
+[ 11:02:48 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 11:02:48 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/components/camlist/CamList.tsx
+[ 11:02:48 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/components/camlist/CamList.tsx": 8 commits
+[ 11:02:50 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 11:02:50 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/components/camlist/CamList.tsx
+[ 11:02:50 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/components/camlist/CamList.tsx": 8 commits
+[ 11:03:45 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 11:03:45 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/stores/previewStore.ts
+[ 11:03:45 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/stores/previewStore.ts": 8 commits
+[ 11:18:48 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 11:18:48 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/Show.ts
+[ 11:18:48 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/Show.ts": 5 commits
+[ 13:10:39 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 13:10:39 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/Show.ts
+[ 13:10:39 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/Show.ts": 5 commits
+[ 13:19:12 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 13:19:12 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/Game.ts
+[ 13:19:12 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/Game.ts": 4 commits
+[ 21:34:49 | command ] /usr/local/bin/git rev-parse --git-dir
+[ 21:34:49 | command ] /usr/local/bin/git blame --incremental -- /Users/jdej/dev/vts/support-dashboard/src/domain/Game.ts
+[ 21:34:49 | info ] Blamed "/Users/jdej/dev/vts/support-dashboard/src/domain/Game.ts": 4 commits

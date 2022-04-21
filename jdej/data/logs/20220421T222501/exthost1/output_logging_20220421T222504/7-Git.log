@@ -1,0 +1,19 @@
+[2022-04-21T20:25:07.460Z] Validating found git in: /usr/local/bin/git
+[2022-04-21T20:25:07.597Z] Using git 2.32.0 from /usr/local/bin/git
+[2022-04-21T20:25:07.613Z] > git rev-parse --git-dir [4ms]
+[2022-04-21T20:25:07.615Z] Open repository: /Users/jdej/dev/jdej/dotfiles
+[2022-04-21T20:25:07.637Z] > git symbolic-ref --short HEAD [5ms]
+[2022-04-21T20:25:07.646Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [7ms]
+[2022-04-21T20:25:07.696Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [48ms]
+[2022-04-21T20:25:07.697Z] > git remote --verbose [48ms]
+[2022-04-21T20:25:07.714Z] > git config --get commit.template [10ms]
+[2022-04-21T20:25:07.937Z] > git ls-files --stage -- /Users/jdej/dev/jdej/dotfiles/vscode/.vscodesetup [7ms]
+[2022-04-21T20:25:07.943Z] > git cat-file -s 8f99abf75e2c6dd029a6eb5eff0bd9fba1311d58 [4ms]
+[2022-04-21T20:25:09.212Z] > git config --global user.email [784ms]
+[2022-04-21T20:25:09.218Z] > git config --global user.name [4ms]
+[2022-04-21T20:25:09.728Z] > git symbolic-ref --short HEAD [7ms]
+[2022-04-21T20:25:09.817Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [84ms]
+[2022-04-21T20:25:09.826Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-04-21T20:25:09.827Z] > git remote --verbose [7ms]
+[2022-04-21T20:25:09.842Z] > git config --get commit.template [12ms]
+[2022-04-21T20:25:09.852Z] > git show -s --format=%an <%ae> [%ai] 55fe81e7c7a976f7904883796c75b7288574789b [7ms]

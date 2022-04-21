@@ -1,0 +1,56 @@
+[2022-04-05 10:44:12.436] [GIT  ] [/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib] git rev-parse --show-toplevel • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 10 ms
+
+[2022-04-07 12:20:04.969] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- src/WebStorageManager.test.ts • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- src/WebStorageManager.test.ts • bad revision '0000000000000000000000000000000000000000-' • 7 ms
+
+[2022-04-07 12:40:48.122] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 8,8:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 8,8:README.md • file README.md has only 2 lines • 7 ms
+
+[2022-04-07 12:44:02.590] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-07 12:51:04.150] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 18,18:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 18,18:README.md • file README.md has only 2 lines • 7 ms
+
+[2022-04-07 12:56:04.372] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-07 12:58:11.098] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 13,13:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 13,13:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-07 13:03:23.458] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 25,25:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 25,25:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-07 13:13:57.508] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:README.md • file README.md has only 2 lines • 7 ms
+
+[2022-04-07 13:43:35.969] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 13,13:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 13,13:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-07 13:44:33.469] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 30,30:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 30,30:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-07 13:46:57.745] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 18,18:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 18,18:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-07 13:57:23.265] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 17,17:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-07 14:04:51.554] [GIT  ] [/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib] git rev-parse --show-toplevel • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 5 ms
+
+[2022-04-07 14:04:59.200] [GIT  ] [/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib] git rev-parse --show-toplevel • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 7 ms
+
+[2022-04-07 14:26:30.971] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 58,58:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 58,58:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-07 14:41:59.426] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 18,18:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 18,18:README.md • file README.md has only 2 lines • 7 ms
+
+[2022-04-08 13:51:51.082] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 25,25:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 25,25:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-10 07:31:44.593] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 20,20:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 20,20:README.md • file README.md has only 2 lines • 7 ms
+
+[2022-04-10 07:35:39.546] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 32,32:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 32,32:README.md • file README.md has only 2 lines • 7 ms
+
+[2022-04-10 08:10:09.201] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 51,51:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 51,51:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-10 08:12:01.220] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 55,55:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 55,55:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-10 08:12:19.845] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 63,63:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 63,63:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-10 08:14:32.859] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 58,58:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 58,58:README.md • file README.md has only 2 lines • 7 ms
+
+[2022-04-10 08:15:32.149] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 64,64:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 64,64:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-10 08:15:45.657] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 60,60:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 60,60:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-10 08:21:42.780] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 57,57:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 57,57:README.md • file README.md has only 2 lines • 6 ms
+
+[2022-04-10 08:22:03.473] [GIT  ] [/Users/jdej/dev/jdej/WebStorageManager] git log --format=%x3cr%x3e%x20%H -n3 -m -L 69,69:README.md • Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 69,69:README.md • file README.md has only 2 lines • 6 ms
+

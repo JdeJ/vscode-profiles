@@ -1,0 +1,10 @@
+[2021-04-16 09:31:22:697] [/Users/jdej/Library/Caches/typescript/4.2/node_modules/@types/react-grid-layout] Git Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 7 ms 
+[2021-04-16 11:04:54:980] Warning(/usr/local/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --name-status -M --no-ext-diff --diff-filter=RC HEAD v6.7.0 --): warning: inexact rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 973 and retry the command.
+
+[2021-04-16 11:04:55:049] Warning(/usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv 1c28fa22428f2c2bb93e5b3543145515171b1e77:./src/helpers/widgets/getEchartOptionsForMap.js --): 
+[2021-04-16 11:11:31:124] Warning(/usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv v6.7.0:./.vscode/settings.json --): 
+[2021-04-16 11:11:31:131] Warning(/usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv v6.7.0:./.vscode/launch.json --): 
+[2021-04-16 11:11:31:872] Warning(/usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv v6.7.0:./.vscode/launch.json --): 
+[2021-04-16 11:11:31:872] Warning(/usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv v6.7.0:./.vscode/settings.json --): 
+[2021-04-16 11:11:31:872] Warning(/usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv v6.7.0:./.vscode/extensions.json --): 

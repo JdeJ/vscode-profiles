@@ -1,0 +1,117 @@
+[2022-01-10 11:43:39.875] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2022-01-10 11:43:39.878] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-01-10 11:43:39.915] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2022-01-10 11:43:39.917] [sharedprocess] [info] Installing extension: gruntfuggly.todo-tree
+[2022-01-10 11:43:39.956] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-01-10 11:43:39.963] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2022-01-10 11:43:39.971] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2022-01-10 11:43:39.980] [sharedprocess] [info] Installing extension: donjayamanne.githistory
+[2022-01-10 11:43:40.014] [sharedprocess] [info] Installing extension: atlassian.atlascode
+[2022-01-10 11:43:40.015] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-01-10 11:43:40.043] [sharedprocess] [info] Installing extension: christian-kohler.path-intellisense
+[2022-01-10 11:43:40.057] [sharedprocess] [info] Installing extension: rvest.vs-code-prettier-eslint
+[2022-01-10 11:43:40.076] [sharedprocess] [info] Installing extension: aeschli.vscode-css-formatter
+[2022-01-10 11:43:42.522] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/pkief.material-icon-theme-4.11.0
+[2022-01-10 11:43:42.562] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.2
+[2022-01-10 11:43:42.592] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/eamodio.gitlens-11.7.0
+[2022-01-10 11:43:42.618] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-2-0.2.2
+[2022-01-10 11:43:42.651] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/redhat.vscode-yaml-1.2.2
+[2022-01-10 11:43:42.821] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.f507c855-a5ad-4d34-9882-b413dc06cad7: redhat.vscode-yaml
+[2022-01-10 11:43:42.849] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/redhat.vscode-yaml-1.2.2
+[2022-01-10 11:43:42.852] [sharedprocess] [info] Extracting completed. redhat.vscode-yaml
+[2022-01-10 11:43:42.877] [sharedprocess] [info] Extension installed successfully: redhat.vscode-yaml
+[2022-01-10 11:43:42.915] [sharedprocess] [info] Downloaded extension: gruntfuggly.todo-tree /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/gruntfuggly.todo-tree-0.0.214
+[2022-01-10 11:43:42.950] [sharedprocess] [info] Downloaded extension: aeschli.vscode-css-formatter /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/aeschli.vscode-css-formatter-1.0.2
+[2022-01-10 11:43:42.975] [sharedprocess] [info] Downloaded extension: donjayamanne.githistory /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/donjayamanne.githistory-0.6.19
+[2022-01-10 11:43:42.996] [sharedprocess] [info] Downloaded extension: christian-kohler.path-intellisense /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.6.0
+[2022-01-10 11:43:43.031] [sharedprocess] [info] Downloaded extension: msjsdiag.debugger-for-chrome /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/msjsdiag.debugger-for-chrome-4.13.0
+[2022-01-10 11:43:43.069] [sharedprocess] [info] Downloaded extension: atlassian.atlascode /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/atlassian.atlascode-2.10.1
+[2022-01-10 11:43:43.132] [sharedprocess] [info] Downloaded extension: rvest.vs-code-prettier-eslint /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/rvest.vs-code-prettier-eslint-3.1.0
+[2022-01-10 11:43:43.134] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.715425ab-a004-4695-92c3-b4a8eca9c81f: aeschli.vscode-css-formatter
+[2022-01-10 11:43:43.178] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/aeschli.vscode-css-formatter-1.0.2
+[2022-01-10 11:43:43.182] [sharedprocess] [info] Extracting completed. aeschli.vscode-css-formatter
+[2022-01-10 11:43:43.214] [sharedprocess] [info] Extension installed successfully: aeschli.vscode-css-formatter
+[2022-01-10 11:43:43.320] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.d62a5e76-d8dd-4268-96eb-3c1c0914d10e: coenraads.bracket-pair-colorizer-2
+[2022-01-10 11:43:43.367] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/coenraads.bracket-pair-colorizer-2-0.2.2
+[2022-01-10 11:43:43.368] [sharedprocess] [info] Extracting completed. coenraads.bracket-pair-colorizer-2
+[2022-01-10 11:43:43.401] [sharedprocess] [info] Extension installed successfully: coenraads.bracket-pair-colorizer-2
+[2022-01-10 11:43:43.513] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.ac2b50b6-f66e-43b1-805d-98793a9ef6e9: gruntfuggly.todo-tree
+[2022-01-10 11:43:43.514] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.d7453a59-d35c-4070-a5b0-cf76ad57e0dc: rvest.vs-code-prettier-eslint
+[2022-01-10 11:43:43.586] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/gruntfuggly.todo-tree-0.0.214
+[2022-01-10 11:43:43.588] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/rvest.vs-code-prettier-eslint-3.1.0
+[2022-01-10 11:43:43.591] [sharedprocess] [info] Extracting completed. gruntfuggly.todo-tree
+[2022-01-10 11:43:43.594] [sharedprocess] [info] Extracting completed. rvest.vs-code-prettier-eslint
+[2022-01-10 11:43:43.627] [sharedprocess] [info] Extension installed successfully: gruntfuggly.todo-tree
+[2022-01-10 11:43:43.682] [sharedprocess] [info] Extension installed successfully: rvest.vs-code-prettier-eslint
+[2022-01-10 11:43:43.713] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.5dc72473-01f8-4db5-a96e-c27beafeab4d: donjayamanne.githistory
+[2022-01-10 11:43:43.755] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/donjayamanne.githistory-0.6.19
+[2022-01-10 11:43:43.772] [sharedprocess] [info] Extracting completed. donjayamanne.githistory
+[2022-01-10 11:43:43.810] [sharedprocess] [info] Extension installed successfully: donjayamanne.githistory
+[2022-01-10 11:43:43.842] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.e280b373-af43-478d-b197-3f00a127ccad: christian-kohler.path-intellisense
+[2022-01-10 11:43:43.884] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/christian-kohler.path-intellisense-2.6.0
+[2022-01-10 11:43:43.889] [sharedprocess] [info] Extracting completed. christian-kohler.path-intellisense
+[2022-01-10 11:43:43.959] [sharedprocess] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2022-01-10 11:43:43.997] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5242
+[2022-01-10 11:43:44.253] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.4efc1c8c-0483-478c-982e-57c3c78a2599: atlassian.atlascode
+[2022-01-10 11:43:44.285] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.1
+[2022-01-10 11:43:44.304] [sharedprocess] [info] Extracting completed. atlassian.atlascode
+[2022-01-10 11:43:44.341] [sharedprocess] [info] Extension installed successfully: atlassian.atlascode
+[2022-01-10 11:43:44.412] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.c57b31a9-8b51-4fa7-a16a-5da70d8158a2: eamodio.gitlens
+[2022-01-10 11:43:44.445] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0
+[2022-01-10 11:43:44.451] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-01-10 11:43:44.484] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-01-10 11:43:44.549] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.f9abea60-557d-4a3d-b243-84a65a4ea28f: dbaeumer.vscode-eslint
+[2022-01-10 11:43:44.576] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2
+[2022-01-10 11:43:44.579] [sharedprocess] [info] Extracting completed. dbaeumer.vscode-eslint
+[2022-01-10 11:43:44.617] [sharedprocess] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-01-10 11:43:45.732] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.d9ee5e57-b252-4201-93ce-7fa3c6d59c27: msjsdiag.debugger-for-chrome
+[2022-01-10 11:43:45.768] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/msjsdiag.debugger-for-chrome-4.13.0
+[2022-01-10 11:43:45.770] [sharedprocess] [info] Extracting completed. msjsdiag.debugger-for-chrome
+[2022-01-10 11:43:45.799] [sharedprocess] [info] Extension installed successfully: msjsdiag.debugger-for-chrome
+[2022-01-10 11:43:46.067] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.ab120f66-f44c-44ba-beb7-4b90e0d889d5: pkief.material-icon-theme
+[2022-01-10 11:43:46.091] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/pkief.material-icon-theme-4.11.0
+[2022-01-10 11:43:46.093] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-01-10 11:43:46.118] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-01-10 11:43:47.345] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.4d225340-ebbe-499e-beaf-dfa0c4a8c824: ms-vsliveshare.vsliveshare
+[2022-01-10 11:43:47.371] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/ms-vsliveshare.vsliveshare-1.0.5242
+[2022-01-10 11:43:47.374] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-01-10 11:43:47.400] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-01-10 12:10:39.608] [sharedprocess] [info] Uninstalling extension: coenraads.bracket-pair-colorizer-2
+[2022-01-10 12:10:40.018] [sharedprocess] [info] Detected extension removed from another source coenraads.bracket-pair-colorizer-2
+[2022-01-10 12:10:40.095] [sharedprocess] [info] Successfully uninstalled extension: coenraads.bracket-pair-colorizer-2
+[2022-01-10 18:33:11.714] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-10 18:49:59.418] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-10 19:07:03.378] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-10 21:48:21.434] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-11 13:40:28.978] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-11 18:23:42.045] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-11 18:41:39.789] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-11 21:04:27.293] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-11 22:56:14.756] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-11 23:46:59.880] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-11 23:47:56.025] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-12 00:22:29.895] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-12 02:23:17.866] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-13 08:00:02.423] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-13 10:53:57.033] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-13 11:15:53.142] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-13 12:35:19.305] [sharedprocess] [info] Installing extension: gruntfuggly.todo-tree
+[2022-01-13 12:35:19.746] [sharedprocess] [info] Installing extension: atlassian.atlascode
+[2022-01-13 12:35:20.180] [sharedprocess] [info] Downloaded extension: gruntfuggly.todo-tree /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/gruntfuggly.todo-tree-0.0.215
+[2022-01-13 12:35:20.270] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.c724797f-0115-4569-bf97-1b78f0ccacff: gruntfuggly.todo-tree
+[2022-01-13 12:35:20.316] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/gruntfuggly.todo-tree-0.0.215
+[2022-01-13 12:35:20.319] [sharedprocess] [info] Extracting completed. gruntfuggly.todo-tree
+[2022-01-13 12:35:20.341] [sharedprocess] [info] Extension installed successfully: gruntfuggly.todo-tree
+[2022-01-13 12:35:21.000] [sharedprocess] [info] Downloaded extension: atlassian.atlascode /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/atlassian.atlascode-2.10.2
+[2022-01-13 12:35:21.230] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.085a03c1-3fe5-4bb0-8639-6ac1a8e2b09b: atlassian.atlascode
+[2022-01-13 12:35:21.248] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.2
+[2022-01-13 12:35:21.250] [sharedprocess] [info] Extracting completed. atlassian.atlascode
+[2022-01-13 12:35:21.263] [sharedprocess] [info] Extension installed successfully: atlassian.atlascode
+[2022-01-13 21:33:05.943] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-14 00:38:18.742] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-14 13:55:28.834] [sharedprocess] [info] Installing extension: atlassian.atlascode
+[2022-01-14 13:55:30.250] [sharedprocess] [info] Downloaded extension: atlassian.atlascode /Users/jdej/dev/jdej/vscode-profiles/npaw/data/CachedExtensionVSIXs/atlassian.atlascode-2.10.3
+[2022-01-14 13:55:30.447] [sharedprocess] [info] Extracted extension to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/.b3b3764c-c1fd-4074-8fae-3630c04164fb: atlassian.atlascode
+[2022-01-14 13:55:30.473] [sharedprocess] [info] Renamed to /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/atlassian.atlascode-2.10.3
+[2022-01-14 13:55:30.475] [sharedprocess] [info] Extracting completed. atlassian.atlascode
+[2022-01-14 13:55:30.500] [sharedprocess] [info] Extension installed successfully: atlassian.atlascode

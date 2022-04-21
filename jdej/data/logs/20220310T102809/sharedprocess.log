@@ -1,0 +1,5 @@
+[2022-03-10 10:28:12.030] [sharedprocess] [info] Starting worker process with pid 92790 (type: fileWatcher, window: 1).
+[2022-03-10 10:28:12.210] [sharedprocess] [info] Deleted from disk eamodio.gitlens /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/eamodio.gitlens-11.7.0
+[2022-03-10 10:28:12.542] [sharedprocess] [info] Deleted from disk wallabyjs.quokka-vscode /Users/jdej/dev/jdej/vscode-profiles/jdej/exts/wallabyjs.quokka-vscode-1.0.449
+[2022-03-10 14:37:49.644] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-10 17:59:14.422] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

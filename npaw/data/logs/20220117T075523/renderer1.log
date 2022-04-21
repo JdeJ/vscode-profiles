@@ -1,0 +1,998 @@
+[2022-01-17 07:55:25.497] [renderer1] [error] [Extension Host] (node:6747) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-17 08:13:43.862] [renderer1] [error] [Extension Host] Warning: React version not specified in eslint-plugin-react settings. See https://github.com/yannickcr/eslint-plugin-react#configuration .
+[2022-01-17 09:48:30.126] [renderer1] [error] issue not found 7142857h-10
+[2022-01-17 09:55:57.428] [renderer1] [error] issue not found 7142857h-10
+[2022-01-17 10:23:51.397] [renderer1] [error] issue not found 4l-7
+[2022-01-17 10:44:58.116] [renderer1] [error] issue not found 48-29
+[2022-01-17 11:03:29.203] [renderer1] [error] issue not found 42857141zm11-6
+[2022-01-17 11:18:19.849] [renderer1] [error] Unable to read file 'git:/Users/jdej/dev/npaw/youbora/src/components/Icons/index.js?{"path":"/Users/jdej/dev/npaw/youbora/src/components/Icons/index.js","ref":"~"}' (Error: File not modified since): Error: Unable to read file 'git:/Users/jdej/dev/npaw/youbora/src/components/Icons/index.js?{"path":"/Users/jdej/dev/npaw/youbora/src/components/Icons/index.js","ref":"~"}' (Error: File not modified since)
+    at Ei.doReadFileStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:577:34796)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async u.doRead (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42314)
+    at async u.readStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42035)
+    at async sn.resolveFromFile (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2358:73209)
+[2022-01-17 12:06:38.856] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 12:34:06.636] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 14:31:17.007] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 14:31:18.278] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 14:31:29.847] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 14:41:33.538] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:00:23.470] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:00:29.096] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:00:29.354] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:00:29.533] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:00:29.734] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:00:29.994] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:00:30.193] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:00:35.255] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:00:36.604] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:00:40.095] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:00:44.206] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:00:48.853] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:00:50.582] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:00:54.602] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:00:56.255] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:00:58.769] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:01:01.198] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:01:02.233] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/CustomizeOptions/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:09:59.942] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:17:00.606] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:17:04.790] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:17:06.726] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:17:07.982] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:17:09.431] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:17:17.702] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:17:19.186] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:39:23.013] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:39:29.603] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:39:29.850] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:39:30.074] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:39:38.131] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:39:46.677] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:43:33.088] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:50:23.714] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:52:02.110] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 15:53:58.206] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:53:58.207] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:57:31.393] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 15:59:41.372] [renderer1] [error] Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 88,88:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+: Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 88,88:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+	at ChildProcess.exithandler (child_process.js:324:5)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2022-01-17 15:59:45.044] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 16:00:21.085] [renderer1] [error] Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 88,88:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+: Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 88,88:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js in the commit
+
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+	at ChildProcess.exithandler (child_process.js:324:5)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2022-01-17 16:02:44.390] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 16:03:07.711] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 16:03:29.361] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 16:04:13.957] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/constants/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 16:04:28.422] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 16:05:45.779] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 16:14:57.982] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-17 16:41:53.270] [renderer1] [info] Setting search error: XHR failed
+[2022-01-17 16:41:53.343] [renderer1] [info] Setting search error: XHR failed
+[2022-01-17 16:42:53.585] [renderer1] [info] Setting search error: XHR failed
+[2022-01-17 16:42:53.650] [renderer1] [info] Setting search error: XHR failed
+[2022-01-17 17:24:53.430] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 17:24:57.597] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 17:41:58.845] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-17 17:51:42.017] [renderer1] [error] <semantic> TypeScript Server Error (4.5.4)
+BADCLIENT: Bad error code, 7027 not found in range 1591..1597 (found: ); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"JsxText","errorCode":7027,"start":1591,"length":6}
+Error: BADCLIENT: Bad error code, 7027 not found in range 1591..1597 (found: ); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"JsxText","errorCode":7027,"start":1591,"length":6}
+    at doChange (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151134:26)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151117:96
+    at Function.ChangeTracker.with (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:144341:17)
+    at Object.getCodeActions (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151117:64)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145527:77
+    at Object.flatMap (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:522:25)
+    at Object.getFixes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145527:23)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160394:35
+    at Object.flatMap (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:522:25)
+    at Object.getCodeFixesAtPosition (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160392:23)
+    at IOSession.Session.getCodeFixes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171880:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170516:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.5.4)
+BADCLIENT: Bad error code, 7027 not found in range 1591..1597 (found: ); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"JsxText","errorCode":7027,"start":1591,"length":6}
+Error: BADCLIENT: Bad error code, 7027 not found in range 1591..1597 (found: ); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"JsxText","errorCode":7027,"start":1591,"length":6}
+    at doChange (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151134:26)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151117:96
+    at Function.ChangeTracker.with (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:144341:17)
+    at Object.getCodeActions (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151117:64)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145527:77
+    at Object.flatMap (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:522:25)
+    at Object.getFixes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145527:23)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160394:35
+    at Object.flatMap (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:522:25)
+    at Object.getCodeFixesAtPosition (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160392:23)
+    at IOSession.Session.getCodeFixes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171880:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170516:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:494353)
+	at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:488189)
+	at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:487046)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:486531
+	at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497282)
+	at Socket.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496929)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-18 07:55:13.483] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 09:57:57.021] [renderer1] [error] Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 108,108:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+: Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 108,108:src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js
+fatal: There is no path src/components/WidgetsWizard/components/WizardMetricsSelector/components/MetricSelector/components/FormattingRules/index.js in the commit
+
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+	at ChildProcess.exithandler (child_process.js:324:5)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2022-01-18 10:57:05.875] [renderer1] [info] Setting search error: XHR failed
+[2022-01-18 10:57:05.894] [renderer1] [info] Setting search error: XHR failed
+[2022-01-18 10:57:07.022] [renderer1] [info] Setting search error: XHR failed
+[2022-01-18 10:57:07.080] [renderer1] [info] Setting search error: XHR failed
+[2022-01-18 11:08:33.626] [renderer1] [info] Setting search error: XHR failed
+[2022-01-18 11:08:33.690] [renderer1] [info] Setting search error: XHR failed
+[2022-01-18 11:21:14.095] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 12:04:19.000] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 12:22:36.163] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 12:23:58.426] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 13:58:43.004] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 13:58:43.005] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 14:03:01.534] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 14:25:04.568] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 14:25:07.053] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 14:30:44.076] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 15:40:43.032] [renderer1] [error] Access token expired. Use your refresh token to obtain a new access token.
+[2022-01-18 16:17:18.281] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 16:17:47.618] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 16:18:58.343] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 22:06:05.606] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 22:06:09.172] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 22:45:38.481] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-18 23:24:40.067] [renderer1] [error] Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 172,172:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+: Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 172,172:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+	at ChildProcess.exithandler (child_process.js:324:5)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2022-01-18 23:24:47.922] [renderer1] [error] Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 171,171:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+: Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 171,171:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+	at ChildProcess.exithandler (child_process.js:324:5)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2022-01-18 23:25:50.055] [renderer1] [error] Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 182,182:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+: Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 182,182:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+	at ChildProcess.exithandler (child_process.js:324:5)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2022-01-18 23:25:55.966] [renderer1] [error] Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 187,187:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+: Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 187,187:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+	at ChildProcess.exithandler (child_process.js:324:5)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2022-01-18 23:26:23.306] [renderer1] [error] Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 187,187:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+: Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 187,187:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+	at ChildProcess.exithandler (child_process.js:324:5)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2022-01-18 23:29:26.275] [renderer1] [error] Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 105,105:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+: Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 105,105:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+	at ChildProcess.exithandler (child_process.js:324:5)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2022-01-19 10:55:04.519] [renderer1] [error] Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 161,161:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+: Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 161,161:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+	at ChildProcess.exithandler (child_process.js:324:5)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2022-01-19 10:55:13.955] [renderer1] [error] Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 161,161:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+: Error: Command failed: /usr/local/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 161,161:src/pages/AdminCDNLogConfiguration/index.js
+fatal: There is no path src/pages/AdminCDNLogConfiguration/index.js in the commit
+
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/eamodio.gitlens-11.7.0/dist/gitlens.js:66:39381
+	at ChildProcess.exithandler (child_process.js:324:5)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2022-01-19 15:14:18.913] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-19 15:17:03.770] [renderer1] [error] Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/modules/admin/index.js': Error: Request textDocument/codeAction failed with message: ENOENT: no such file or directory, realpath '/Users/jdej/dev/npaw/youbora/src/modules/admin/index.js'
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:52817
+	at /Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53111
+	at Immediate.<anonymous> (/Users/jdej/dev/jdej/vscode-profiles/npaw/exts/dbaeumer.vscode-eslint-2.2.2/client/out/extension.js:1:53476)
+	at processImmediate (internal/timers.js:461:21)
+[2022-01-19 15:21:38.616] [renderer1] [error] <semantic> TypeScript Server Error (4.5.4)
+BADCLIENT: Bad error code, 7027 not found in range 819..822 (found: false); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"QuestionToken","errorCode":7027,"start":819,"length":3}
+Error: BADCLIENT: Bad error code, 7027 not found in range 819..822 (found: false); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"QuestionToken","errorCode":7027,"start":819,"length":3}
+    at doChange (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151134:26)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151117:96
+    at Function.ChangeTracker.with (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:144341:17)
+    at Object.getCodeActions (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151117:64)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145527:77
+    at Object.flatMap (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:522:25)
+    at Object.getFixes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145527:23)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160394:35
+    at Object.flatMap (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:522:25)
+    at Object.getCodeFixesAtPosition (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160392:23)
+    at IOSession.Session.getCodeFixes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171880:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170516:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.5.4)
+BADCLIENT: Bad error code, 7027 not found in range 819..822 (found: false); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"QuestionToken","errorCode":7027,"start":819,"length":3}
+Error: BADCLIENT: Bad error code, 7027 not found in range 819..822 (found: false); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"QuestionToken","errorCode":7027,"start":819,"length":3}
+    at doChange (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151134:26)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151117:96
+    at Function.ChangeTracker.with (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:144341:17)
+    at Object.getCodeActions (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:151117:64)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145527:77
+    at Object.flatMap (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:522:25)
+    at Object.getFixes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145527:23)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160394:35
+    at Object.flatMap (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:522:25)
+    at Object.getCodeFixesAtPosition (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160392:23)
+    at IOSession.Session.getCodeFixes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171880:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170516:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:494353)
+	at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:488189)
+	at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:487046)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:486531
+	at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497282)
+	at Socket.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496929)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-19 16:20:46.716] [renderer1] [error] Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminUsageConsumptionOverview/styles' (Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminUsageConsumptionOverview/styles' that is actually a directory): Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminUsageConsumptionOverview/styles' (Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminUsageConsumptionOverview/styles' that is actually a directory)
+    at Ei.doReadFileStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:577:34849)
+    at async u.doRead (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42314)
+    at async u.readStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42035)
+    at async sn.resolveFromFile (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2358:73209)
+    at async o.doResolve (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:36878)
+    at async i.acquire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:17:32322)
+    at async g.createModelReference (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2358:85753)
+[2022-01-19 16:20:47.034] [renderer1] [error] Error: File is a directory
+    at i.handleSetInputError (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:114950)
+    at i.handleSetInputError (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:118873)
+    at i.setInput (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:114776)
+    at async n.doSetInput (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:35224)
+    at async n.doOpenEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33525)
+    at async n.openEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33151)
+    at async vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2525:17056
+    at async v.doOpenCodeEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1280:28972)
+    at async H._openReference (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:783:107208)
+    at async H._onResult (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:783:106937)
+[2022-01-19 16:20:48.047] [renderer1] [error] Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminUsageConsumptionOverview/styles' (Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminUsageConsumptionOverview/styles' that is actually a directory): Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminUsageConsumptionOverview/styles' (Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminUsageConsumptionOverview/styles' that is actually a directory)
+    at Ei.doReadFileStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:577:34849)
+    at async u.doRead (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42314)
+    at async u.readStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42035)
+    at async sn.resolveFromFile (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2358:73209)
+    at async o.doResolve (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:36878)
+    at async i.acquire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:17:32322)
+    at async g.createModelReference (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2358:85753)
+[2022-01-19 16:20:48.543] [renderer1] [error] Error: File is a directory
+    at i.handleSetInputError (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:114950)
+    at i.handleSetInputError (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:118873)
+    at i.setInput (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:114776)
+    at async n.doSetInput (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:35224)
+    at async n.doOpenEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33525)
+    at async n.openEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33151)
+    at async vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2525:17056
+    at async v.doOpenCodeEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1280:28972)
+    at async H._openReference (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:783:107208)
+    at async H._onResult (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:783:106937)
+[2022-01-19 22:30:34.654] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-19 22:31:04.306] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-19 22:58:13.907] [renderer1] [error] Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminCLevel/styles' (Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminCLevel/styles' that is actually a directory): Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminCLevel/styles' (Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/AdminCLevel/styles' that is actually a directory)
+    at Ei.doReadFileStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:577:34849)
+    at async u.doRead (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42314)
+    at async u.readStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42035)
+    at async sn.resolveFromFile (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2358:73209)
+    at async o.doResolve (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:36878)
+    at async i.acquire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:17:32322)
+    at async g.createModelReference (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2358:85753)
+[2022-01-19 22:58:14.341] [renderer1] [error] Error: File is a directory
+    at i.handleSetInputError (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:114950)
+    at i.handleSetInputError (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:118873)
+    at i.setInput (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:114776)
+    at async n.doSetInput (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:35224)
+    at async n.doOpenEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33525)
+    at async n.openEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33151)
+    at async vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2525:17056
+    at async v.doOpenCodeEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1280:28972)
+    at async H._openReference (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:783:107208)
+    at async H._onResult (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:783:106937)
+[2022-01-19 23:10:14.292] [renderer1] [error] <semantic> TypeScript Server Error (4.5.4)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158911:30)
+    at createChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158900:9)
+    at NodeObject.getChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158842:56)
+    at _loop_1 (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123788:36)
+    at getTokenAtPositionWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123839:27)
+    at getTouchingToken (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123774:16)
+    at Object.getTouchingPropertyName (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123766:16)
+    at Object.getQuickInfoAtPosition (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160091:27)
+    at IOSession.Session.getQuickInfoWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171441:62)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170335:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.5.4)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158911:30)
+    at createChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158900:9)
+    at NodeObject.getChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158842:56)
+    at _loop_1 (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123788:36)
+    at getTokenAtPositionWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123839:27)
+    at getTouchingToken (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123774:16)
+    at Object.getTouchingPropertyName (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123766:16)
+    at Object.getQuickInfoAtPosition (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160091:27)
+    at IOSession.Session.getQuickInfoWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171441:62)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170335:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:494353)
+	at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:488189)
+	at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:487046)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:486531
+	at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497282)
+	at Socket.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496929)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-19 23:10:14.370] [renderer1] [error] <semantic> TypeScript Server Error (4.5.4)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158911:30)
+    at createChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158900:9)
+    at NodeObject.getChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158842:56)
+    at _loop_1 (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123788:36)
+    at getTokenAtPositionWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123839:27)
+    at getTouchingToken (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123774:16)
+    at Object.getTouchingPropertyName (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123766:16)
+    at Object.getDocumentHighlights (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:131322:27)
+    at Object.getDocumentHighlights (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160176:42)
+    at IOSession.Session.getDocumentHighlights (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171194:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170496:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.5.4)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158911:30)
+    at createChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158900:9)
+    at NodeObject.getChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158842:56)
+    at _loop_1 (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123788:36)
+    at getTokenAtPositionWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123839:27)
+    at getTouchingToken (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123774:16)
+    at Object.getTouchingPropertyName (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123766:16)
+    at Object.getDocumentHighlights (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:131322:27)
+    at Object.getDocumentHighlights (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160176:42)
+    at IOSession.Session.getDocumentHighlights (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171194:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170496:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:494353)
+	at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:488189)
+	at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:487046)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:486531
+	at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497282)
+	at Socket.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496929)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-19 23:10:14.781] [renderer1] [error] <semantic> TypeScript Server Error (4.5.4)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158911:30)
+    at createChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158900:9)
+    at NodeObject.getChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158842:56)
+    at _loop_1 (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123788:36)
+    at getTokenAtPositionWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123839:27)
+    at Object.getTokenAtPosition (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123779:16)
+    at getInfo (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:154044:28)
+    at Object.getAvailableActions (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:154014:28)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145582:30
+    at getIterator (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:576:23)
+    at Object.flatMapIterator (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:559:27)
+    at Object.getApplicableRefactors (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145578:36)
+    at Object.getApplicableRefactors (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160855:32)
+    at IOSession.Session.getApplicableRefactors (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171825:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170534:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.5.4)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158911:30)
+    at createChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158900:9)
+    at NodeObject.getChildren (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:158842:56)
+    at _loop_1 (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123788:36)
+    at getTokenAtPositionWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123839:27)
+    at Object.getTokenAtPosition (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:123779:16)
+    at getInfo (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:154044:28)
+    at Object.getAvailableActions (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:154014:28)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145582:30
+    at getIterator (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:576:23)
+    at Object.flatMapIterator (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:559:27)
+    at Object.getApplicableRefactors (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:145578:36)
+    at Object.getApplicableRefactors (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:160855:32)
+    at IOSession.Session.getApplicableRefactors (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171825:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170534:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:494353)
+	at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:488189)
+	at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:487046)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:486531
+	at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497282)
+	at Socket.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496929)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-19 23:17:50.918] [renderer1] [error] <semantic> TypeScript Server Error (4.5.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163025:23)
+    at ScriptInfo.getDefaultProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163871:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166861:48)
+    at ProjectService.ensureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166856:75)
+    at IOSession.Session.getFileAndProjectWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171381:87)
+    at IOSession.Session.getFileAndProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171364:29)
+    at IOSession.Session.getEncodedSemanticClassifications (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170952:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170422:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.5.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163025:23)
+    at ScriptInfo.getDefaultProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163871:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166861:48)
+    at ProjectService.ensureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166856:75)
+    at IOSession.Session.getFileAndProjectWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171381:87)
+    at IOSession.Session.getFileAndProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171364:29)
+    at IOSession.Session.getEncodedSemanticClassifications (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170952:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170422:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:494353)
+	at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:488189)
+	at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:487046)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:486531
+	at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497282)
+	at Socket.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496929)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-19 23:17:52.563] [renderer1] [error] <semantic> TypeScript Server Error (4.5.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163025:23)
+    at ScriptInfo.getDefaultProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163871:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166861:48)
+    at ProjectService.ensureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166856:75)
+    at IOSession.Session.getFileAndProjectWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171381:87)
+    at IOSession.Session.getFileAndProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171364:29)
+    at IOSession.Session.getEncodedSemanticClassifications (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170952:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170422:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.5.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163025:23)
+    at ScriptInfo.getDefaultProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163871:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166861:48)
+    at ProjectService.ensureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166856:75)
+    at IOSession.Session.getFileAndProjectWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171381:87)
+    at IOSession.Session.getFileAndProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171364:29)
+    at IOSession.Session.getEncodedSemanticClassifications (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170952:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170422:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:494353)
+	at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:488189)
+	at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:487046)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:486531
+	at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497282)
+	at Socket.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496929)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-19 23:17:56.543] [renderer1] [error] <semantic> TypeScript Server Error (4.5.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163025:23)
+    at ScriptInfo.getDefaultProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163871:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166861:48)
+    at ProjectService.ensureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166856:75)
+    at IOSession.Session.getFileAndProjectWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171381:87)
+    at IOSession.Session.getFileAndProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171364:29)
+    at IOSession.Session.getEncodedSemanticClassifications (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170952:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170422:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.5.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163025:23)
+    at ScriptInfo.getDefaultProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:163871:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166861:48)
+    at ProjectService.ensureDefaultProjectForFile (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:166856:75)
+    at IOSession.Session.getFileAndProjectWorker (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171381:87)
+    at IOSession.Session.getFileAndProject (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:171364:29)
+    at IOSession.Session.getEncodedSemanticClassifications (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170952:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:170422:61)
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:494353)
+	at dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:488189)
+	at dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:487046)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:486531
+	at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:497282)
+	at Socket.<anonymous> (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:496929)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-19 23:20:31.195] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-19 23:20:40.588] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-19 23:20:43.365] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-19 23:27:48.769] [renderer1] [error] Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/Profile/styles' (Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/Profile/styles' that is actually a directory): Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/Profile/styles' (Error: Unable to read file '/Users/jdej/dev/npaw/youbora/src/pages/Profile/styles' that is actually a directory)
+    at Ei.doReadFileStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:577:34849)
+    at async u.doRead (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42314)
+    at async u.readStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42035)
+    at async sn.resolveFromFile (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2358:73209)
+    at async o.doResolve (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2369:36878)
+    at async i.acquire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:17:32322)
+    at async g.createModelReference (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2358:85753)
+[2022-01-19 23:27:49.164] [renderer1] [error] Error: File is a directory
+    at i.handleSetInputError (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:114950)
+    at i.handleSetInputError (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:118873)
+    at i.setInput (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:114776)
+    at async n.doSetInput (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:35224)
+    at async n.doOpenEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33525)
+    at async n.openEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33151)
+    at async vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2525:17056
+    at async v.doOpenCodeEditor (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1280:28972)
+    at async H._openReference (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:783:107208)
+    at async H._onResult (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:783:106937)
+[2022-01-20 11:31:59.379] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: eslint fix failed due to an eslint error
+[2022-01-20 11:37:53.212] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: eslint fix failed due to an eslint error
+[2022-01-20 11:51:57.990] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: eslint fix failed due to an eslint error
+[2022-01-20 11:52:08.461] [renderer1] [error] [Extension Host] Notification eslint/showOutputChannel defines 0 params but received 1 arguments
+[2022-01-20 12:16:08.033] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: eslint fix failed due to an eslint error
+[2022-01-20 12:17:13.200] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: eslint fix failed due to an eslint error
+[2022-01-20 12:39:01.018] [renderer1] [error] Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.: Error: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at E.toConfigurationEditingError (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1887:13054)
+    at E.validate (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1887:16822)
+    at E.doWriteConfiguration (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1887:9415)
+    at Object.factory (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1887:9249)
+    at b.consume (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:77:15641)
+    at vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:77:15456
+    at new Promise (<anonymous>)
+    at b.queue (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:77:15380)
+    at E.writeConfiguration (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1887:9234)
+    at P.writeConfigurationValue (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1887:42048)
+    at vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1887:27769
+    at Array.map (<anonymous>)
+    at P.updateValue (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1887:27757)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-01-20 14:26:17.640] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-20 14:26:32.615] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-20 14:26:34.481] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-20 15:47:37.282] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-20 15:48:45.754] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-21 12:17:15.960] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-21 12:28:00.092] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-21 13:22:28.694] [renderer1] [error] Illegal argument: Error: Illegal argument
+    at v (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:571:33320
+    at y.invokeFunction (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:574:319)
+    at y._tryExecuteCommand (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1482:3496)
+    at vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1482:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-01-21 13:33:13.963] [renderer1] [error] Access token expired. Use your refresh token to obtain a new access token.
+[2022-01-21 14:01:09.242] [renderer1] [error] [Extension Host] prettier-eslint [ERROR]: prettier formatting failed due to a prettier error
+[2022-01-22 08:18:15.940] [renderer1] [error] Access token expired. Use your refresh token to obtain a new access token.
+[2022-01-22 08:18:17.253] [renderer1] [error] Access token expired. Use your refresh token to obtain a new access token.

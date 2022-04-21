@@ -1,0 +1,23 @@
+[2022-03-10T09:26:04.489Z] Validating found git in: /usr/local/bin/git
+[2022-03-10T09:26:04.589Z] Using git 2.32.0 from /usr/local/bin/git
+[2022-03-10T09:26:04.687Z] > git rev-parse --git-dir [62ms]
+[2022-03-10T09:26:04.691Z] Open repository: /Users/jdej/dev/npaw/youbora-admin
+[2022-03-10T09:26:04.718Z] > git symbolic-ref --short HEAD [5ms]
+[2022-03-10T09:26:04.727Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/modules-improovements refs/remotes/modules-improovements [6ms]
+[2022-03-10T09:26:04.735Z] > git remote --verbose [5ms]
+[2022-03-10T09:26:04.736Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-03-10T09:26:04.744Z] > git config --get commit.template [4ms]
+[2022-03-10T09:26:06.909Z] > git config --global user.email [919ms]
+[2022-03-10T09:26:06.916Z] > git config --global user.name [5ms]
+[2022-03-10T09:26:07.383Z] > git symbolic-ref --short HEAD [241ms]
+[2022-03-10T09:26:07.458Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/modules-improovements refs/remotes/modules-improovements [72ms]
+[2022-03-10T09:26:07.464Z] > git fetch [2770ms]
+[2022-03-10T09:26:07.470Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2022-03-10T09:26:07.473Z] > git remote --verbose [11ms]
+[2022-03-10T09:26:07.510Z] > git config --get commit.template [33ms]
+[2022-03-10T09:26:07.564Z] > git show -s --format=%an <%ae> [%ai] 5310d1cca0531ad165dd9fb4af147544004f916a [48ms]
+[2022-03-10T09:26:07.588Z] > git symbolic-ref --short HEAD [46ms]
+[2022-03-10T09:26:07.599Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/modules-improovements refs/remotes/modules-improovements [9ms]
+[2022-03-10T09:26:07.632Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-03-10T09:26:07.632Z] > git remote --verbose [8ms]
+[2022-03-10T09:26:07.640Z] > git config --get commit.template [6ms]

@@ -1,0 +1,4 @@
+[2022-03-29 14:44:50.682] [renderer1] [error] [Extension Host] (node:66839) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Electron --trace-deprecation ...` to show where the warning was created)
+[2022-03-29 14:45:01.994] [renderer1] [error] [Extension Host] Extension `CoenraadS.bracket-pair-colorizer-2` is already registered
+[2022-03-29 14:45:01.995] [renderer1] [error] [Extension Host] Extension `johnpapa.vscode-peacock` is already registered
