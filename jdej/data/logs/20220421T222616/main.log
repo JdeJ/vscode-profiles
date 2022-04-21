@@ -16,3 +16,7 @@
 [2022-04-21 22:35:48.254] [main] [info] Starting extension host with pid 22478 (fork() took 1 ms).
 [2022-04-21 22:35:48.254] [main] [info] ExtensionHostStarterWorker.start() took 2 ms.
 [2022-04-21 22:39:20.061] [main] [info] Extension host with pid 22478 exited with code: 0, signal: null.
+[2022-04-21 22:42:01.766] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: editorOverrideService.cache Length: 266
+[2022-04-21 22:42:04.741] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: editorOverrideService.cache Length: 266
+[2022-04-21 22:43:01.763] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: editorOverrideService.cache Length: 266
+[2022-04-21 22:43:19.686] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: editorOverrideService.cache Length: 266
